@@ -15,6 +15,22 @@ The central theme is the **vise** that a top executive lives in:
 
 ---
 
+## Narrative spine
+
+**Core spine:** The Vise.
+
+Four CXOs believe they are trapped by the pressures above, below, and beside them, until a chance stay at the same hotel reveals that the vise is real, but each of them has been tightening it with an old wound.
+
+Supporting lenses:
+- **The Armor** — the survival masks: control, silence, humor, polish.
+- **No One at the Top** — the loneliness created by success and title.
+- **The Hotel** — the pressure chamber where hierarchy briefly breaks down.
+- **The Cost of Winning** — the private bill each character has paid for success: joy, confidence, time, truth.
+
+See `research/spine.md` for the full spine decision.
+
+---
+
 ## Genre and method
 
 - Fictional characters, but **based on real people** (composite characters): each is assembled from traits of several real people + invented details, so that no one recognizes himself entirely, but everyone recognizes the **pattern**.
