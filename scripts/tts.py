@@ -21,6 +21,8 @@ VOICE = "af_heart"          # Kokoro's top-graded (A) narrator voice
 LANG = "a"                  # American English
 SR = 24000
 GAP_SEC = 0.35              # silence between segments
+SCENE_GAP_SEC = 1.2         # silence at a scene break (--- in the markdown)
+BREAK = "\x00SCENEBREAK\x00"
 
 ONES = ["zero", "one", "two", "three", "four", "five", "six", "seven",
         "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen",
@@ -50,14 +52,17 @@ def build_text(md, title):
     out = []
     for ln in md.splitlines():
         s = ln.strip()
-        if not s or s == "---":
+        if not s:
+            continue
+        if s == "---":                                      # scene break / rule
+            out.append(BREAK)
+            continue
+        m = re.match(r"^#{1,6}\s*(\d+)\.\s*(.+)$", s)       # chapter heading
+        if m:
+            out.append(f"Chapter {num_to_words(int(m.group(1)))}. {m.group(2).strip()}.")
             continue
         if s.startswith("# "):                              # top title
             out.append(f"{title}.")
-            continue
-        m = re.match(r"^#{2,6}\s*(\d+)\.\s*(.+)$", s)       # chapter heading
-        if m:
-            out.append(f"Chapter {num_to_words(int(m.group(1)))}. {m.group(2).strip()}.")
             continue
         m = re.match(r"^#{2,6}\s*(.+)$", s)                 # other heading
         if m:
@@ -104,13 +109,22 @@ def main():
 
     pipeline = KPipeline(lang_code=LANG)
     gap = np.zeros(int(SR * GAP_SEC), dtype=np.float32)
+    scene_gap = np.zeros(int(SR * SCENE_GAP_SEC), dtype=np.float32)
     chunks = []
-    for i, (gs, ps, audio) in enumerate(pipeline(text, voice=VOICE, split_pattern=r"\n+")):
-        a = audio.detach().cpu().numpy() if hasattr(audio, "detach") else np.asarray(audio)
-        chunks.append(a.astype(np.float32))
-        chunks.append(gap)
-        print(f"  seg {i:>3}: {gs[:60]!r}")
-        sys.stdout.flush()
+    i = 0
+    scenes = [p.strip() for p in text.split(BREAK)]
+    for n, scene in enumerate(scenes):
+        if not scene:
+            continue
+        if n:
+            chunks.append(scene_gap)
+        for gs, ps, audio in pipeline(scene, voice=VOICE, split_pattern=r"\n+"):
+            a = audio.detach().cpu().numpy() if hasattr(audio, "detach") else np.asarray(audio)
+            chunks.append(a.astype(np.float32))
+            chunks.append(gap)
+            print(f"  seg {i:>3}: {gs[:60]!r}")
+            sys.stdout.flush()
+            i += 1
 
     full = np.concatenate(chunks)
     os.makedirs(os.path.dirname(out_mp3) or ".", exist_ok=True)
