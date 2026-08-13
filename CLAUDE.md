@@ -6,6 +6,8 @@ Working notes for the CXO novel ("The Vise").
 
 - `research/` — outlines, spine, character architecture, genre analysis. The working material.
   `research/canon.md` fixes the names/places/continuity the draft follows.
+- `reference/` — one file per POV character: voice register, authors, prosody. Read the
+  relevant file before writing or editing that character's chapters. See the style section.
 - `book/` — the draft itself: one file per chapter, `chapter-01.md` … `chapter-27.md`.
   A chapter file holds the chapter and nothing else (see below). **27 chapters, not the
   outline's 32** — see the structure section of [research/canon.md](research/canon.md) for
@@ -90,37 +92,69 @@ destroyed by sentimentality and tidy endings. See
 
 ## Style — decided
 
-**Mick Herron's register, Elizabeth Strout's restraint at the peaks, no contempt anywhere.**
+**Four registers, one restraint. Strout at every peak. No contempt anywhere.**
 
-This is the governing style for the whole book. It is not a flavour applied on top — it is
-what the strongest chapters already do, written down so the weak ones can be held to it.
+This replaces the earlier single-register brief (Herron for the whole house). One narrator
+voice across four POVs is what made the first draft read as background music: the four leads
+were statistically indistinguishable in sentence length, sentence openers and dialogue.
+Herron is now Nik's property, not the house's. Not Moriarty, not Backman, not Nicholls —
+those were structural comps, never voice.
 
-- **Herron** — dry institutional comedy where the precision *is* the joke; professional
-  competence and rot rendered exactly; the joke that conceals despair. Michael's whole
-  characterisation ("his jokes always land, and that is the problem") is this move.
-- **Strout** — at the four peak events and the ending, drop to plain declarative
-  withholding and let the reader do the work.
-- **No contempt** — Herron's narrator is sardonic *about* his people. Ours is not. The
-  comedy comes from what a character believes about themselves, never from the narrator
-  knowing better. This matters most for Nik and Marek, where a sardonic narrator curdles
-  into caricature immediately.
+### The house floor — what all four share
 
-Not Moriarty, not Backman, not Nicholls. Those were structural comps, not voice.
+- Close third, past tense, free indirect. One POV per chapter unless it is an ensemble chapter.
+- **Strout at the peaks.** All four collapse toward plain declarative at their worst moment,
+  and each loses something different: Michael his subordination, Kate her clock, Nik his
+  jokes, Alex his flow. Four different silences. This is the only thing they share, which is
+  what makes it mean something.
+- **No contempt.** The comedy comes from what a character believes about themselves, never
+  from the narrator knowing better. Matters most for Nik and Marek, where a sardonic narrator
+  curdles into caricature immediately.
+- British idiom throughout — except Alex, deliberately (see below).
+
+### The four registers
+
+One file each, in [reference/](reference/). **Read the character's file before writing or
+editing any of their chapters.** Each carries the music, the authors and what to steal from
+them, the prosody rules, what that character loses at the peak, their chapter list, and the
+failure mode specific to them.
+
+| POV | Register | |
+|---|---|---|
+| Michael Halloway | Classical — Ishiguro, Bennett, Trevor | [reference/michael.md](reference/michael.md) |
+| Kate Merrick | Ostinato, the Soviet news intro — Mantel, Offill, Levy | [reference/kate.md](reference/kate.md) |
+| Nikhil Raghavan | Comic patter — Herron, Heller, Coe | [reference/nik.md](reference/nik.md) |
+| Aleksander Wójcik | Norwegian rock — Motorpsycho, Petterson, Knausgård, Baker | [reference/alex.md](reference/alex.md) |
+
+The registers are only worth having if they are audible against each other. When two of them
+share a scene, the contrast is the point — and the ensemble chapters are where all four meet.
 
 ### Rules
 
-- Close third, past tense, free indirect. One POV per chapter unless it is an ensemble chapter.
-- Long accumulating sentences that **land on a flat concrete fact**. Elaboration, then thud.
+- **The narrator has no tics of its own.** Three were stripped: spelled-out numbers, the
+  `, which was` appositive, and the polysyndetic close (*and X, and Y, and Z*). Reissue them
+  unevenly, as character property — counting belongs to Nik and to Kate's clock, never to
+  Alex or Michael.
 - Comedy from institutional specificity, never from a character being stupid.
 - **One aphorism per scene, maximum.** They are the book's best asset and they cheapen fast.
 - **Emotion gets less language, not more.** At the peak, shorten.
 - **No sentence that explains what the scene just did.** If a paragraph tells the reader how
   to feel about the preceding paragraph, cut it. Every score gain in revision came from this.
-- Jokes must cost the joker something.
-- British idiom throughout. The texture is where the credibility lives.
+- Jokes must cost the joker something — and **some must fail.** A comedy about status in which
+  every joke lands has no social risk in it.
+- Dysfluency, distraction and collapse are **enacted in the syntax**, never described in
+  fluent narration.
+- Ensemble chapters (6, 11, 20, 21, 26, 27) are where the four registers collide. They should
+  be the loudest chapters in the book, not the flattest.
 
 ### Failure modes to watch
 
-Named because the draft has drifted into each of them at least once: explanatory warmth
-(ch16, ch22), sentiment on the last page (ch25, ch27), and the wise-immigrant-father cadence
-in Marek's dialogue (ch13) — the one place the book risks condescending to a character.
+- **One narrator wearing four names** — the failure this rewrite exists to fix. Test: strip
+  the names from a paragraph and see whether you can still tell who it is.
+- **Mannered registers** — the opposite failure. If a reader can *name the device*, pull back.
+- Detail of a single register. The first draft ran 292 meeting-words against 5 smells and
+  2 tastes. Weather, food, body, noise.
+- Explanatory warmth (ch16, ch22).
+- Sentiment on the last page (ch25, ch27).
+- The wise-immigrant-father cadence in Marek's dialogue (ch13) — the one place the book risks
+  condescending to a character. His dialect must not do work the prose should be doing.
