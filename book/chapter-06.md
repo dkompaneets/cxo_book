@@ -24,9 +24,9 @@ Check-in took nine minutes, because the woman ahead of him was disputing a charg
 
 Standard double: £141. Per night. Five nights.
 
-Seven hundred and five pounds. He had known that; he had paid it. What happened at the desk was not the discovery of a number but the arrival of one number in the same room as another, which is an entirely different event; and the other number was £1,140, due on the first of August.
+Seven hundred and five pounds. He had known that; he had paid it. What happened at the desk was not the discovery of a number but the arrival of one number in the same room as another, which is a different event; and the other number was £1,140, due on the first of August.
 
-He did the division before he could stop himself. Five nights here was two-thirds of a month of his daughter's school. Then he did it per night, which was worse, and then per hour, which was ridiculous, and he stopped, and the stopping took an effort he would have been embarrassed to describe.
+He did the division before he could stop himself. Five nights here was two-thirds of a month of his daughter's school. Then he did it per night. Worse. Then per hour, which was ridiculous, and he stopped, and the stopping took an effort he would have been embarrassed to describe.
 
 "Sir? Sorry to keep you."
 
@@ -52,7 +52,7 @@ Through the revolving door at a speed that made the doorman step back. Phone at 
 
 "—and I'll have signal all weekend, so if it's genuinely urgent, genuinely, then ring. But Dawn, I mean *genuinely*—"
 
-The clerk had a form and a pen. Kate took the pen without breaking stride, in the hand not holding the phone. Began to fill in a car registration she did not know. Stopped. Made a gesture of such precise and universal meaning — *one moment, I am very sorry, I am aware of how this looks* — that the clerk, who was twenty-three, felt obscurely flattered.
+The clerk had a form and a pen. Kate took the pen without breaking stride, in the hand not holding the phone. Began to fill in a car registration she did not know. Stopped. Made a gesture of such universal meaning — *one moment, I am very sorry, I am aware of how this looks* — that the clerk, who was twenty-three, felt obscurely flattered.
 
 "Right. I'm at the hotel. I'm going to go and be strategic at people. Love you, bye."
 
@@ -100,7 +100,7 @@ At the actual desk he gave his name and had to give it twice.
 
 And Alex — who had come for five days because it was ninety minutes from London, and because if he stayed in the flat he would go to the office, and who had told his parents this was a break he had been planning for months — said, "Yeah."
 
-He went up to the ninth floor. Put the bag down. Opened the laptop. Connected to the wifi. Ran a trace to check the latency, and got forty-one milliseconds to London, which was terrible, and then ran it again in case it had been unlucky, and it had not.
+He went up to the ninth floor. Put the bag down. Opened the laptop. Connected to the wifi. Ran a trace to check the latency, and got forty-one milliseconds to London. Terrible. He ran it again in case it had been unlucky, and it had not.
 
 There was an extractor somewhere above the ceiling doing the long slow breathing.
 

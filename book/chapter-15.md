@@ -6,7 +6,7 @@ She knew it in about a second and a half, from the third slide, before she had r
 
 She scrolled.
 
-Slide seven had the old growth bridge. Slide eleven had a table of Refill assumptions with an August launch in it. Slide fourteen — the one that mattered, the one she had rebuilt four times, the one Michael had unlocked for her in a bar on Thursday night, the one that said *since March we have been running a piece of work to establish whether twenty-two was recoverable, and here is what it cost us to find out, and here is what we found instead* —
+Slide seven had the old growth bridge. Slide eleven had a table of Refill assumptions with an August launch in it. Slide fourteen. The one that mattered, the one she had rebuilt four times, the one Michael had unlocked for her in a bar on Thursday night, the one that said *since March we have been running a piece of work to establish whether twenty-two was recoverable, and here is what it cost us to find out, and here is what we found instead* —
 
 Slide fourteen did not exist. In its place was a chart titled *FY26 — Path to Target.*
 
@@ -20,11 +20,11 @@ The first thing she felt was not panic. It was a kind of clean bright fury, and 
 
 *Dawn.*
 
-She had sent the final on Wednesday night at 11:40. She had sent it with the words *this is the one — please make sure this is what's in the board folder and kill the others.* She could see her own message. She could see it with total clarity, the way you can see anything at 8:49 on a Sunday morning eleven minutes before a board.
+She had sent the final on Wednesday night at 11:40. She had sent it with the words *this is the one. Please make sure this is what's in the board folder and kill the others.* She could see her own message. She could see it with total clarity, as you can see anything at 8:49 on a Sunday morning eleven minutes before a board.
 
 She rang.
 
-Voicemail on the second ring. Which meant the phone had been declined. Which meant — and her mind produced this instantly, with the wrong emphasis on every word — *she's asleep.*
+Voicemail on the second ring. Which meant the phone had been declined. Which meant, and her mind produced this instantly with the wrong emphasis on every word, *she's asleep.*
 
 She rang again. Voicemail again.
 
@@ -42,15 +42,15 @@ She had half-heard it between two other things. She had heard it and filed it an
 
 There was nobody to call.
 
-That is a sentence that means nothing to most people and everything to about four hundred thousand people in this country. Kate stood in the service corridor behind the Warwick Suite — grey carpet tiles, a stacked trolley of chairs, a fire door — and went through it properly, because she was a person who went through things properly.
+That is a sentence that means nothing to most people and everything to about four hundred thousand people in this country. Kate stood in the service corridor behind the Warwick Suite. Grey carpet tiles, a stacked trolley of chairs, a fire door. She went through it properly, because she was a person who went through things properly.
 
-Gareth had the file. Gareth was in London. Gareth would take four minutes to answer on a Sunday and would then need to be told where to look. The file was in a personal drive. He did not have access to the personal drive. Setting up access to the personal drive required — she genuinely thought this through, to the end — Dawn.
+Gareth had the file. Gareth was in London. Gareth would take four minutes to answer on a Sunday and would then need to be told where to look. The file was in a personal drive. He did not have access to the personal drive. Setting up access to the personal drive required — she thought this through, to the end — Dawn.
 
 Tom did not have it. Tom had never had it.
 
-The board were in the room. Harriet was in the room; she had seen her go in at 8:44 with a coffee.
+The board were in the room. Harriet was in the room. She had seen her go in at 8:44 with a coffee.
 
-There was a version of this in which Kate walked in at nine and said *the wrong file's in the folder, give me fifteen minutes*, and it was, objectively, entirely survivable, and would have been forgotten by Tuesday.
+There was a version of this in which Kate walked in at nine and said *the wrong file's in the folder, give me fifteen minutes*, and it was, objectively, survivable, and would have been forgotten by Tuesday.
 
 She knew that. She knew it *at the time.* She stood in a service corridor and knew that the reasonable move was to walk in and say a true sentence.
 
@@ -68,7 +68,7 @@ Her hands went first. Not shaking — *gone.* A sort of hot absence in them. The
 
 She got a hand on the trolley of stacked chairs.
 
-She had done fourteen-hour days for eleven years. She had done a fire in a warehouse. She had done the week in 2022 when the funding fell over. She had never once, not for a second, had her body simply refuse; and the horror of it was not the symptoms. It was the *insubordination.* The discovery that the thing she had been driving for twenty years had a view.
+She had done fourteen-hour days for eleven years. She had done a fire in a warehouse. She had done the week in 2022 when the funding fell over. She had never once, not for a second, had her body simply refuse. The horror was not the symptoms. It was the *insubordination.* The discovery that the thing she had been driving for twenty years had a view.
 
 She got her breath by counting the carpet tiles. Not a technique. Just what was there.
 
@@ -80,7 +80,7 @@ They took out the phone. They found the name. They pressed and held.
 
 She spoke for ninety-one seconds.
 
-She did not shout. That is what would matter later; that is what made it what it was. If she had shouted it would have been a bad moment from a woman under pressure, and Dawn would have forgiven it before it finished playing.
+She did not shout. That is what would matter later. That is what made it what it was. If she had shouted it would have been a bad moment from a woman under pressure. Dawn would have forgiven it before it finished playing.
 
 Kate Merrick's voice, on the recording, is perfectly level. It is warm at the start. It is the voice she uses on stage.
 
@@ -153,7 +153,7 @@ She opened the last one. Slide fourteen. Six boxes. Every number she had built o
 
 She sat down slowly on the edge of the side table.
 
-Then she opened her sent messages and read the one from Wednesday night, and read it again, and then a third time, very slowly, the way you read a word that has stopped meaning anything.
+Then she opened her sent messages and read the one from Wednesday night, and read it again, and then a third time, very slowly, until the word stopped meaning anything.
 
 *Dawn — this is the one, please make sure this is what's in the board folder and kill the others.*
 
@@ -169,9 +169,9 @@ And under that, at 23:44, from Kate herself. One word, sent from a bed, at the e
 
 She had dropped v4 FINAL into the shared folder on the second of July.
 
-She had built v4 FINAL v2 (KM edits) on the Wednesday, in her own drive, at 11:41 at night, and had saved it, and had told a woman with no access to that drive to make sure it was the one in the folder; and had then read a reply saying *I can only put in what you drop into the shared one*, and had typed the word *Perfect.*
+She had built v4 FINAL v2 (KM edits) on the Wednesday. In her own drive. At 11:41 at night. She had saved it and told a woman with no access to that drive to make sure it was the one in the folder. Then she had read a reply saying *I can only put in what you drop into the shared one*, and had typed the word *Perfect.*
 
-There was no error. No forgetting, no dropped ball, no assistant who did not care. There was a woman who had done exactly what she said she would do, who had flagged the precise risk in writing at 23:42 on a Wednesday — and who had then, on a Sunday morning, with a sick seven-year-old on a sofa and her husband away, received ninety-one seconds of the calmest voice in England explaining that she did not understand the difference between a job and a role.
+There was no error. No forgetting, no dropped ball, no assistant who did not care. There was a woman who had done exactly what she said she would do. Who had flagged the risk in writing at 23:42 on a Wednesday. And who had then, on a Sunday morning, with a sick seven-year-old on a sofa and her husband away, received ninety-one seconds of the calmest voice in England explaining the difference between a job and a role.
 
 Kate sat on the side table in the corridor of the Warwick Suite.
 

@@ -24,7 +24,7 @@ The programme review was at ten, in Cathedral, the big room, with the screen tha
 
 There were nineteen people in it, which was nine too many, and Michael had said so, and had been told that this was a matter of inclusion in the change journey — a phrase that had entered the bank around 2018 in the manner of Japanese knotweed, and had since gone under the foundations. So: nineteen. He sat halfway down the long side, because sitting at the head makes people perform; and he made a joke about the screen while Callum Deitch fought it, and got his laugh, and the screen came on.
 
-Callum Deitch was thirty-four and extremely good. Michael wished, with an old man's specific and unrepeatable envy, that he were less good, so that this would be easier.
+Callum Deitch was thirty-four and extremely good. Michael wished, with an old man's unrepeatable envy, that he were less good, so that this would be easier.
 
 "So, just to level-set for everyone," Callum said, "PROGRAMME ATLAS is the migration of the core deposit ledger off the mainframe estate. We're in wave two of five. Wave two is retail current accounts — six-point-four million accounts — and the cutover window is the August bank holiday, which gives us seventy-two hours."
 
@@ -88,7 +88,7 @@ He turned it over. On the back, in biro: *Michael — they asked for you by name
 
 Fiona Redgrave, chief executive, who wrote on the back of things in biro.
 
-Michael read the sentence *they asked for you by name*, and something happened in his chest that he chose not to look at directly, and that was not entirely pleasure.
+Michael read the sentence *they asked for you by name*, and something happened in his chest that he chose not to look at directly, and that was not pleasure.
 
 He thought about the Monday. The forum ran from the Friday; if he went up early he would be away the best part of a week; and there was nothing in it he could not move; and the alternative to being at The Ardenne was being in this building, and the two of those, laid side by side, were not close.
 
@@ -100,9 +100,9 @@ In the spring of 1975 a man came to the house in Watford and put a sticker on th
 
 Michael was twelve. He remembered the sticker better than he remembered his father's face that year: a printed label about the size of a playing card, gummed onto the top-right corner of the screen where you could see it from the sofa. It stayed there eleven days. Nobody in the house said anything about it. His mother went on wiping around it.
 
-His father had been a partner — one of three — in a builders' merchant on the Dunstable Road. Halloway & Grieves. There had been a van with the name on it, and Michael had once been allowed to ride in the van, standing up, holding the dashboard, which in 1971 was a thing that could happen to a boy.
+His father had been a partner, one of three, in a builders' merchant on the Dunstable Road. Halloway & Grieves. There had been a van with the name on it, and Michael had once been allowed to ride in the van, standing up, holding the dashboard, which in 1971 was a thing that could happen to a boy.
 
-What Michael did not learn until he was nineteen was that all three partners had signed personal guarantees on the overdraft, which is a sentence that means nothing at all until it means everything. When the property market went over in 1974, and the builders stopped paying and then stopped existing, the firm went down owing forty-one thousand pounds; and the bank — some bank, some quiet, decent, entirely reasonable bank — went to the guarantees.
+What Michael did not learn until he was nineteen was that all three partners had signed personal guarantees on the overdraft, which is a sentence that means nothing at all until it means everything. When the property market went over in 1974, and the builders stopped paying and then stopped existing, the firm went down owing forty-one thousand pounds; and the bank — some bank, some quiet, decent, reasonable bank — went to the guarantees.
 
 They lost the house in the November. They moved to a maisonette in Bushey with a smell in the hall.
 
@@ -144,7 +144,7 @@ Yes, obviously. Instantly. The boy would have taken it before you finished the s
 
 *And was he right?*
 
-That was the question; and Michael, genuinely, sincerely, at sixty-four years old, with a document open in front of him and a conference in two weeks, did not know the answer. He could not get it to come out the same way twice. Some days he ran it and it came out *of course he was right, look at Claire, look at the house, look at the fact that nobody in this family has ever been frightened of a letter*; and other days he ran it and it came out, quietly, in the voice you use for things you are not going to act on: *he bought forty years of safety with the only forty years there were.*
+That was the question; and Michael, sincerely, at sixty-four years old, with a document open in front of him and a conference in two weeks, did not know the answer. He could not get it to come out the same way twice. Some days he ran it and it came out *of course he was right, look at Claire, look at the house, look at the fact that nobody in this family has ever been frightened of a letter*; and other days he ran it and it came out, quietly, in the voice you use for things you are not going to act on: *he bought forty years of safety with the only forty years there were.*
 
 A man who does not know why he does something cannot write four hundred words about it in a Word document.
 

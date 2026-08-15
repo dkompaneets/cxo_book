@@ -2,7 +2,7 @@
 
 "There's a roof," said Michael.
 
-It was ten past nine on the Friday evening. Kate had come out of the Warwick Suite at eight-fifty, having spent eleven hours being certain in front of sixty-one people, and had walked into the lobby with the specific hollowed-out feeling of a woman who has just been excellent. Michael was coming the other way out of Hall 2 with a conference tote bag he had no intention of ever opening.
+It was ten past nine on the Friday evening. Kate had come out of the Warwick Suite at eight-fifty, having spent eleven hours being certain in front of sixty-one people, and had walked into the lobby with the hollowed-out feeling of a woman who has just been excellent. Michael was coming the other way out of Hall 2 with a conference tote bag he had no intention of ever opening.
 
 "There's a what?"
 
@@ -112,7 +112,7 @@ The rest of them let go more easily, being further from the office than she was.
 
 Nik, with no requirement to be in the conversation, set up a position in his head: round two that afternoon, the fifteen-year-old from Coventry who had played the opening better than he had and then made the mistake a strong fifteen-year-old makes, which is to be certain. He replayed it from move twenty, giving her the better line, and found it was still fine for him, and gave her a better line again. He took no part in the talk for what must have been ten minutes, while making, somewhere in the middle of it, two remarks that everybody found funny and that he could not afterwards recall.
 
-And Alex, during a gap when the other two were arguing about whether the M42 was worse than the M25, took the notebook out of his jacket — the first time in eighteen days — and turned past the last entry and wrote, in the small square handwriting, in the dark, badly:
+And Alex, during a gap when the other two were arguing about whether the M42 was worse than the M25, took the notebook out of his jacket, the first time in eighteen days, and turned past the last entry and wrote, in the small square handwriting, in the dark, badly:
 
 *syscall audit — batch on the ring buffer, flush on quiesce not interval. also ask him about the second-question thing.*
 
@@ -180,4 +180,4 @@ It was Kate who said it, at the door by the ice machine, with the fluorescent co
 
 "I'll be here," said Alex. "I mean, I'll be — yeah. I'll be here."
 
-And all four of them meant it, entirely, in the way strangers do: without a calendar invitation, without a follow-up, without any of the machinery by which grown people usually make a plan, and therefore — as each of them understood perfectly well while agreeing to it — with a much higher probability of it actually happening.
+And all four of them meant it, the way strangers mean things: without a calendar invitation, without a follow-up, without any of the machinery by which grown people usually make a plan, and therefore — as each of them understood perfectly well while agreeing to it — with a much higher probability of it actually happening.

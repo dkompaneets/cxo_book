@@ -8,7 +8,7 @@ Ewa Wójcik was wearing the coat.
 
 "It's a coat for arriving," said his mother.
 
-Marek Wójcik was sixty-eight and had a bad shoulder from the print works and carried both bags; and when Alex tried to take one there was a short, complete, entirely wordless struggle in the lobby of The Ardenne, which Marek won, as he had won it every time since 2009.
+Marek Wójcik was sixty-eight and had a bad shoulder from the print works and carried both bags; and when Alex tried to take one there was a short, complete, wordless struggle in the lobby of The Ardenne, which Marek won, as he had won it every time since 2009.
 
 They checked in. It took a while, because Ewa wanted to know about breakfast and then wanted to know about breakfast again in a different way; and because Marek stood four feet back from the desk with the bags and watched the transaction with the total unblinking attention of a man who has been overcharged in three countries.
 
@@ -54,7 +54,7 @@ Alex sat and watched it happen and could not have said afterwards where the turn
 
 They did not talk about hardship. That was the part that undid Alex, and he thought about it for months afterwards. He had assumed, insofar as he had ever imagined this conversation, that it would be a comparing of wounds.
 
-It was not. It was almost entirely logistics, and it was very funny.
+It was not. It was almost all logistics, and it was very funny.
 
 They talked about the first flat. Marek's had been in Leyton, two rooms, with a meter that took fifty-pence pieces; and the landlord had been a man called Costas who was, Marek said, "not a bad man. But always he is thinking I steal the fifty pence. From my own meter." Nik's had been his uncle's box room in Leicester, with a wardrobe he could not fully open because of the bed.
 
@@ -88,7 +88,7 @@ And he was *calm.*
 
 That was the thing. Nik kept looking for it and could not find it. He knew what he was looking for, because he carried it: the low hum under everything, the running total, the eye that goes to the price on the menu first.
 
-He had assumed — without ever putting it into a sentence — that the hum was simply what this life did to a man; and that in thirty years he would be a version of himself with more money and the same hum; and that this was the deal.
+He had assumed, without ever putting it into a sentence, that the hum was simply what this life did to a man; and that in thirty years he would be a version of himself with more money and the same hum; and that this was the deal.
 
 Marek Wójcik did not have the hum.
 
@@ -102,13 +102,13 @@ Not: the fear was never justified. It had been justified. Six years of saying no
 
 It ends.
 
-He had genuinely, at forty-two, not known that this was available.
+He had not known, at forty-two, that this was available.
 
 ---
 
 Alex, sitting slightly outside the conversation, watched his father through a stranger's eyes and had his own private demolition.
 
-He knew what he had always felt in this situation. He had catalogued it at eleven, at fourteen, at nineteen, at every parents' evening and every school gate and every one of the times his father had come into the Velum office: a hot, tight, contemptible, entirely automatic wish that his father would say the sentence *slightly differently.*
+He knew what he had always felt in this situation. He had catalogued it at eleven, at fourteen, at nineteen, at every parents' evening and every school gate and every one of the times his father had come into the Velum office: a hot, tight, contemptible, automatic wish that his father would say the sentence *slightly differently.*
 
 He had heard the gap where the gesture went. Of course he had heard it. He heard every one.
 
@@ -164,7 +164,7 @@ Alex looked at the floor.
 
 "Sorry."
 
-His father took a while over it. He was not building to anything; he was looking for words in a language that had never entirely fitted him.
+His father took a while over it. He was not building to anything; he was looking for words in a language that had never quite fitted him.
 
 "You say it one time," he said. "Slow. Then you stop, and you don't say it again."
 

@@ -20,6 +20,48 @@ Every Alex chapter runs these, in order:
    permission: twelve minutes is a normal length.
 4. **The return.** It stops. The room tone is still there. Nobody noticed anything happened.
 
+## Exclusives
+
+His and nobody else's.
+
+**Only Alex gets:**
+
+- **The drone.** A continuous physical noise present in every scene he is in — air handling,
+  the extractor, the fridge, the train. Not decoration: it is the floor the register stands on,
+  and a scene without it is not in his voice. Ch24 was written with no drone anywhere and
+  measured as the most Kate-like chapter in the book.
+- **The eruption**: the long technical passage in the machine's own present tense, running to
+  sixty words a sentence and six hundred a passage. Nobody else in the book gets a sentence
+  over about forty words except Michael, and Michael's are periodic and resolve. Alex's do not
+  resolve; they accumulate.
+- Non-British idiom. He is the one exception to the house rule.
+
+**Alex never gets:**
+
+- Semicolons. Michael's.
+- The aphorism. He does not produce portable wisdom; he produces mechanism.
+- Numerals for money. He is the only one of the four who has never once checked a price.
+
+## Shape
+
+**Bimodal. He owns the longest sentence in the book and some of the shortest.** Room tone runs
+at five or six words a line, the eruption at sixty and upward, and there is almost nothing in
+between.
+
+Judge him on the **tail**, never on the average: 22–45 per cent of his narration words should
+live in sentences of forty words or more, against Kate's ceiling of 12. His mean is *supposed*
+to be low — room tone is most of the line count — and chasing a high mean is how the register
+was lost the first time. Both he and Kate were drafted at a mean of 11.7 and were, on every
+test, the same writer. The mean is the knob a drafting pass turns by feel. The tail is the
+one it doesn't.
+
+`scripts/register.py 24` checks this per chapter.
+
+## Sense channel
+
+**He hears machines.** Fans, extractors, disk noise, the pitch of a room. He is never in
+silence and never once notices weather.
+
 ## Authors
 
 - **Per Petterson** (*Out Stealing Horses*) and **Karl Ove Knausgård** — the quiet.

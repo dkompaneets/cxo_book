@@ -41,9 +41,13 @@ True. Kindly meant. He had told Ben it himself, in a corridor, on the Wednesday.
 
 Then he opened a new tab, because he wanted to be fair, and went and found the demo.
 
-It was in a branch called `causal-order`. He had pushed the first cut at 04:11 on the Saturday after the business centre, having come up from the fifth floor and not slept; and had kept at it in the evenings while his parents were in bed.
+It was in a branch called `causal-order`. He had pushed the first cut on the Saturday after the business centre, having come up from the fifth floor and not slept, and had kept at it in the evenings while his parents were in bed.
 
-Nine hundred lines. It took two synthetic ledgers with deliberately disagreeing clocks, and eleven thousand items a night of drift, and ordered them by causality; and produced one number, which was how many items a human being in Sheffield would have to look at in the morning.
+Nine hundred lines.
+
+And it was, he thought, looking at it, the cleanest thing he had written since the interceptor — because the whole of it turned on refusing to answer the question everybody asks, which is *when did this happen*, and asking instead the one both machines can answer for nothing, which is *what had I already seen when I did this*. You take the gateway's write and you hang on it the identity of the last batch it heard about. You take the ledger's post and you hang on it the identity of the last balance it read. Sixteen bytes on each side, a field nobody has to compute, because both numbers are already sitting in memory at the moment of writing and are currently being thrown away. And then you do not sort. Sorting is the mistake. You walk the two chains and wherever they touch you have a fact — not an estimate, not a tolerance, a fact, the same fact in nine hundred years — and everywhere they do not touch you have two events that never met and never could have, and which the nineteen people in Sheffield have been reconciling every morning since 2014 because a column of milliseconds told them the two things happened in an order that nothing in the universe actually put them in.
+
+It took two synthetic ledgers with deliberately disagreeing clocks, and eleven thousand items a night of drift, and ordered them by causality, and produced one number. How many items a human being in Sheffield would have to look at in the morning.
 
 The number was fourteen.
 
@@ -61,7 +65,7 @@ He rang Ben.
 
 "Alex! Mate, are your folks having a nice time? Where are you, still up north?"
 
-"Yeah. Listen — I saw bd-pipeline. The Lauriston thing." He had stood up; he always stood up for the ones that mattered. "That intro's mine. The COO — I did the architecture with him on a flip chart on Friday night, that's who it's from. And I've built a working demo of the recon fix. Thirty hours. It takes eleven thousand items a night down to fourteen. It's in a branch, it runs. So I think — I should be in the room Tuesday. I can move the airport, my dad'll understand, I'll—"
+"Yeah. Listen — I saw bd-pipeline. The Lauriston thing." He had stood up. He always stood up for the ones that mattered. "That intro's mine. The COO — I did the architecture with him on a flip chart on Friday night, that's who it's from. And I've built a working demo of the recon fix. Thirty hours. It takes eleven thousand items a night down to fourteen. It's in a branch, it runs. So I think — I should be in the room Tuesday. I can move the airport, my dad'll understand, I'll—"
 
 "Alex, that's *incredible.*"
 
@@ -97,7 +101,7 @@ He put the phone down.
 
 He had done the thing.
 
-He had picked it up and rung and made the case, out loud, and it had been true and it had been his; and he had been managed out of his own introduction in under four minutes by a good man in a hurry, warmly, with his name on the email and his parents used as the reason. And he had said *you're right* at the end, because the words for anything else had gone.
+He had picked it up and rung and made the case, out loud, and it had been true and it had been his. And he had been managed out of his own introduction in under four minutes by a good man in a hurry, warmly, with his name on the email and his parents used as the reason. And he had said *you're right* at the end, because the words for anything else had gone.
 
 That was worse than the thread.
 

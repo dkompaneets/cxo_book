@@ -18,9 +18,9 @@ A pause. The pause was the answer.
 
 "Since Thursday."
 
-She was standing. Thursday, Friday, Saturday, Sunday. The biggest weekend of the month. The number came out of her instantly — somewhere between a hundred and forty and a hundred and eighty thousand pounds — and she put it down and went to work.
+She was standing. Thursday, Friday, Saturday, Sunday. Four days. The biggest weekend of the month. The number came out of her instantly, and it was large, and she put it down and went to work.
 
-They fixed it by two in the morning. Good work by tired people. Priyanka found the cause. Tom ran it. Kate did almost none of it.
+They fixed it by two in the morning. Good work by tired people, most of whom had been at it since eleven. Priyanka found the cause. Tom ran it. Kate did almost none of it, and stayed for all of it.
 
 What Kate did was be there.
 
@@ -28,13 +28,13 @@ What Kate did was be there.
 
 She added a third.
 
-**Tuesday.** She did a thing she had never done in nine years at Bellwether. She asked for a decision to be re-taken.
+**09:10, Tuesday.** She did a thing she had never done in nine years at Bellwether. She asked for a decision to be re-taken.
 
 Small. The warehouse in Kettering, whether the new pick-face layout went in during August or after peak. Operations had decided August. The decision was two weeks old. The racking was ordered.
 
 She got the ops director on a call. "Walk me through it."
 
-He walked her through it. It was a good decision. It was so obviously a good decision that by the sixth minute she had stopped listening to the content and was listening to the thing underneath — a competent man in his fifties explaining to his chief executive, in careful ascending detail, why he had been permitted to do his job.
+He walked her through it. It was a good decision, and by the sixth minute she had stopped listening to the content and was listening to the thing underneath. A competent man in his fifties, explaining to his chief executive, in careful ascending detail, why he had been permitted to do his job.
 
 "Fine. Do it. I just wanted to understand it."
 
@@ -54,7 +54,7 @@ Not a mood. She had had moods. This had the texture of arithmetic. The payments 
 
 Nobody could have argued her out of it. Nobody tried. She never said it aloud, because saying it aloud would have insulted two hundred people who worked very hard. So it stayed inside and did what such things do inside, and grew a small orderly root system into every hour of her week.
 
-**Tuesday evening.** She declined a dinner with a woman who ran a much larger business and had been trying to have dinner with her since February.
+**19:48, Tuesday.** She declined a dinner with a woman who ran a much larger business and had been trying to have dinner with her since February.
 
 Then she opened the thread.
 
@@ -90,21 +90,23 @@ It was obviously fine. A short inbound call to the CEO on a day Alex was buried 
 
 *no worries at all*, Alex typed, and sent it.
 
-Then he sat for a long time in a flat in Bow with the fridge going.
+Then he sat for a long time in a flat in Bow with the fridge going, and it cut out, and the room was louder without it.
 
-Because underneath the entirely reasonable exchange was a thing he could not photograph. This was the fourth time. Each individual time had been fine. And he was starting to feel himself routed around the way water routes around a rock — not maliciously, not even deliberately, only because it was faster.
+Because underneath the reasonable exchange was a thing he could not photograph. This was the fourth time. Each individual time had been fine. And he was starting to feel himself routed around the way water routes around a rock — not maliciously, not even deliberately, only because it was faster.
 
 There is no way to say *I have a feeling* to a man with a runway ending in February.
 
 He had not opened the notebook in eighteen days.
 
-The ideas had not stopped. That was the frightening part. On the Central line on the Monday he had had one about batching the syscall audit — flush on quiesce, not on interval, and then the whole cost disappears into a thing you were already doing — and it arrived whole, the way they did, slightly to one side of what he had been thinking about, and it was worth about four months of latency work.
+The ideas had not stopped. That was the frightening part.
+
+On the Central line on the Monday he had had one, and it arrived whole and sideways the way they did — because if you stop flushing the audit buffer on an interval and flush it on the quiesce instead, then the cost does not get smaller, the cost *disappears*, it goes into a thing the runtime is already doing and has already paid for, and the interval was only ever there because somebody two years ago wanted a number they could put in a config file and nobody had asked since what the number was buying, and the answer was nothing, the answer was that four months of latency work had been sitting behind a default that a person picked in an afternoon.
 
 He reached for the pocket.
 
 And thought: *what's the point.*
 
-By Liverpool Street it had gone the way they go, leaving only the knowledge that there had been one. He tried for a week to get it back. He got the shape of it and never the middle. It was, as far as he could establish, the first idea he had ever lost on purpose.
+By Liverpool Street it had gone, leaving only the knowledge that there had been one. He tried for a week to get it back. He got the shape of it and never the middle. It was, as far as he could establish, the first idea he had ever lost on purpose.
 
 ---
 
@@ -120,9 +122,9 @@ In September there had been Sam's assembly, and he had put himself in the calend
 
 And Michael had found a way to be safe from that, which was not to be in the row at all. If he did not put himself down, nobody expected him; and coming was a bonus, and not-coming was nothing.
 
-He had described this to himself for years as *not over-promising.*
+He had described this to himself for years as *not over-promising*, which was the phrase he used in the office for the same manoeuvre; and it had the great advantage of being, in its own terms, true.
 
-Ruth came in with tea and looked at the screen over his shoulder.
+Ruth came in with tea and looked at the screen over his shoulder; and Michael, who had spent forty years reading a room for a living, found that he could not read this one, and did not try.
 
 "You're not on it."
 
@@ -136,7 +138,7 @@ Ruth put the tea on the coaster, and looked at the back of his head for a moment
 
 On the Wednesday he heard his own laugh from the outside.
 
-It was in the atrium at lunchtime, with four from Treasury; and somebody did the line about the chief executive and the boat, and Michael supplied the follow-up he had been carrying for a fortnight, and the four of them went up like a struck match. And Michael laughed too, and heard it — coming from somewhere out to his left, about a foot away, a bark with a rise on the end, a completely convincing noise made by a professional — and stood in the middle of the atrium with a plate in his hand and thought, with total detachment: *whose laugh is that.*
+It was in the atrium at lunchtime, with four from Treasury; and somebody did the line about the chief executive and the boat, and Michael supplied the follow-up he had been carrying for a fortnight, and the four of them went up like a struck match. And Michael laughed too, and heard it — coming from somewhere out to his left, about a foot away, a bark with a rise on the end, a convincing noise made by a professional — and stood in the middle of the atrium with a plate in his hand and thought, with total detachment: *whose laugh is that.*
 
 The group broke up. Vanessa Okoro stayed behind, and said, in a different register: "How are you, though?"
 
@@ -158,7 +160,7 @@ It had taken about a second and a half, and he had done it without deciding to; 
 
 ---
 
-They rang Nik at 9:40, which was past two in the morning in Chennai, which meant his parents had waited up.
+They rang Nik at twenty to ten, which was past two in the morning in Chennai, which meant his parents had waited up.
 
 "Nikhil. Listen — the hospital wants the whole thing in advance. Not just the operation. The physiotherapy, twelve weeks, they've put it in a package. Appa says it's too much."
 
@@ -166,7 +168,7 @@ They rang Nik at 9:40, which was past two in the morning in Chennai, which meant
 
 "One lakh sixty more."
 
-Fifteen hundred and twenty pounds, plus the fee, plus the spread they took and did not print. He had it before she finished the sentence. He had it in three currencies and as a fraction of the boiler.
+One lakh sixty. Fifteen hundred and twenty pounds, plus the fee, plus the spread they took and did not print, call it fifteen eighty by the time it landed. He had it before she finished the sentence, in three currencies, and as a fraction of the boiler, which was two-fifths of a boiler.
 
 "That's fine," said Nik.
 
@@ -174,7 +176,7 @@ Fifteen hundred and twenty pounds, plus the fee, plus the spread they took and d
 
 "Amma. It's genuinely fine. Things are good here. I got a bonus in June."
 
-He had not got a bonus in June. The words simply arrived, complete, in the right voice, and stepped out of him the way they had for twenty years.
+He had not got a bonus in June. The words simply arrived, complete, in the right voice, and stepped out of him as they had for twenty years.
 
 "I'll send it Tuesday."
 
@@ -190,32 +192,30 @@ He put the phone down. Meera came in for a glass of water and said, in the flat 
 
 She went up.
 
-And on the Saturday, with Rohan at his grandmother's and Anaya at a trampoline party and the house empty — which happened about six times a year, and which he had once calculated as costing forty pounds an hour in childcare and being worth about four hundred — he made a coffee and sat down at the kitchen table and opened *2020 household v3*, because he was going to do this properly.
+And on the Saturday the house was empty. Rohan at his grandmother's, Anaya at a trampoline party. It happened about six times a year. He had costed it once at forty pounds an hour in childcare and worth about four hundred, and had never told anybody that either.
 
-He updated the income tab. He updated the fixed costs. He made a new row for Chennai and called it *one-off*, and typed two numbers into it, and looked at the row title, and knew perfectly well what a category called *one-off* containing two entries is going to be next year.
+He made a coffee, and sat down at the kitchen table, and opened *2020 household v3*, because he was going to do this properly.
+
+He updated the income tab. He updated the fixed costs. He made a new row for Chennai and called it *one-off*. He typed two numbers into it. Then he looked at the row title, and knew perfectly well what a category called *one-off* containing two entries is going to be next year.
 
 Then he opened the credit card statement, because to do it properly he had to bring the card in.
 
-He looked at the balance for about forty seconds.
+He looked at the balance for about forty seconds, which at his hourly rate was worth about a pound ten, and which was the most expensive forty seconds of the month.
 
-It was not catastrophic. That was somehow worse. It was a number a man in his position should not have, arrived at in increments of two and three hundred pounds over fourteen months, every one of which he could have named, and none of which had been extravagant.
+It was not catastrophic. That was somehow worse. It was a number a man in his position should not have. Arrived at in increments of two and three hundred pounds over fourteen months. Every one of which he could have named, and none of which had been extravagant.
 
 And he found that he could not type it into the cell.
 
-Not *would not.* Could not. He sat with his hands on the keys in an empty house on a Saturday morning, and there was a physical block between the number on one screen and the empty cell on the other, and he understood that if he typed it in, the model would recalculate, and the twelve-month view at the bottom would turn, and then it would be true in writing.
+Not *would not.* Could not. He sat with his hands on the keys in an empty house on a Saturday morning, and there was a physical block between the number on one screen and the empty cell on the other. If he typed it in, the model would recalculate. The twelve-month view at the bottom would turn. And then it would be true in writing.
 
 He closed the tab. He drank the coffee, which had gone cold, and said out loud, to the empty kitchen:
 
 "I'll do it at the hotel."
 
-It sounded completely reasonable. Five days of quiet, and evenings in a room with nothing in them. He would do it properly, with time, the way it deserved.
+It sounded reasonable. Five days of quiet, and evenings in a room with nothing in them. He would do it properly, with time, the way it deserved.
 
 He saved the file, and closed it.
 
 ---
-
-Four kitchens. Four cities. The same week.
-
-Four people put something down where they could reach it later.
 
 Then they packed.

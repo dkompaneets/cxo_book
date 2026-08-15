@@ -22,7 +22,7 @@ He rang home at half past nine on the Sunday, and Claire answered, because Sunda
 
 "I'd like to come."
 
-There was a pause of about a second and a half; and it was in that second and a half, before she had said anything at all, that Michael — who had spent forty-two years reading rooms for a living — understood that something was about to be said that he was not going to be able to put down.
+There was a pause of about a second and a half; and it was in that second and a half, before she had said anything at all, that Michael, who had spent forty-two years reading rooms for a living, understood that something was about to be said that he was not going to be able to put down.
 
 "Dad," said Claire, kindly, warmly, without a single grain of anger in it, "we figured you couldn't. It's fine. We didn't even put you down for a seat."
 
@@ -60,7 +60,7 @@ He had not been excluded. He had been *routed around*, in the way you route arou
 
 He had taught Claire to swim. He wanted that noted; and he noted it, sitting on the end of a hotel bed in Birmingham with the phone in his hand. He had. In 1993, at the pool in Bushey, with a float; and he had probably said something encouraging; and she had probably swallowed a good deal of water.
 
-He could not remember a single specific afternoon of it.
+He could not remember one afternoon of it.
 
 He got up at twenty to ten, and looked at himself in the mirror of a hotel bathroom for slightly too long, and then took a breath in, and let it out, and went and put on a clean shirt, because at two o'clock he had to give a speech.
 
@@ -172,7 +172,7 @@ Denny grinned. "For drinks, or for phone calls?"
 
 "Ha!" said Michael.
 
-It came out of him at full volume: the bark with the rise on the end, the completely convincing noise made by a professional. It went across the bar and reached a group of banking delegates by the window, one of whom turned round and smiled at him — a nice man, a man from a building society in the north-west, who had said that afternoon that it was the only useful thing anyone had said all week.
+It came out of him at full volume: the bark with the rise on the end, the convincing noise made by a professional. It went across the bar and reached a group of banking delegates by the window, one of whom turned round and smiled at him — a nice man, a man from a building society in the north-west, who had said that afternoon that it was the only useful thing anyone had said all week.
 
 And Michael heard the laugh die.
 

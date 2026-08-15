@@ -22,7 +22,7 @@ That was when Alex went past the window.
 
 Alex was going past the window because he could not sleep, and the lift lobby on the ninth had the only reliable signal in the building, and he had gone down two floors on the stairs looking for a better one and ended up on the first-floor landing.
 
-He saw, through the glass, an old man staring at a laptop in a small bright room at half past midnight, and the particular set of the shoulders that means a person has stopped trying and has not yet stood up.
+He saw, through the glass, an old man staring at a laptop in a small bright room at half past midnight, and the set of the shoulders that means a person has stopped trying and has not yet stood up.
 
 He nearly walked on. That was the truth of it, and he thought about it afterwards. He got two steps past the door.
 
@@ -64,7 +64,7 @@ And Michael, who had been told for three years, gently and by people who meant w
 
 ---
 
-It was Michael who brought up the Ledger Gap, and he brought it up the way you show somebody a scar: as an anecdote, to be funny about.
+It was Michael who brought up the Ledger Gap, and he brought it up as a man shows somebody a scar: as an anecdote, to be funny about.
 
 "Do you want to hear about a genuinely hopeless problem," he said. "Not a difficult one. A hopeless one."
 
@@ -190,7 +190,7 @@ Alex laughed. Then he stopped laughing, because Michael had not.
 
 Alex looked at the floor.
 
-He was aware — he was extremely aware — of a thing happening in his chest that he had not felt since he was a boy, and which was not pride exactly. Pride was familiar; he got pride off a benchmark. This was different, and it had a stranger in it. This was a man with no reason on earth to flatter him, who had not seen his CV, who did not know what his company had raised or who his investors were or that he had once given a talk in Seattle that two thousand people watched — who had watched him do the thing he was actually good at for two hours and forty minutes, and had then, in the light of that and nothing else, said *what do you charge.*
+He was aware, he was extremely aware, of a thing happening in his chest that he had not felt since he was a boy, and which was not pride exactly. Pride was familiar; he got pride off a benchmark. This was different, and it had a stranger in it. This was a man with no reason on earth to flatter him, who had not seen his CV, who did not know what his company had raised or who his investors were or that he had once given a talk in Seattle that two thousand people watched — who had watched him do the thing he was actually good at for two hours and forty minutes, and had then, in the light of that and nothing else, said *what do you charge.*
 
 "It's just—" he said. "That's just how I think. It's not—"
 

@@ -11,6 +11,45 @@ that never develops and never resolves.
   the accumulating unlovely list.
 - **Deborah Levy** — the flash-image dropped into abstraction and left unexplained.
 
+## Exclusives
+
+Hers and nobody else's.
+
+**Only Kate gets:**
+
+- **The timestamp as bar line.** Every scene runs on the clock. Ch10 and ch16 dropped it and
+  immediately read as house voice; if a chapter of hers has no time in it, the peak has
+  arrived early by accident.
+- The imperative and the verb-first sentence. She thinks in commands.
+- Asyndeton — the list with the conjunctions taken out.
+- **The one modulation**: the foot, the weight on the ball of the foot, the shoulder on the two
+  and the four. Never explained, never caught at the time.
+
+**Kate never gets:**
+
+- **Semicolons. Zero.** She was measured at 3.46 per thousand, with twelve of them in ch14
+  alone. Full stops.
+- Numerals for money — she counts time, Nik counts money.
+- Subordination that resolves. Subordination implies leisure.
+
+## Shape
+
+**Flat and short — the narrowest distribution in the book.** Mean 10–13, standard deviation
+8–14. Not merely short: *evenly* short, because an ostinato does not develop.
+
+Alex is short on average too, and the two of them were drafted as statistically the same
+writer. The separation is the **tail**: no more than 12 per cent of her narration words may sit
+in sentences of forty words or more, where his job is to run to 45. She is currently at 15.4,
+with an 87-word sentence in her chapters — a sentence that long is his, or Michael's, and never
+hers. If her tail climbs, the brass has acquired dynamics and the register is gone.
+
+`scripts/register.py 15` checks this per chapter.
+
+## Sense channel
+
+**She hears time.** Clocks, durations, the length of a pause, how long a thing took against how
+long it was given. She does not notice rooms.
+
 ## Prosody
 
 - **Shortest sentences in the book.** Mean 12–14, against Michael's 25+.

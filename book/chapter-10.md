@@ -58,7 +58,7 @@ Nik put his cup down.
 
 "It's the quiet," said Nik.
 
-He said it and stopped, and looked out at the car park; and Kate — whose instinct in any silence was to fill it — sat with her fork in her hand and, to her own surprise, waited.
+He said it and stopped, and looked out at the car park; and Kate, whose instinct in any silence was to fill it, sat with her fork in her hand and, to her own surprise, waited.
 
 "There's a moment about forty minutes into a game. Everyone's settled, the openings are done, the arbiter's stopped walking about. You know when you take earplugs out and hear how loud it had been?" He turned his cup a little. "It's that, in reverse. There are a hundred and seventy-six people in a room and not one of them is going to speak for three hours. Nobody's going to ask me anything. Nobody's going to be told something about me and then look at me."
 
@@ -80,9 +80,9 @@ Kate had stopped eating.
 
 *I used to dance.*
 
-It came up in her whole and assembled and ready — the church hall in Amersham, the hairspray, Tuesdays and Saturdays, the tutor, the five weeks in March that nobody mentioned — and some piece of machinery she did not know she owned reviewed it in the half-second before it left her, and found the flaw, and closed the door.
+It came up in her whole and assembled and ready — the church hall in Amersham, the hairspray, Tuesdays and Saturdays, the tutor, the five weeks in March that nobody mentioned. Some piece of machinery she did not know she owned reviewed it in the half-second before it left her, and found the flaw, and closed the door.
 
-The story ended thirty years ago. He would look at her with the particular sympathy people reserve for a thing that is over.
+The story ended thirty years ago. He would look at her with the sympathy people reserve for a thing that is over.
 
 "That's nice," she said. "That you've got something that isn't a race."
 
@@ -116,7 +116,7 @@ Nik thought about it properly, which took a while.
 
 "It's not mine. Somebody told me that in 2009 and I've dined out on it ever since. I've had four dinners out of it. Possibly five."
 
-She stood and gathered her folder. And it was then, entirely offhand, in the middle of putting the chess book into his bag, that Nik said:
+She stood and gathered her folder. And it was then, offhand, in the middle of putting the chess book into his bag, that Nik said:
 
 "Somebody asked me a question on Thursday night. I've been carrying it round the building ever since."
 
@@ -140,7 +140,7 @@ Two seconds.
 
 He went.
 
-Kate watched him cross the wreckage of the breakfast room — an unremarkable man of about forty in an unremarkable jumper — and then picked up her phone, and there were nine things on it, and she dealt with four in the lift.
+Kate watched him cross the wreckage of the breakfast room, an unremarkable man of about forty in an unremarkable jumper, and then picked up her phone. Nine things on it. She dealt with four in the lift.
 
 On eleven she put the folder on the desk. Car park below. Motorway doing its thing in the distance.
 

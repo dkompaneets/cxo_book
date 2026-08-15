@@ -4,7 +4,7 @@ The advisory arrangement with Bellwether went through in the middle of August, o
 
 And on the twenty-first of August, Michael Halloway told Lauriston he would retire at the end of March.
 
-He told Fiona first, in her office, with the door shut. She did not perform surprise, for which he was grateful.
+He told Fiona first, in her office, with the door shut; and she did not perform surprise, which he had been braced for and would have found unbearable, and for which he was accordingly more grateful than he could reasonably have explained.
 
 "Is this because of the transformation-office thing? Because I can tell you that Callum's not—"
 
@@ -14,7 +14,7 @@ Which was true, and was not the whole of it; and Fiona — who had heard about a
 
 He did not mention Terry's telephone call. He never mentioned it to anybody.
 
-In October a mid-size building society announced a new group operations director: an external hire, early fifties, big transformation background. Michael read the announcement on his phone on the 6:40 and felt the thing settle into place with a click, like a bone going back; and put the phone in the door pocket, and looked out of the window; and it was — he checked — genuinely all right.
+In October a mid-size building society announced a new group operations director: an external hire, early fifties, big transformation background. Michael read the announcement on his phone on the 6:40 and felt the thing settle into place with a click, like a bone going back; and put the phone in the door pocket, and looked out of the window; and it was, he checked, all right.
 
 It had been going to be somebody. It had turned out to be somebody at a building society and not at Lauriston; and by then it did not matter, because by then he had already jumped, and a man who has already jumped cannot be pushed.
 
@@ -22,7 +22,7 @@ It had been going to be somebody. It had turned out to be somebody at a building
 
 His calendar, in September, began to acquire white space.
 
-It terrified him for exactly one week.
+It terrified him for exactly one week, which was, he thought afterwards, about six days longer than a sensible man would have needed, and about fifty years less than he had feared.
 
 There was a Wednesday afternoon, the second week, with nothing in it. Actually nothing: a blank rectangle from two o'clock. He sat in his office and looked at it and felt the old animal panic, the one from Bushey, the one that said *a man with an empty afternoon is a man without a wage.*
 
@@ -66,7 +66,7 @@ A boy called Rufus did indeed play "Für Elise" at a speed that suggested a wage
 
 ---
 
-Afterwards there was squash and biscuits, and Iris came and found him, in the specific way children do when they know they have done a thing.
+Afterwards there was squash and biscuits, and Iris came and found him, in the way children do when they know they have done a thing.
 
 "You went wrong in the middle bit," said Michael.
 
@@ -74,13 +74,13 @@ Afterwards there was squash and biscuits, and Iris came and found him, in the sp
 
 "And then you did the cleverest thing I've seen all year, which is that you kept the other hand going and you didn't apologise. You just fixed it while nobody was looking. And that, Iris, is the entire secret of every job I have ever had, and you did it at nine, and I'm extremely proud of you."
 
-Iris considered this.
+Iris considered this with the whole of her attention, in the manner of a person receiving evidence rather than a compliment; and it occurred to Michael, watching her do it, that she had got that from her mother, and that her mother had got it from Ruth.
 
 "Grandad, are you crying?"
 
 "Yes," said Michael. "It's the squash. It's very strong squash."
 
-A little way off, Claire put her own hand over her mouth for a second. She had not seen her father cry in her entire life, and had assumed, in the way you assume things about a parent, that he could not.
+A little way off, Claire put her own hand over her mouth for a second. She had not seen her father cry in her entire life, and had assumed, as one assumes things about a parent, that he could not.
 
 ---
 
@@ -112,7 +112,7 @@ She did not say *it's fine, Dad.*
 
 Danny was on the porch when Michael went to leave, having a moment to himself the way a man does when there are twelve people in his house.
 
-Michael knew the look. He had invented it.
+Michael knew the look; he had, in a manner of speaking, invented it, and had worn it on a great many porches of his own over a period of about twenty-five years.
 
 Danny was thirty-eight, and worked for a logistics company, and was, by every visible sign — the phone, the two-thumbed reply at a child's recital, the specific grey around the eyes — working exactly the way Michael had worked at thirty-eight.
 
@@ -138,7 +138,7 @@ At the end Michael said:
 
 "I'm not telling you to leave your job. I left mine at sixty-four and made a mess of things I can't fix, so I'm the last man who should be advising anybody." He put his hands on his knees. "Do what you like with it."
 
-Danny sat on the step for a while.
+Danny sat on the step for a while, turning a cup that had nothing in it, in the way of a man who has been handed something he did not ask for and has not yet decided what it weighs.
 
 "Iris asks about you a lot," he said eventually. "I don't think you know that."
 

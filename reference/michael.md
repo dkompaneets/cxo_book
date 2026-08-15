@@ -16,6 +16,43 @@ breath rendered as syntax, and it means the withholding never has to be describe
 - **William Trevor** — the peaks. Drop the subordination entirely, go short and plain, and
   let it be terrible.
 
+## Exclusives
+
+His and nobody else's. He is the one register the draft executed; the work here is holding the
+exclusives against the other three and widening him to spec.
+
+**Only Michael gets:**
+
+- **The semicolon.** Twelve to thirty per thousand words. Nobody else gets one, ever.
+- The finished paragraph. Nobody else in the book completes a thought.
+- Subordination that resolves; the periodic sentence; Latinate diction against three
+  Anglo-Saxon registers.
+- The professional euphemism doing emotional labour.
+
+**Michael never gets:**
+
+- The fragment, except at the peak — where losing it is the whole event.
+- A vantage on himself. See canon. The breath is never remarked on **by the narrator either**:
+  ch3 currently dates it to 2011 and says he does not know he does it, which is the narrator
+  knowing. Cut that.
+
+## Shape
+
+**Uniformly long.** Mean 23–29 against a measured 17.4, and a tail — the share of narration
+words in sentences of forty words or more — of 35–60 per cent, which is the one target he
+already meets at 41.7.
+
+He is a third short of spec on the mean, and that is why the whole book sounds narrower than it
+is: he is the outer wall, and the other three are measured against him. Widening him is the
+cheapest gain available, because it moves all three distances at once.
+
+`scripts/register.py 3` checks this per chapter.
+
+## Sense channel
+
+**He smells buildings.** Carpet, radiators, the hall of the maisonette, hot dust off a screen.
+Forty-two years of rooms, and the rooms are what he has.
+
 ## Prosody
 
 - Longest sentences in the book, by a clear margin. Mean 25+ against Kate's 12–14.

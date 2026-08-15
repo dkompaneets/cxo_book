@@ -12,9 +12,11 @@ The Ardenne had a first-floor landing with a window that looked down into the at
 
 "Yes," said Michael, "well," and moved the programme off the other one.
 
-The board had arrived at five for dinner. Kate had two hours. She had spent nine of them on Friday and eleven on Saturday morning being certain in front of sixty-one people, and had come up the stairs to find a quiet place to read the deck for the ninth time, and had seen him through the glass, and had not read the deck.
+**15:40.** The board arrived at five for dinner. She had two hours, less the twenty minutes it would take to change.
 
-They watched the chess for a while. From above it looked like a system: a hundred and seventy-six people bent over eighty-eight boards under the strip lights; and every so often, somewhere in the grid, one of them would stand up and stretch and walk about, and you could tell from the walk who was winning.
+Nine hours of it on Friday. Eleven on Saturday morning. Certain, in front of sixty-one people, for twenty hours in two days. She had come up the stairs to find somewhere quiet to read the deck for the ninth time, and had seen him through the glass, and had not read the deck.
+
+They watched the chess for a while. From above it looked like a system. A hundred and seventy-six people bent over eighty-eight boards under the strip lights. Every so often, somewhere in the grid, one of them stood up and stretched and walked about. You could tell from the walk who was winning.
 
 "Can I ask you something properly?"
 
@@ -74,7 +76,7 @@ Kate turned her head.
 
 ---
 
-He said it lightly. That was what she noticed. He said it in exactly the voice he had used the night before to describe closing four hundred branches; and then he did not follow it with a joke, and the absence of the joke was so loud that Kate found herself holding her breath.
+He said it lightly. That was what she noticed. The same voice he had used the night before to describe closing four hundred branches. Then he did not follow it with a joke. The absence of the joke was so loud that Kate found herself holding her breath.
 
 "Right," he said. "You asked me what happens at the end. I'll tell you once and then we're talking about something else, because I have a rule and I've already broken it twice this weekend."
 
@@ -160,10 +162,10 @@ She stopped four steps below him.
 
 Then he made a joke about the chair, and she laughed, and went down.
 
-She went into a dinner with seven board members and was, for three hours, delightful. Harriet Nash said, over the coffee, "You seem well," and Kate said, "I've had four hours' sleep and I feel wonderful, which is medically concerning," and Harriet laughed. Kate went up to eleven at half past eleven, and read the deck twice, and slept six hours without waking once, which had not happened since March.
+**19:00.** She went into a dinner with seven board members and was, for three hours, delightful. Harriet Nash said, over the coffee, "You seem well," and Kate said, "I've had four hours' sleep and I feel wonderful, which is medically concerning," and Harriet laughed. **23:30.** Kate went up to eleven, read the deck twice, and slept six hours without waking once, which had not happened since March.
 
-And on the fourth floor, Michael Halloway sat on the end of a hotel bed and rang Ruth and told her about a woman who had offered him a job that consisted of a telephone; and Ruth said, "And what did you say?" and Michael said, "I said yes."
+And on the fourth floor, Michael Halloway sat on the end of a hotel bed and rang Ruth and told her about a woman who had offered him a job that consisted of a telephone. Ruth said, "And what did you say?" and Michael said, "I said yes."
 
 There was a pause on the line.
 
-"Michael," said Ruth, in a voice he had not heard in some years; and then said she had to go, because there was something in the oven, which there was not.
+"Michael," said Ruth, in a voice he had not heard in some years. Then she said she had to go, because there was something in the oven, which there was not.

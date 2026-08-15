@@ -1,38 +1,24 @@
 # 24. Say It Once, Slowly
 
-Alex did not go to the Tuesday meeting, because by the time he got back to London it had already happened.
+The fridge in the flat in Bow had a compressor that cut in every eleven minutes and ran for four.
 
-He read the notes on the Wednesday. Ben had written them up warmly, as he wrote everything: *Great first session with Lauriston. They're keen. Compliance-first lands well — programme director wants a proposal for the evidencing module by end of month. Recon is "phase 2" in their heads which is exactly where we want it. Big one, team.*
+Alex did not go to the Tuesday meeting, because by the time he got back to London it had already happened. He read the notes on the Wednesday, sitting on the floor with his back against the sofa. Ben had written them up warmly, the way he wrote everything. *Great first session with Lauriston. They're keen. Compliance-first lands well — programme director wants a proposal for the evidencing module by end of month. Recon is "phase 2" in their heads which is exactly where we want it. Big one, team.*
 
-Alex read it in a flat in Bow with the fridge going, and then he closed it, and did not reply, and sat for a while.
+He read it twice, and closed it, and sat on the floor with the laptop shut on his knees while the compressor ran its four minutes and stopped.
 
-Then he did a thing he had not done in three years, which was to book a meeting room and put one name on it.
-
-He walked over to Ben's desk on the Thursday morning.
-
-"Have you got an hour? Just us. No laptops."
-
-Ben looked up, and something crossed his face — not alarm; Ben did not do alarm; but a recalibration, the small flicker of a man who has just been handed a variable he did not have.
-
-"Course. Everything OK?"
-
-"Yeah. I just want to talk about one thing and I want to do it properly."
-
-"Now?"
-
-"Now."
+Then he did a thing he had not done in three years, which was to open the calendar and book a meeting room for an hour and put exactly one other name on it, and no agenda, because an agenda would have let it be answered before it was said.
 
 ---
 
-They sat in the room called Riga with no laptops, which made both of them aware of their hands.
+The room called Riga had a projector that stayed powered even when nothing was plugged into it, and its fan ran at a pitch about a tone and a half above the building's air handling, and the two of them beat against each other slowly, and you could hear the beat if you stopped talking for long enough. Nobody ever stopped talking for long enough.
 
-Alex had thought about how to start for two days, and had discarded every version that began with the grievance — because he had finally understood, from watching Kate do it to three people in a bar, and from his father in an airport, and from an old man he had never met asking a stranger *what is it you think you're protecting*, that the grievance was the thing that made him easy to manage.
+They sat with no laptops, which made both of them aware of their hands, and left the room with nothing in it to look at except the other person and a whiteboard that had been wiped so many times it had gone the colour of weak tea.
 
-The grievance invited *mate, I hear you, and here's the context.* And the context was always true. And being managed by true context was the whole of his life.
+Alex had thought about how to start for two days. He had discarded every version that began with the grievance. He had worked out, from watching Kate take three people apart in a hotel bar, and from his father waiting four days in an airport without asking him anything, that the grievance was the thing that made him easy to manage. The grievance invited *mate, I hear you, and here's the context.* The context was always true. Being managed by true context was the whole of his life.
 
 So he did not start with the grievance.
 
-"I built the recon fix," he said. "The Lauriston thing. The thing the introduction was actually about. I built a working demo of it in thirty hours over that weekend, and it takes eleven thousand items a night down to fourteen, and it's sitting in a branch called causal-order, and I didn't tell you, because I don't tell anyone anything until it's finished."
+"I built the recon fix," he said. "The Lauriston thing. The thing the introduction was actually about. I built a working demo in thirty hours over that weekend, it takes eleven thousand items a night down to fourteen, it's in a branch called causal-order, and I didn't tell you, because I don't tell anyone anything until it's finished."
 
 Ben's eyebrows went up. "Alex. That's—"
 
@@ -40,33 +26,35 @@ Ben's eyebrows went up. "Alex. That's—"
 
 Ben closed his mouth.
 
-And — Alex watched him do it — actually sat back.
+And, Alex watched him do it, actually sat back.
 
-The room had a clock in it. Alex had never noticed the clock.
+There was a clock in the room. Alex had never noticed the clock.
 
-"You went into that bank on Tuesday and sold a report," he said. "Which was the right commercial call. I want to say that, because it's true, and because I've spent two years letting you make right commercial calls and then hating you for it in private, and I'm not doing that any more. So I'm saying it out loud. Leading with compliance was probably correct."
+---
+
+"You went into that bank on Tuesday and sold a report," he said. "Which was the right commercial call. I want to say that first, because it's true, and because I've spent two years letting you make right commercial calls and then hating you for it in private, and I'm not doing that any more."
 
 "But," said Ben.
 
-"But the introduction had my name in it. The COO wrote *talk to him, not about him*, and I read it, because I'm in the channel. And eleven hours later I was 'at a hotel with his parents', and the thing that had my name on it belonged to you and Saul."
+"But."
 
-He kept his voice level. He could hear it staying level, and the staying was the whole victory.
+And then it came, and it came the way they came, sideways and complete and about ninety seconds after he had stopped hunting for it, except that this time the thing assembling itself was not a lock-free queue.
 
-"I'm not telling you that to make you feel bad. I'm telling you because I've worked out what the actual problem is. And it isn't you, and it isn't compliance-first, and it isn't the meeting."
+Because the problem was not the meeting. The meeting was an output. The problem was that there was a machine in this company that nobody had designed, and it had been running for two years, and it worked like this: a decision comes up, and the decision needs a technical view, and the technical view lives in one head, and getting it out of that head takes between forty seconds and four minutes of a room being quiet, and a room of eight people costs about two pounds a second to keep quiet, and nobody has ever put it that way but everybody has felt it, so the room does the economically rational thing, which is to route around the cost — Ben supplies a version of the technical view, which is eighty per cent right and arrives in nine seconds, and the meeting proceeds, and the decision is a good decision, and nothing anywhere in the system records that the twenty per cent was lost, because the twenty per cent was never said, and a thing that is never said leaves no trace at all. And then it happens again. And each time it happens the room gets slightly better at predicting what Alex would have said, and slightly worse at being right about it, and Alex gets slightly better at not saying it, because a man who has been correctly predicted eleven times stops volunteering the twelfth, and the two curves cross somewhere in the second year, and after they cross the company is running on a model of its own CTO instead of its CTO, and the model does not have the four thousand lines of C in it, and cannot be asked what happens under memory pressure, and will answer anyway.
 
-He put both hands flat on the table.
-
-"It's that everyone in this company — including you, including me — has arranged things so that I never have to be in the room where it's decided. And you all did it to be kind. And I let you, because being in the room is the thing I'm most frightened of. And between us we've built a company where the one person who can actually see the whole system spends his life finding out what was decided without him, and then being sad about it at one in the morning."
+"And you all did it to be kind," he said. "That's the part I can't get round. Every single person here made a small generous decision to spare me the room. And I let them, because being in the room is the thing I'm most frightened of. And between us we've built a company where the one person who can see the whole system spends his life finding out what was decided without him, and then being sad about it at one in the morning."
 
 He stopped.
 
-"That's it. That's the whole thing. You can talk now."
+The fan in the projector went on doing what it did, and the air handling went on underneath it, and the two of them beat against each other in the way they had been beating all morning and would go on beating after everybody had gone home.
+
+"That's it," he said. "That's the whole thing. You can talk now."
 
 ---
 
 Ben did not talk for a moment, which for Ben was extraordinary.
 
-"OK," he said. "Can I ask you something, and it's a real question, it's not a — I'm not managing you."
+"OK," he said. "Can I ask you something, and it's a real question, I'm not managing you."
 
 "Go on."
 
@@ -74,21 +62,21 @@ Ben did not talk for a moment, which for Ben was extraordinary.
 
 "Because you'd have taken it into the room," said Alex. "And it would have been great. And it would have been yours. And then I'd have been the engine again."
 
-Ben flinched. A real one, this time. A small one.
+Ben flinched. A real one, and a small one, and the first Alex had seen in four years of watching him absorb things.
 
 "Is that what you think you are?"
 
-"It's what I *am.*" Alex leaned forward. "Here's the thing I actually came to say. You need my engine. Genuinely. Velum is four thousand lines of C that I wrote in eleven days and cannot fully reproduce, and if I get hit by a bus the company is a deck.
+"It's what I *am.*" Alex leaned forward. "Here's the thing I actually came to say. You need my engine. Velum is four thousand lines of C that I wrote in eleven days and cannot fully reproduce, and if I get hit by a bus the company is a deck.
 
-"And I need your voice. Because I have watched you make a room believe in something forty times and I cannot do it once. That's real. That's a real thing we have and it works.
+"And I need your voice. I've watched you make a room believe in something forty times and I can't do it once. That's real. That's a real thing we have and it works.
 
-"But you have to stop talking over me. Not because it's rude — you don't even know you're doing it. Because every time you do it, the company loses the only person who can see the thing you're selling."
+"But you have to stop talking over me. Not because it's rude. You don't even know you're doing it. Because every time you do it the company loses the only person who can see the thing you're selling."
 
 He sat back.
 
 "I'm done mumbling. I'll say the thing once, slowly, and you have to actually stop and look at it. Not draw a box around it and move on."
 
-Ben was quiet.
+Ben was quiet for what was, by the clock Alex had not noticed until forty minutes ago and could now not stop noticing, the better part of fifteen seconds.
 
 "Once, slowly," he said.
 
@@ -100,7 +88,7 @@ Ben was quiet.
 
 It was not a clean victory.
 
-Alex had prepared for the version where Ben said *you're absolutely right, I've been terrible.* That version did not arrive, because it was not true, and Ben did not deal in things that were not true.
+Alex had prepared for the version where Ben said *you're absolutely right, I've been terrible*, and had rehearsed a gracious response to it on the Northern line. That version did not arrive, because it was not true, and Ben did not deal in things that were not true, which was the quality that made him worth having and the quality that made him impossible.
 
 What Ben said was:
 
@@ -134,9 +122,9 @@ Alex had it ready, because he had written it on the back of a receipt on the Nor
 
 "Two engineers starting Monday means the compliance module ships in November instead of September. And the November date is in a contract with Meridian that I signed. So it's not a priorities question. It's a breach question."
 
-Alex sat with that.
+Alex sat with that, and turned it over, and found no way through it that was not simply a wish.
 
-It was, annoyingly, the kind of answer he would have given.
+It was, annoyingly, exactly the kind of answer he would have given if the two of them had been standing on opposite sides of the question.
 
 "January," said Ben. "Two engineers, January, in the plan, written down. And I'll say it at the all-hands, so it costs me something to renege."
 
@@ -148,13 +136,13 @@ Four months. Four months in which the thing he had built in thirty hours would s
 
 "Go on."
 
-"The Arcus diligence. Six weeks. It's forty calls with people who will ask you the same eleven questions, and you will want to die, and I want you in every single one of them."
+"The Arcus diligence. Six weeks. Forty calls with people who will ask you the same eleven questions, and you will want to die, and I want you in every single one of them."
 
 "Fenella can—"
 
-"I know Fenella can. I'm not asking for the technical answers." Ben looked at him. "Because if you're not in those rooms, the story about who Velum is gets told without you again. And then we're back here in a year having this exact conversation, and you'll be right again, and it'll be my fault again."
+"I know Fenella can. I'm not asking for the technical answers." Ben looked at him. "If you're not in those rooms, the story about who Velum is gets told without you again. And then we're back here in a year having this exact conversation, and you'll be right again, and it'll be my fault again."
 
-And that, Alex thought, was the actual price. Ben had found it almost at once.
+That was the actual price, and Ben had found it almost at once, the way he found everything, in the time it took most people to decide whether they were going to be difficult about it.
 
 Forty calls. The thing he was worst at in the world. The thing that made the words go. And the only currency in which this was purchasable.
 
@@ -170,21 +158,23 @@ He put out his hand across the table, which is a slightly absurd thing to do wit
 
 They shook on it.
 
-It was, Alex thought, the first genuinely equal thing that had ever passed between them. And it had cost him a winter.
+It was the first genuinely equal thing that had ever passed between them, and it had cost him a winter, and he would have paid more than that and they both knew it and neither of them said so.
+
+The projector fan cut out. Neither of them noticed, having stopped hearing it about ninety minutes earlier.
 
 ---
 
-The pilot with Lauriston came the following spring, as a consequence and not a climax. A small paid engagement to prove the recon approach on real data. It found four things that broke it, exactly as Alex had said it would. He fixed three. The fourth was a genuine limitation, which he wrote up honestly.
+The pilot with Lauriston came the following spring, as a consequence and not a climax. A small paid engagement to prove the recon approach on real data, on a subset, with a bank's caution about it. It found four things that broke the model, exactly as he had said it would on a hotel floor in July, and three of them were the sort of thing you fix in an afternoon once you can see them. The fourth was a genuine limitation in the approach, and he wrote it up honestly and at length and without hedging.
 
 Michael's programme director, a man Alex never met, wrote back one line: *this is the first time anyone's told us what it can't do.*
 
-Alex printed it out and did not mention it to anybody.
+Alex printed it out on the office printer, which nobody had used since March, and folded it, and did not mention it to anybody at all.
 
 ---
 
-He rang his father on the Sunday.
+He rang his father on the Sunday, sitting on the floor of the flat with his back against the sofa, which is where he made difficult calls, and the fridge cut in at the fourth ring.
 
-He had been putting it off for eleven days — and he had put off exactly *it*, the specific call, because on the phone from the office in July he had said *it's great, it's going really well*, and there was a taking-back to do.
+He had been putting it off for eleven days, and what he had been putting off was *it*, the one call and not the general run of them, because on the phone from the office in July he had said *it's great, it's going really well*, and there was a taking-back to do and no established procedure for doing it.
 
 "Alek."
 
@@ -192,13 +182,13 @@ He had been putting it off for eleven days — and he had put off exactly *it*, 
 
 "I have every minute. I am retired. Your mother is at the shop."
 
-"Right." Alex sat on the floor of the flat with his back against the sofa, which is where he made difficult calls, the way Nik made them on the A3 and Michael made them by lifts. "I want to tell you something and it's not bad, so don't — Mama's not here, so you don't have to do the face. It's not bad."
+"Right." He closed his eyes. "I want to tell you something and it's not bad, so don't — Mama's not here, so you don't have to do the face. It's not bad."
 
 "OK."
 
-"When you were here. And you asked how the company was, and I said great." He closed his eyes. "It wasn't great. It's been really hard for about a year. There's this thing with Ben where I couldn't say what I thought, and I've been eating myself alive about it. And I said *it's fine, Papa* to you about nine times and it wasn't fine. And I'm — I'm taking it back. The *it's fine.* I shouldn't have said it to you."
+"When you were here. And you asked how the company was, and I said great. It wasn't great. It's been really hard for about a year. There's this thing with Ben where I couldn't say what I thought, and I've been eating myself alive about it. And I said *it's fine, Papa* to you about nine times and it wasn't fine. And I'm taking it back. The *it's fine.* I shouldn't have said it to you."
 
-There was a silence on the line, and it was not a wounded silence; and Alex, who had spent his life reading silences on this particular line, could hear that.
+There was a silence on the line, and it was not a wounded silence, and Alex, who had spent his life reading silences on this particular line, could hear that.
 
 "Aleksander," said Marek. "I knew."
 
@@ -214,7 +204,7 @@ There was a silence on the line, and it was not a wounded silence; and Alex, who
 
 "Because you were not ready," said Marek simply. "A man tells you when he can. If I ask you when you cannot, you say *it's fine, Papa*, and then you have said it, and then it is between us, the *it's fine*, and it is harder afterwards. So I wait. I am good at waiting. I waited six years for Tony to find out I could fix the machine."
 
-Alex sat on the floor with the phone.
+Alex sat on the floor of the flat with the phone against his ear and the fridge running and a view of the underside of the sofa, and did the arithmetic on six years of Tony and a broken machine in Leyton.
 
 "That must have been—" He stopped. "That's a horrible thing to be good at."
 
@@ -222,7 +212,7 @@ Alex sat on the floor with the phone.
 
 ---
 
-They talked for another twenty minutes, about the company, properly; and Marek understood about a third of it and asked about the other two-thirds. And at the end he said the thing Alex would keep.
+They talked for another twenty minutes, about the company, properly, and Marek understood about a third of it and asked about the other two-thirds. And at the end he said the thing Alex would keep.
 
 "Aleksander. The bakery, and the print. Ten years." A pause. "You know I did not do it for a reason."
 
@@ -249,3 +239,5 @@ He hunted, and this time he found it.
 Alex sat on the floor of a flat in Bow with the phone against his ear and did not say anything for a while.
 
 And his father, who was good at waiting, waited.
+
+The compressor cut in and ran its four minutes and cut out, and neither of them said anything in that time either, and the line stayed open the whole way through it.

@@ -26,9 +26,9 @@ And Alex laughed, and it was, for an hour, exactly the way it had been on the ro
 
 ---
 
-They talked over each other. That was the thing.
+They talked over each other, both at once, neither minding.
 
-They had an hour before Kate came, and they spent it the way you spend it with somebody you were honest with once, under strange conditions, and have not seen since: quickly, greedily, catching up on facts as a way of not yet saying the other thing.
+They had an hour before Kate came, and they spent it as you spend it with somebody you were honest with once, under strange conditions, and have not seen since: quickly, greedily, catching up on facts as a way of not yet saying the other thing.
 
 Alex told him about Ben. About the meeting with no laptops. About *once, slowly.*
 
@@ -44,7 +44,7 @@ Nik told him about the memo, and the number he had said out loud in his own kitc
 
 "The four seconds," said Nik. "When they haven't got it yet and they're deciding about you."
 
-Alex went completely still.
+Alex went still.
 
 "Oh," he said. "Yeah. That's — yeah. That's mine too. That's exactly mine."
 
@@ -86,7 +86,7 @@ The fire did its thing. Somewhere behind them a man laughed at a different table
 
 "He was going to come tonight," said Kate.
 
-Her voice was very level, and it was the same level as the voicemail — the surgical calm — except that this time she was using it on purpose, to get the words out without them breaking in her mouth.
+Her voice was very level, and it was the same level as the voicemail, the surgical calm, except that this time she was using it on purpose, to get the words out without them breaking in her mouth.
 
 "He said yes. His daughter said he'd talked about the hotel, at the end. About all of us. The boy with the marker pen. The man who plays chess." She looked at each of them. "The woman who gave him a job that was a telephone."
 
@@ -130,7 +130,7 @@ Alex put the phone in the middle of the table, on the dark wood, between the fou
 
 *Alex. It's Michael. From the — from the hotel. The mascot.*
 
-His voice came out of the small speaker into the pub, and it was completely, unbearably him: the warmth, the timing, the tiny pause before the joke that you could hear him choosing not to fully make.
+His voice came out of the small speaker into the pub, and it was unbearably him: the warmth, the timing, the tiny pause before the joke that you could hear him choosing not to fully make.
 
 *Listen. You were right about most of it, and I've thought about it a great deal, and I wanted to say so, and I wanted to say that the introduction — I should have sent it to you. Just you. You were right about that, and I knew the reason while I was doing it, and you named it, and it's cost me some sleep, which at my age is a genuine sacrifice.*
 
@@ -172,7 +172,7 @@ Nobody moved it. Nobody said *to Michael*, or *he'd have wanted*, or any of the 
 
 They left it where it was.
 
-Alex, after a while, picked up his own glass and held it. Not raised. Just held, in both hands, the way you hold something to warm your hands on it.
+Alex, after a while, picked up his own glass and held it. Not raised. Just held, in both hands, to warm them on it.
 
 "He put a joke on the end," he said. "For me. So I wouldn't—"
 

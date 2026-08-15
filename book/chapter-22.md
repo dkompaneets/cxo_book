@@ -16,7 +16,7 @@ Dawn looked up.
 
 "No. No. Christ, no. Opposite. Sort of."
 
-They went into the small room on the second floor with the whale on the wall. Kate shut the door. Dawn sat down with a notebook, which she always brought; and Kate looked at the notebook and something in her chest turned over.
+They went into the small room on the second floor with the whale on the wall. Kate shut the door. Dawn sat down with a notebook, which she always brought. Kate looked at the notebook and something in her chest turned over.
 
 "You won't need that."
 
@@ -42,7 +42,7 @@ She pressed play.
 
 It is a very strange thing to sit in a small room and listen to your own voice at that volume.
 
-Kate had never once heard it. She had recorded four or five voice messages a day for six years and had listened back to perhaps three of them in her life. What she had not understood — what she genuinely, in a way that would never be fully repaired, had not understood — was what the thing sounded like at the other end.
+Kate had never once heard it. She had recorded four or five voice messages a day for six years and had listened back to perhaps three of them in her life. What she had not understood — what she had not understood, in a way that would never be fully repaired — was what the thing sounded like at the other end.
 
 In her head it had been a fast note dictated in a corridor.
 
@@ -78,7 +78,7 @@ She stopped, because there was nothing after it.
 
 Dawn Fowler said: "Oh, Kate."
 
-That was all. She said it the way you say it when somebody has dropped something.
+That was all. She said it as you say it when somebody has dropped something.
 
 "I mean — it was horrible," she said. "I'm not going to pretend. I cried in the airing cupboard, because Marcus was on the sofa and I didn't want him to see. And then Steve rang and I told him and he said something rude about you, and I got quite defensive, which he thought was hilarious." She shrugged. "And then Monday I came in and did the Ocean file."
 
@@ -88,7 +88,7 @@ That was all. She said it the way you say it when somebody has dropped something
 
 "That's not a reason."
 
-"No," Dawn agreed, comfortably. "It's not a reason. It's just why I'm not surprised." She picked up the mug, which was empty. "It's fine. It's genuinely fine. Are we all right?"
+"No," Dawn agreed, comfortably. "It's not a reason. It's just why I'm not surprised." She picked up the mug. It was empty. "It's fine. It's genuinely fine. Are we all right?"
 
 And Kate Merrick, who two hours ago had been unable to eat, said, "Yes."
 
@@ -172,7 +172,7 @@ Then she thought about what it had cost her, every time, for four years, to save
 
 She rang her parents on the Sunday.
 
-It was a fortnightly call and it had a structure both parties had honoured since about 2011. Her mother asked how work was. Kate gave a version — genuinely a good version, funny, self-deprecating, containing at least one achievement placed where it would not look placed. Her mother said something warm. Then her mother said the next thing.
+It was a fortnightly call and it had a structure both parties had honoured since about 2011. Her mother asked how work was. Kate gave a version — a good version, funny, self-deprecating, containing at least one achievement placed where it would not look placed. Her mother said something warm. Then her mother said the next thing.
 
 "So how's it all going?" said Elizabeth Merrick.
 
@@ -186,7 +186,7 @@ There was a small pause.
 
 Her mother told her about the box.
 
-It took ten minutes and involved a man called Gordon who had a theory. Kate asked three questions about it, and did not report a single thing, and did not ask for a single thing; and at the end her mother said, "Well — you sound busy, darling," slightly puzzled, because the shape of the call had been wrong.
+It took ten minutes and involved a man called Gordon who had a theory. Kate asked three questions about it. She did not report a single thing and did not ask for a single thing. At the end her mother said, "Well — you sound busy, darling," slightly puzzled, because the shape of the call had been wrong.
 
 "I am," said Kate. "Love to Dad."
 
@@ -226,7 +226,7 @@ She went to the class and was, for fifty minutes, the worst person in the room b
 
 She could not do the turn. She could not do the thing with the arms at all. At one point, going the wrong way across the floor, she collided with a retired postman.
 
-She came out at 7:35 with her hair wrecked and a graze on one elbow and her whole body ringing; and she stood in the car park behind the leisure centre in the July evening and thought: *nobody in that room knows what I do.*
+She came out at 7:35 with her hair wrecked and a graze on one elbow and her whole body ringing. She stood in the car park behind the leisure centre in the July evening and thought: *nobody in that room knows what I do.*
 
 ---
 

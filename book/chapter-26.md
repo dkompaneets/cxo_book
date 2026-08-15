@@ -1,6 +1,6 @@
 # 26. The Same Weather
 
-Nothing external had changed, which was the point, and which none of them would have believed in July.
+Nothing external had changed. None of them would have believed that in July.
 
 ---
 
@@ -34,7 +34,7 @@ The room stopped, which Kate found she minded less than she used to.
 
 "No," Colin agreed, delighted, and threw up both hands at the ceiling. "You are dancing as if the music might get it wrong."
 
-And Kate laughed so hard she had to sit down on the edge of the stage — in a church hall, on a Wednesday, in front of a dozen strangers and her own assistant, at forty-one years old.
+And Kate laughed so hard she had to sit down on the edge of the stage. In a church hall, on a Wednesday, in front of a dozen strangers and her own assistant, at forty-one years old.
 
 She could not do the turn. She still could not really do the turn. But there was a moment, in the second half of a class, sometimes, when her body stopped asking permission; and she recognised it, from a church hall in Amersham, from being nine.
 
@@ -52,19 +52,19 @@ Nik filed the second honest quarterly memo in October.
 
 It was easier than the first and still not easy. Aaron-from-the-fund gave him a hard time about a different thing, correctly, and Nik answered it plainly and survived it.
 
-Sunward was now due at the end of January, and would probably — Nik thought, privately, assigning it a number the way he now made himself assign everything a number — slip to March. He had already started the conversation about March, in November, from a position of ten months of cash, which is a conversation you can have.
+Sunward was now due at the end of January, and would probably, Nik thought, privately, assigning it a number the way he now made himself assign everything a number, slip to March. He had already started the conversation about March, in November, from a position of ten months of cash, which is a conversation you can have.
 
 In the kitchen at Woking, in the second week of November, a woman from the boiler company said the boiler had four to five years left in it, and Nik said "That's fine," and then heard himself, and said, "Sorry. It isn't fine. What does four to five years actually mean," and got a real answer, and wrote it down.
 
 He and Meera were not fixed, because people are not fixed. But she asked him the second question now, and waited for the answer.
 
-And when he polished something — which he still did, sometimes, in company, the reflex firing off before he could stop it — she would catch his eye across a room and hold up, very slightly, one finger.
+And when he polished something — which he still did, sometimes, in company, the reflex firing off before he could stop it, she would catch his eye across a room and hold up, very slightly, one finger.
 
 That was their private thing. It meant *say it once, slowly.* Which was Marek's phrase, which Nik had told her, which had become theirs.
 
 His father's knee was done in September, privately, and the physiotherapy worked. Raghavan walked to the end of the road and back in November, and rang to report it as though it were a chess result: the distance, the time, and one observation about the surface.
 
-The suitcase was still the maroon one. Anaya had stopped asking about it, and had — in a development nobody had predicted — begun to tell the suitcase's story at school as though it were a thing to be proud of, which Nik discovered at a parents' evening and did not entirely know what to do with.
+The suitcase was still the maroon one. Anaya had stopped asking about it, and had, in a development nobody had predicted, begun to tell the suitcase's story at school as though it were a thing to be proud of, which Nik discovered at a parents' evening and did not know what to do with.
 
 Nik had not rung the others either.
 
@@ -78,7 +78,7 @@ Eight people, a Tuesday, nothing at stake beyond the next four years.
 
 And he stopped.
 
-Ben had the pen up and the board behind him. Alex watched him get halfway into the movement — the shoulder already turning, the marker already at the surface, the box beginning — and stop.
+Ben had the pen up and the board behind him. Alex watched him get halfway into the movement. The shoulder already turning, the marker already at the surface, the box beginning. And stop.
 
 It cost him something visible.
 
@@ -88,13 +88,13 @@ He put the pen down on the ledge.
 
 So Alex said it again, and the room actually looked at it, for something like ninety seconds, which was ninety seconds longer than it would have looked in June. Then they argued for an hour, and the decision went about half his way, which is all anybody gets.
 
-Nobody in the room understood that anything had happened, which was correct, because the thing that had happened was entirely inside Alex Wójcik.
+Nobody in the room understood that anything had happened. Which was correct, because the thing that had happened was inside Alex Wójcik.
 
 The notebook was filling up again — a fifth one in October, red, the fourth full. And in the back of the fourth, in small square handwriting, written badly in the dark on a roof in Birmingham in July: *ask him about the second-question thing.*
 
 He never asked anybody. It had turned out not to be a question for anybody else.
 
-He had not rung the others. He kept meaning to ring Michael back, in the way you keep meaning to, and the meaning-to had gone from anger to awkwardness to the flat paralysis of a thing left too long.
+He had not rung the others. He kept meaning to ring Michael back, and the meaning-to had gone from anger to awkwardness to the flat paralysis of a thing left too long.
 
 ---
 
@@ -144,7 +144,7 @@ Michael's phone rang in a house in Hertfordshire at 9:52 on a Thursday night, an
 
 "Oh — hello, sorry, I'm trying to reach Michael. Michael Halloway. It's Kate Merrick, I'm — we met over the summer, I'm an advisor to—"
 
-"Kate." The voice was a woman's, and it was steady in the particular way that a voice is steady when it has been made to be. "Kate, yes. He mentioned you. I'm Claire. I'm his daughter."
+"Kate." The voice was a woman's, and it was steady in the way a voice is steady when it has been made to be. "Kate, yes. He mentioned you. I'm Claire. I'm his daughter."
 
 "Is he—"
 

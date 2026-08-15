@@ -98,9 +98,9 @@ She had danced until she was eleven.
 
 Tuesdays and Saturdays, a church hall in Amersham that smelled of hymn books and radiators. A Russian woman called Mrs Volkova who shouted and smelled of hairspray. Kate somewhere in the middle of the class — good, she thought, though there was nobody left to ask — and in the second half, when her body stopped asking permission.
 
-One dinner she still had whole, the way you keep a photograph you did not choose to take.
+One dinner she still had whole, like a photograph you did not choose to take.
 
-She was nine. She came to the table with a certificate. A real one, distinction, her name in a teacher's italic. Her mother read it and was delighted, genuinely, warmly, the whole table lifting a degree with the pleasure of it.
+She was nine. She came to the table with a certificate. A real one, distinction, her name in a teacher's italic. Her mother read it and was delighted, warmly, the whole table lifting a degree with the pleasure of it.
 
 "Katherine. That's wonderful."
 
@@ -110,7 +110,7 @@ There was no cruelty in it. Kate spent four sessions with a therapist in 2019 de
 
 The Saturday class went first, for the eleven-plus tutor. The tutor went well. Then the scholarship. The scholarship wanted maths and maths was Tuesday.
 
-Nobody stopped her dancing. There was no scene. There was a diary, and a list of what mattered, and dancing slid quietly down it, and one afternoon in March she noticed she had not been in five weeks and that nobody in the house had remarked on it.
+Nobody stopped her dancing. There was no scene. There was a diary. There was a list of what mattered. Dancing slid quietly down it, and one afternoon in March she noticed she had not been in five weeks and that nobody in the house had remarked on it.
 
 She had not been to a class since. She was forty-one. She could still, at a kitchen island at twenty past seven in the morning, feel exactly where her weight ought to be.
 
@@ -138,7 +138,7 @@ She added herself to the weekly platform sequencing call. Gareth's call, Tuesday
 
 Then a new item. A Thursday half-hour. Any decision that moved a date on a top-ten initiative got walked past her first.
 
-She typed the second one and felt a specific physical relief. A strap pulled tight.
+She typed the second one and felt a physical relief. A strap pulled tight.
 
 At the bottom she added: *Temporary — through Q4.*
 
@@ -220,7 +220,7 @@ Dawn packed her bag. A laptop she would not open. A lunchbox. A second lunchbox.
 
 "Fine," said Kate. "Big fortnight."
 
-"Big fortnight," Dawn agreed, and went down the stairs, and out through the doors, and away into a life with a shoebox in it.
+"Big fortnight," Dawn agreed, and went down the stairs and out through the doors, away into a life with a shoebox in it.
 
 Kate stood at the window and watched the top of Dawn's head cross the car park, and had a thought so unwelcome she put it away before finishing it. Something about how one of them was leaving and one of them was staying, and only one of them had a reason that would survive being said out loud.
 
@@ -236,7 +236,7 @@ She read the version of the plan she had written on Sunday and thought was good.
 
 She wrote a note to herself in the doc — *the number is wrong, say the number is wrong* — and deleted that too. Documents in a company are not private. And she was not ready to have written it down.
 
-**23:14.** She opened next week's calendar and looked at it the way you look at a wall.
+**23:14.** She opened next week's calendar and looked at it the way a person looks at a wall.
 
 She typed: *Dawn — sorry, I know. Can we get Ocean and the ops review into next week somewhere.*
 

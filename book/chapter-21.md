@@ -8,7 +8,7 @@ He thought about leaving a note.
 
 There were three room numbers he could have found in ninety seconds. He worked out what the three lines would have to say, and could not write the first one, because the first one would have had to begin *I was told on Monday evening that* — and he had not said that sentence out loud to anybody, including Ruth; including Terry, who had told it to him.
 
-So he put the folio in his coat and went out at 5:54 into that particular dead grey light, and the M42 was already going.
+So he put the folio in his coat and went out at 5:54 into the dead grey light, and the M42 was already going.
 
 ---
 
@@ -50,7 +50,7 @@ Then it doesn't work, thought Nikhil Raghavan, and pushed the pawn.
 
 For nineteen moves it was the best chess of his life. He knew it while it was happening, which is rare. He had a rook doing something on the h-file that he had never in his life had a rook doing.
 
-The Norwegian went into a thirty-four-minute think on move twenty-nine and came out having found the only move; and then the only move again; and then on thirty-five she found something he had not looked at, and it was over, slowly, across the next nineteen moves, in a completely dignified way.
+The Norwegian went into a thirty-four-minute think on move twenty-nine and came out having found the only move; and then the only move again; and then on thirty-five she found something he had not looked at, and it was over, slowly, across the next nineteen moves, in a dignified way.
 
 He resigned at 1:20 in the afternoon.
 
@@ -160,13 +160,13 @@ The hotel reset its lobby at four o'clock.
 
 The congress came out of the atrium in ninety minutes: eighty-eight trestle tables back into the van from Coleshill, the SILENCE PLEASE easel folded, the pairings off the noticeboard and into a bin bag. Housekeeping did the bedroom block floor by floor. The Warwick Suite went back to round tables of ten for a pharmaceutical distributor's regional awards on the Wednesday, and the fern lanyards and the banking lanyards and the third colour all went into the same box.
 
-By six the fireplace with no fire in it had four new people sitting in front of it, and the nine hundred glass rods were doing what they did, which was nothing.
+By six the fireplace with no fire in it had four new people sitting in front of it, and the nine hundred glass rods were doing what they did. Nothing.
 
 ---
 
 At 4:41, on a train out of Birmingham New Street, Nikhil Raghavan created a group.
 
-He had all four numbers, swapped on the roof on the Friday in the way you do — quickly, with the phones held up in the dark, and Michael complaining about the size of the letters.
+He had all four numbers, swapped on the roof on the Friday — quickly, with the phones held up in the dark, and Michael complaining about the size of the letters.
 
 He typed the numbers in. He looked at the field that said *Group name*, and typed *The Roof*, and deleted it; and typed *Ardenne*, and left it.
 

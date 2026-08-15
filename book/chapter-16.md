@@ -1,10 +1,10 @@
 # 16. What the Board Gave Her
 
-The board of Bellwether went back in at 10:52 and came out at 12:31, and in between it did the thing it had been assembled to do, which was to hold a chief executive to account.
+**10:52.** The board of Bellwether went back in. It came out at 12:31. In between it did the thing it had been assembled to do, which was to hold a chief executive to account.
 
 It went well.
 
-They took fourteen. They took it after fifty minutes of proper work. Simon from the fund pushed hard on the September sensitivity and was right to, and Kate gave him a worse answer than she wanted to and said so, and he accepted it. There was a genuinely difficult eleven minutes about the Kettering warehouse. Harriet Nash asked one question about Gareth Pryce that had four other questions inside it, and Kate answered the outer one and let the inner ones stand, and Harriet let her.
+They took fourteen. They took it after fifty minutes of proper work. Simon from the fund pushed hard on the September sensitivity and was right to. Kate gave him a worse answer than she wanted to, and said so, and he accepted it. There was a difficult eleven minutes about the Kettering warehouse. Harriet Nash asked one question about Gareth Pryce that had four other questions inside it, and Kate answered the outer one and let the inner ones stand, and Harriet let her.
 
 At 12:24 Harriet closed her folder.
 
@@ -20,7 +20,7 @@ Somebody made a small noise of agreement.
 
 Simon said, "Hear, hear," in the slightly embarrassed way that people say it.
 
-And one of the money people clapped. Twice. Then stopped, having established at speed that nobody else was going to, and turned the second clap into a movement towards his water glass — a save so smooth and so instantly deployed that Kate thought, with real admiration: *you have done that before.*
+And one of the money people clapped. Twice. Then stopped, having established at speed that nobody else was going to. He turned the second clap into a movement towards his water glass. A save so smooth, so instantly deployed, that Kate thought with real admiration: *you have done that before.*
 
 "Thank you," she said. "That means a great deal."
 
@@ -30,15 +30,15 @@ Here is what she felt.
 
 Nothing.
 
-Not modesty; she checked. Not the thing where you are so busy that a compliment arrives late and lands in the evening; she waited for it in the evening too. Not disbelief, not impostor syndrome, not the little hot rush followed by the drop.
+Not modesty. She checked. Not the thing where a compliment arrives late and lands in the evening. She waited for it in the evening too. Not disbelief, not impostor syndrome, not the little hot rush followed by the drop.
 
 Nothing at all. A flat, clean, echoing nothing, of the kind you get when you put your hand into a pocket you were certain had something in it.
 
-She sat at the table in the Warwick Suite while seven people gathered their laptops, and looked at the words in the air where Harriet had left them — *exceptional*; *I don't know what we'd do without you* — and turned them over the way you turn over a coin in a foreign currency.
+She sat at the table in the Warwick Suite while seven people gathered their laptops. She looked at the words in the air where Harriet had left them. *Exceptional.* *I don't know what we'd do without you.* She turned them over like a coin in a foreign currency.
 
 There was no denomination on them.
 
-*Exceptional.* A teacher had written that word on a piece of paper in an italic hand when she was nine, and her mother had read it at the table and been genuinely, warmly delighted, and had then asked about the maths.
+*Exceptional.* A teacher had written that word on a piece of paper in an italic hand when she was nine. Her mother read it at the table and was warmly delighted. Then she asked about the maths.
 
 Thirty-two years. Every distinction, every promotion, every round, every fourteen-hour day.
 
@@ -50,17 +50,17 @@ They were not a payment.
 
 The lift from the ballroom level to the eleventh floor takes fifty-one seconds when it stops nowhere, and it stopped nowhere.
 
-She rode up alone with a laptop under her arm and did the whole thing in fifty-one seconds, which is what happens when a structure that has been standing for thirty years finally lets go. It does not come down slowly.
+She rode up alone with a laptop under her arm and did the whole thing in fifty-one seconds. That is what happens when a structure that has stood for thirty years lets go. It does not come down slowly.
 
 *I chose them.*
 
-She had recruited Harriet Nash in 2021 out of a shortlist of four, over a perfectly good chairman from retail, and had said out loud to the search consultant — it was in the notes, under *strengths* — "she'll be harder on me." She had taken Simon's fund over a cheaper term sheet because they were known to be demanding.
+She had recruited Harriet Nash in 2021 out of a shortlist of four, over a perfectly good chairman from retail. She had said it out loud to the search consultant. It was in the notes, under *strengths.* "She'll be harder on me." She had taken Simon's fund over a cheaper term sheet because they were known to be demanding.
 
-Four years ago, with her own hands, in daylight, she had gone out and assembled seven intelligent people whose function was to be difficult to please, and installed them above her, and given them the authority to grade her.
+Four years ago, with her own hands, in daylight. She had assembled seven intelligent people whose function was to be difficult to please. Installed them above her. Given them the authority to grade her.
 
 *And what about the maths.*
 
-They would take fourteen. They would take fourteen and say *exceptional*, and on Tuesday the pre-work for the next cycle would start, and in November there would be a number, and the number would be a function of the last one; and nowhere in the whole apparatus was there a score at which anybody said *that's enough now.*
+They would take fourteen. They would take fourteen and say *exceptional.* On Tuesday the pre-work for the next cycle would start. In November there would be a number, and the number would be a function of the last one. Nowhere in the whole apparatus was there a score at which anybody said *that's enough now.*
 
 The lift said *eleven* in a woman's voice.
 
@@ -76,11 +76,11 @@ It was still there. It was going to be there tomorrow, and next Tuesday, and in 
 
 *Played 09:14.*
 
-She had gone into a room this morning and given the performance of her life, and had come out of it with the only two sentences she had ever wanted; and neither of those facts made any difference at all to the ninety-one seconds, which had been sent at 8:52 to a woman sitting on a sofa with a seven-year-old who could not breathe properly, and which said, in the calmest voice in England, that she did not understand the difference between a job and a role.
+She had gone into a room this morning and given the performance of her life. She had come out with the only two sentences she had ever wanted. Neither made any difference to the ninety-one seconds. Sent at 8:52. To a woman on a sofa with a seven-year-old who could not breathe properly. Saying, in the calmest voice in England, that she did not understand the difference between a job and a role.
 
 The verdict and the bill. Same morning.
 
-She got out of the lift. She went down the corridor. In the room she put the laptop on the desk and sat on the end of the bed with her coat still on and did not cry, because she genuinely could not, and had not since 2016, and had once mentioned this to a doctor in a way that she had made funny.
+She got out of the lift. She went down the corridor. In the room she put the laptop on the desk and sat on the end of the bed with her coat still on. She did not cry. She could not, and had not since 2016, and had once mentioned this to a doctor in a way she had made funny.
 
 At 1:14 she wrote a message to Dawn.
 
@@ -94,7 +94,7 @@ Then she deleted it, and wrote:
 
 And deleted that.
 
-Because Dawn would answer it inside four minutes. She always did. It would be kind, and Kate would read it and feel better, and that would be the whole transaction: relief for Kate, on a Sunday, billed to a woman with a sick child who had done nothing wrong.
+Because Dawn would answer it inside four minutes. She always did. It would be kind. Kate would read it and feel better. That would be the whole transaction. Relief for Kate, on a Sunday, billed to a woman with a sick child who had done nothing wrong.
 
 The same machine. Running the other way.
 
@@ -102,7 +102,7 @@ She put the phone face down on the bed.
 
 She would have to do it in a room. With her face. On Tuesday.
 
-She sat there for eleven minutes, which was the longest she had sat still and done nothing since a flight to Singapore in 2023; and then she got up and opened the laptop, because there were forty-one messages, and because the alternative was to go on sitting there.
+**13:25.** She sat there for eleven minutes, which was the longest she had sat still and done nothing since a flight to Singapore in 2023. Then she got up and opened the laptop. There were forty-one messages. The alternative was to go on sitting there.
 
 ---
 
@@ -110,9 +110,9 @@ At 6:40 she went down and had dinner with Harriet, at Harriet's suggestion, in t
 
 Harriet talked about her divorce, which Kate had not known about. Harriet said, "You know you don't have to be at everything," and Kate said, "I know," and Harriet said, "You don't, though," and Kate laughed and said, "I really do know."
 
-And then Harriet told her about the 2011 shareholder meeting, at which a man had stood up during the resolutions and read out, at length, and with feeling, a list of grievances concerning a car park.
+Then Harriet told her about the 2011 shareholder meeting. A man had stood up during the resolutions and read out, at length and with feeling, a list of grievances concerning a car park.
 
-"Not our car park," said Harriet. "That was the thing. He'd come to the wrong AGM. He was extremely well prepared. He had photographs."
+"Not our car park," said Harriet. "That's the thing. He'd come to the wrong AGM. He was extremely well prepared. He had photographs."
 
 "What did you do?"
 
@@ -124,4 +124,4 @@ And Kate said:
 
 "It's the hotel. It's got a roof you can get onto."
 
-And Harriet said, "How do you know that?" and Kate said, "A man told me," and made it funny, and made Harriet laugh, and went up to bed.
+And Harriet said, "How do you know that?" and Kate said, "A man told me," and made it funny, and made Harriet laugh. Then she went up to bed.

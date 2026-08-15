@@ -14,7 +14,7 @@ Velum's product was one idea worn very thin. You could watch what a program actu
 
 He had written most of it in eleven days, two years ago, in a state he had never been able to get back to. Thirty-one million dollars of other people's money sat on top of those four thousand lines like a cathedral on a canoe.
 
-There was a race condition in it. He had known for five months, the way you know a tooth is going to need work.
+There was a race condition in it. He had known for five months, in the way of a tooth that is going to need work.
 
 At ten forty he found it.
 
@@ -42,7 +42,7 @@ Or — and this was the one, this was the one that arrived sideways the way they
 
 He wrote it out. He rewrote it out because the first version had the read on the wrong side. He drew the two lines again with the new shape and looked for the gap and there was no gap, there was no possible interleaving with a gap in it, he tried to build one for a long time and could not, and that was the best part of the whole seventy minutes.
 
-For seventy minutes the world consisted of a screen and his hands. His mind, which normally ran like a fairground — the conversations he should have had, one he had had badly, the thing Ben said in December, the burn rate, his own voice at the last all-hands, tinny and apologetic and not his — went completely, gloriously silent.
+For seventy minutes the world consisted of a screen and his hands. His mind, which normally ran like a fairground — the conversations he should have had, one he had had badly, the thing Ben said in December, the burn rate, his own voice at the last all-hands, tinny and apologetic and not his — went gloriously silent.
 
 There was only the problem.
 
@@ -78,7 +78,7 @@ He said: "No. Because we're below the runtime."
 
 He said, when the Arcus VP of Engineering asked what happened under memory pressure: "It degrades to sampling, and it tells you it has."
 
-And at twelve forty-four he said, "Yes, that's right," to something that was not entirely right, because correcting it would have taken ninety seconds and Ben had said the sentence before it.
+And at twelve forty-four he said, "Yes, that's right," to something that was not quite right, because correcting it would have taken ninety seconds and Ben had said the sentence before it.
 
 Ben spoke for the other fifty-one minutes and was, Alex thought without any bitterness at all, extraordinary. He made a company of forty people sound like a phenomenon. He told a story about a customer in Rotterdam that Alex had been in the room for, and in Ben's version it had a shape, and in Alex's memory it had been four days of horror and a fix at three in the morning.
 
@@ -102,7 +102,7 @@ He finished. There was a pause. He could feel that he had landed it. For a momen
 
 And then Ben talked for four minutes about timing.
 
-It was good. It was genuinely good, and none of it contradicted anything Alex had said, and that was the trouble. It accepted the whole argument and set it gently to one side, the way you move a chair. Q4 was a risk they'd be lucky to have. February was a certainty. A platform is what you call an engine after somebody has paid for it.
+It was good. It was good, and none of it contradicted anything Alex had said, and that was the trouble. It accepted the whole argument and set it gently to one side, the way a chair is moved. Q4 was a risk they'd be lucky to have. February was a certainty. A platform is what you call an engine after somebody has paid for it.
 
 By the end the room's centre of gravity had gone. No vote. And when Ben said, "Alex, you're the one who has to build it — what do you think?" the honest answer was *I think you've just spent four minutes making it impossible for me to think.*
 
@@ -174,7 +174,7 @@ That was good. He could feel it being good. The rare physical sensation of a sen
 
 The room settled. Alex watched it happen. Saul leaning back. Fenella turning her laptop round. A pen going down. The small physical agreement a group makes when it has decided.
 
-He had one move left. He knew what it was, because he had made it before. *Ben, hang on, give me ninety seconds and nobody talk.* It worked. It cost him hours of the specific afterwards, lying awake replaying the faces of people who had watched him ask a grown man for silence in his own company.
+He had one move left. He knew what it was, because he had made it before. *Ben, hang on, give me ninety seconds and nobody talk.* It worked. It cost him hours of the afterwards, lying awake replaying the faces of people who had watched him ask a grown man for silence in his own company.
 
 "So—" he said.
 

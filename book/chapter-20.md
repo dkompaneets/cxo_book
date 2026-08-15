@@ -2,7 +2,7 @@
 
 Nik got there first, at five to nine, because he had been sitting in his room since half past seven unable to be in it.
 
-He took the round table in the corner of The Long Room — the one under the bad print of a canal — and ordered a lime and soda, and looked at it, and ordered a beer as well.
+He took the round table in the corner of The Long Room, the one under the bad print of a canal, and ordered a lime and soda. He looked at it. Then he ordered a beer as well.
 
 He had not replied to Meera. That fact had been underneath everything for twenty-six hours: nine things typed and none sent; then, that morning, *I'll sort it, don't worry, I'll call you tonight;* and back, a single word, *ok*, which had sat in his phone all day like a stone in a shoe.
 
@@ -28,7 +28,7 @@ She had gone thirty hours in the presence of a thing she was forbidden to fix.
 
 She had not, in four years, gone thirty hours without fixing something.
 
-So the machine — with nowhere to go and enormous pressure behind it — found three problems it could solve.
+So the machine, with nowhere to go and enormous pressure behind it, found three problems it could solve.
 
 "Alex. Your co-founder's going to sell the company. Eleven months, tops. He'll be lovely about it the whole way and you'll find out from a document. The tell isn't that he talks over you. The tell is the twenty-two seconds. Nobody waits twenty-two seconds unless they've already decided and they need it on the record that they asked. You built something in a hotel this weekend for *free.* What did you charge?"
 
@@ -84,7 +84,7 @@ The not-answering was the answer, and Alex saw it.
 
 "That's enough," said Kate.
 
-"No, it isn't," said Alex, and stood up, and then did not have anywhere to go, and sat down again, which was worse.
+"No, it isn't," said Alex, and stood up, and then did not have anywhere to go, and sat down again. Which was worse.
 
 ---
 
@@ -128,7 +128,7 @@ Alex, who had braced against everything except that, said nothing.
 
 Michael turned the glass a quarter turn on the table.
 
-"And now I'm going to give you the other half, because you've earned it, and because nobody else in your life is ever going to." He did not raise his voice. "Nobody talks over you. I've watched you for four days and I don't believe it. What happens is that everyone in your company waits — and you don't come. And after a while they get on with it, because a business has to. You have trained forty people to spare you. It isn't cruelty; it's a service they provide. You've been accepting it for two years and calling it being silenced."
+"And now I'm going to give you the other half, because you've earned it, and because nobody else in your life is ever going to." He did not raise his voice. "Nobody talks over you. I've watched you for four days and I don't believe it. What happens is that everyone in your company waits, and you don't come. And after a while they get on with it, because a business has to. You have trained forty people to spare you. It isn't cruelty; it's a service they provide. You've been accepting it for two years and calling it being silenced."
 
 "That's—" Alex's mouth was open.
 

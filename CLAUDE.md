@@ -147,6 +147,29 @@ share a scene, the contrast is the point — and the ensemble chapters are where
 - Ensemble chapters (6, 11, 20, 21, 26, 27) are where the four registers collide. They should
   be the loudest chapters in the book, not the flattest.
 
+### Checking the registers
+
+[scripts/register.py](scripts/register.py) measures narration only — dialogue cut out — against
+the targets in each `reference/` file.
+
+```sh
+python3 scripts/register.py          # all four POVs, plus which pair is converging
+python3 scripts/register.py 4 24     # named chapters against their owner's target
+python3 scripts/register.py --blind  # name-masked paragraphs; guess the POV, then check the key
+```
+
+The numbers are a floor and not a style. A chapter can pass every one and still be dead, and
+`--blind` read by a person is the only test that settles it. What the harness catches is the
+thing you cannot see from inside a chapter: two registers drifting onto the same mean.
+
+**Judge each POV on the statistic that is actually theirs.** Mean sentence length is not it —
+the first two drafts differentiated on the mean and put Kate and Alex on 11.7 apiece, identical
+on every other measure, which is what "one narrator wearing four names" looks like from the
+outside. Michael is the mean and the semicolon. Kate is the timestamp and a narrow spread. Nik
+is currency on the page. Alex is the tail: he is short on average *and* owns the longest
+sentence in the book, and chasing a high mean for him destroys the register it is meant to
+protect.
+
 ### Failure modes to watch
 
 - **One narrator wearing four names** — the failure this rewrite exists to fix. Test: strip

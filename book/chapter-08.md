@@ -1,6 +1,6 @@
 # 8. The Lobby Bar
 
-The bar at The Ardenne was called The Long Room and was not long. Nine stools. A marble counter installed in 2016 over a mahogany one from 1974. A barman called Denny who had worked there nine years and had developed the specific skill of being entirely present and entirely absent at the same time.
+The bar at The Ardenne was called The Long Room and was not long. Nine stools. A marble counter installed in 2016 over a mahogany one from 1974. A barman called Denny who had worked there nine years and had developed the skill of being present and absent at the same time.
 
 Kate came down at 9:40 with a laptop she did not open and a folder she did.
 
@@ -36,7 +36,7 @@ Kate looked at him with the face she had spent twenty years perfecting for men w
 
 "No," said the man. "It's completely wrong. But it's a good line, and I've been waiting three years to use it."
 
-And Kate — who had had four hours' sleep, and a day of sixty-one people, and a call with Harriet at six that had gone badly in the way that only entirely pleasant calls can go badly — laughed. Properly. Out loud, in a hotel bar, before she had decided to.
+And Kate — who had had four hours' sleep, and a day of sixty-one people, and a call with Harriet at six that had gone badly in the way that only pleasant calls can go badly. She laughed. Properly. Out loud, in a hotel bar, before she had decided to.
 
 "Michael," said the man.
 
@@ -46,7 +46,7 @@ And Kate — who had had four hours' sleep, and a day of sixty-one people, and a
 
 He did. He actually did; he turned slightly away and got his phone out and read something on it for a full ninety seconds.
 
-Kate looked at her sheet of paper. At the *3*. And discovered that she had entirely lost the thread, and that what she wanted, with an intensity that alarmed her, was for the man to say something else.
+Kate looked at her sheet of paper. At the *3*. And discovered that she had lost the thread, and that what she wanted, with an intensity that alarmed her, was for the man to say something else.
 
 "What are you here for?"
 
@@ -78,7 +78,7 @@ The first was that he could not hurt her. Not on her board. Not in her sector. N
 
 The second was that he was old.
 
-Not old-old. But old enough that the thing she had carried for the best part of a year — the low constant humming sense of being watched by people deciding whether she was going to be one of the ones who make it — simply did not exist between them.
+Not old-old. But old enough that the thing she had carried for the best part of a year, the low constant humming sense of being watched by people deciding whether she was going to be one of the ones who make it, simply did not exist between them.
 
 He had already found out how his went.
 
