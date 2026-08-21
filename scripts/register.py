@@ -60,7 +60,18 @@ TARGET = {
 
 # Currency only. "Per cent" belongs to any technical speaker; a price belongs to Nik.
 MONEY = r"(£|\bpounds?\b|\bpence\b|\blakh\b|\bquid\b|\bbasis points?\b|\brupees?\b)"
-CLOCK = r"\b\d{1,2}[:.]\d{2}\b"
+# Kate writes 9:24. Alex was drafted writing "twelve forty-four", which is the same bar line
+# in words, and the numeral-only pattern scored his chapter at 0.00 while it carried seven of
+# them. Bare hours ("three in the morning") are duration and stay uncounted; hour-plus-minute
+# is a dial reading and is hers.
+_H = r"(?:one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)"
+_M = (r"(?:oh[- ](?:one|two|three|four|five|six|seven|eight|nine)"
+      r"|(?:twenty|thirty|forty|fifty)(?:[- ](?:one|two|three|four|five|six|seven|eight|nine))?"
+      r"|fifteen|ten|five)")
+CLOCK = (r"\b\d{1,2}[:.]\d{2}\b"
+         rf"|\b{_H}[- ]{_M}\b"
+         rf"|\b(?:quarter|half|five|ten|twenty|twenty[- ]five)[- ](?:past|to)[- ]{_H}\b"
+         rf"|\b{_H}\s+o'clock\b")
 
 
 def load(n):
