@@ -2,123 +2,35 @@
 
 The office had a sound and the sound was the air handling.
 
-You stopped hearing it at about nine in the morning and heard it again at about eight at night, and in between it was under everything, a long slow animal breathing somewhere above the ceiling tiles, and Alex Wójcik had worked to it for two years and could have hummed it.
+A long slow animal breathing somewhere above the ceiling tiles. You stopped hearing it around nine and heard it again around eight. After midnight it dropped a tone and a half and went quieter, and that was the version Alex Wójcik knew best.
 
 Forty desks. A wall with VELUM on it in letters two metres high and, underneath, smaller, in a different hand, *ship it.*
 
-He had moved desk twice in two years. The first time was people. The second time was a laptop charger two seats down with a coil in it that sat a semitone under the building, so that the two of them went in and out of phase about every nine seconds, and he had lasted eleven days and then picked up his monitor and moved. He had explained why, once, because he was asked. It had gone into the company as a funny thing about Alex.
+He worked with his shoes off.
+
+He had moved desk twice in two years, once because of people and once because of a laptop charger two seats down that sat a semitone under the building and beat against it every nine seconds. Eleven days of that. Then he picked up his monitor and moved. He had explained why, once, because he was asked, and it had gone into the company as a funny thing about Alex.
 
 Tuesday.
 
 ---
 
-Velum's product was one idea worn very thin. You could watch what a program actually did at the moment it did it, instead of reading its intentions off a manifest beforehand. The interceptor was where the idea touched metal. Four thousand lines of C.
+There was a fault in the interceptor.
 
-He had written most of it in eleven days, two years ago, in a state he had never been able to get back to. Thirty-one million dollars of other people's money sat on top of those four thousand lines like a cathedral on a canoe.
+He had known for five months, in the way of a tooth that is going to need work. Four thousand lines of C, most of them written in eleven days two years ago in a state he had never been able to get back to, and thirty-one million dollars of other people's money sitting on top of them like a cathedral on a canoe.
 
-There was a race condition in it. He had known for five months, in the way of a tooth that is going to need work.
+It was not a crash. It was worse than a crash. Once in about a million teardowns, on a machine that happened to be running hot, two things that had never in eighteen months arrived in the wrong order arrived in the wrong order.
 
-Then he found it.
+Fenella asked him at the kettle how the hunt was going.
 
-It was not where he had been looking. It was three files away, in the teardown path, and it was so simple and so stupid and so *his* that he made a noise out loud and the woman at the next desk took one earphone out and looked at him and he said sorry and she put it back.
+"It's not the barrier," he said. "The barrier's correct. That's the annoying part. Everything in there is correct."
 
-And then the room went.
+"So what's wrong with it?"
 
----
+"Nothing's wrong with it."
 
-Because the thing about the teardown path is that it doesn't own anything, it only borrows, and the whole design had been built on that — borrow, use, hand back, and the refcount is the receipt — except that the handing back happens on a different thread from the borrowing, which was fine, which had always been fine, because the ordering was guaranteed by the quiesce, and the quiesce was guaranteed by the barrier, and the barrier was where he had stopped looking two years ago because the barrier was correct.
+She waited for a moment to see whether that was a joke.
 
-The barrier *was* correct. That was the beautiful part. Nothing here was wrong. Every single piece of it was doing exactly the thing it had been asked to do, and it had been asked by him, and he could still remember asking.
-
-What had happened was that a fourth thing had been added in March, a small thing, forty lines, to flush the audit buffer on shutdown so you didn't lose the last two seconds of a trace, and it took the same lock, and it took it *after* the barrier, and for eighteen months out of every million teardowns nothing happened at all, and then a machine somewhere ran hot and the scheduler made a different choice and the flush arrived while the refcount was still one, and the object went, and the pointer stayed, and the next thing that touched it read whatever had moved in.
-
-He drew it. Two lines on paper, thread A and thread B, and the little vertical strokes where they touched, and the gap. The gap was about four microseconds wide and had been sitting in production since the spring inside every deployment they had.
-
-He could close it three ways.
-
-Take the lock earlier, which worked, and cost a lock acquisition on a hot path forty thousand times a second, and he was not going to do that.
-
-Or refuse the flush if the count was already falling, which worked, and quietly threw away the last two seconds of the trace, which was the thing the forty lines had been added to stop, so that was a circle.
-
-Or — and this was the one, this was the one that arrived sideways the way they did, about ninety seconds after he stopped hunting for it — do not take the lock at all. Do not have a lock. Publish the count and let the flush read it and lose the race honestly, and make losing the race *mean* something: if you lose, you were late, and if you were late the buffer is already gone, and a buffer that is already gone does not need flushing. The bug becomes the answer. You stop asking the two threads to agree about who is holding the object and you let one of them find out it has been overtaken, and the finding-out is free, and it is one word, and the word is already there.
-
-He wrote it out. He rewrote it out because the first version had the read on the wrong side. He drew the two lines again with the new shape and looked for the gap and there was no gap, there was no possible interleaving with a gap in it, he tried to build one for a long time and could not, and that was the best part of the whole seventy minutes.
-
-For seventy minutes the world consisted of a screen and his hands.
-
-The conversations he should have had. One he had had badly. The thing Ben said in December. The burn rate. His own voice at the last all-hands, tinny and apologetic and not his. All of it went, and stayed gone, for seventy minutes.
-
-There was only the problem.
-
----
-
-At the end of the seventy minutes Ben Farrow appeared beside him with his laptop already open, which was how Ben appeared.
-
-"Mate. Arcus moved the call up. Twenty minutes."
-
-Alex did not look away from the screen. "I'm in the middle of—"
-
-"I know. I know you are. Twenty minutes, and then I will physically guard you for the rest of the day. I'll sit here with a stick." Ben smiled. Ben's smile was not a weapon, which was the difficulty. If it had been a weapon Alex could have named it. "They want to see the agent do the thing. You're the only one who can drive it without it falling over."
-
-"Saul can drive it."
-
-"Saul can drive it into a wall."
-
-So he saved the work. He wrote three words in the notebook — *teardown, refcount, ordering* — and closed it, and went into the room called Riga.
-
-The air handling was in there too. He noticed that.
-
-The seventy minutes were over.
-
----
-
-The call ran fifty-five minutes. Alex spoke for four of them.
-
-Arcus had six people on it and five of them talked. There was a slide with three arrows on it and a fourth arrow that had been added by somebody else in a slightly different grey. Their VP of Engineering said that the fundamental tension in the category was between coverage and overhead, and that they had been living inside that tension for eighteen months, and that in fairness every vendor in the space was living inside it too, and that the real question — and he wanted to be direct about this, because he thought directness saved everybody time — was not whether you had the tension but whether you were honest with the customer about where you had chosen to sit on it, which was a maturity conversation more than a technology conversation, and which was frankly where a lot of their current tooling fell down. A woman whose title nobody had given described the problem from the point of view of the customer. Then a man described it from the point of view of the board. Then the woman came back and described it from the point of view of the customer again, briefly, and apologised for repeating herself, and nobody minded.
-
-Alex had it in about ninety seconds. He waited, because Ben's hand had gone flat on the table in the way that meant let them finish.
-
-He said: "It's not sampling, it's every call."
-
-He said: "No. Because we're below the runtime."
-
-Then the VP sat back and put both hands up.
-
-"So that's the wall. Everyone hits the wall. Right? I mean — what do you even do with that."
-
-"Just use multithreading," said Alex.
-
-Six squares on a screen and nothing coming out of any of them. Somebody's microphone picked up a chair. In one of the squares a man looked down and to the left, the way you do when you are working out whether a thing that has been said is beneath you or above you and you would like to know before you speak.
-
-Nobody asked.
-
-He heard the size of the pause and did the thing he could not stop doing, which was to help.
-
-"You do the enrichment off the write path and take the ordering hit at the sink instead of the source. Same total work. It just isn't in the way any more."
-
-"Sure," said the VP. "Sure, sure."
-
-"Which is a really good bridge, actually," said Ben, "into where we've got to on the roadmap, because the thing Alex is describing is landing in the platform in Q1 and I want to show you the shape of it—"
-
-The call ran another thirty-one minutes and did not go back.
-
-Forty minutes in, Alex said, "Yes, that's right," to something that was not quite right, because correcting it would have taken ninety seconds and Ben had said the sentence before it.
-
-Ben spoke for the other fifty-one minutes and was extraordinary. He made a company of forty people sound like a phenomenon. He told a story about a customer in Rotterdam that Alex had been in the room for, and in Ben's version it had a shape, and in Alex's memory it had been four days of horror and a fix at three in the morning.
-
-Both were true. Ben's was more useful.
-
-In the corridor afterwards Ben walked backwards for a few steps to say it properly. "That was great. You were great. The thread thing especially."
-
-"Did they get it?"
-
-"They loved it."
-
-Alex turned that over and found that it was an answer to a different question.
-
-"It's simple," he said. "It's the simplest part of the whole system. It's two lines."
-
-"I know," said Ben. "That's why it's great." And he was gone into the next thing, and he had meant every word, and both of those were true as well.
+"Well," she said. "Good luck."
 
 ---
 
@@ -128,21 +40,23 @@ Build the multi-tenant control plane now — six weeks, two engineers, the thing
 
 He had prepared. That was the part he came back to at two in the morning. This time, for once, he had actually fought.
 
-He had written it out the night before in the small square handwriting he had had since he was fourteen. Four numbered points and a diagram. He made all four. He got the whole argument into the room, out loud, in order, which for him was close to a personal record. The control plane wasn't a feature, it was the shape of the thing. The report was two weeks of work that would sell to companies they physically could not then serve. Every customer it won would arrive in Q4 with subsidiaries and a wall.
+He had written it out the night before in the small square handwriting he had had since he was fourteen. Four numbered points and a diagram. He made all four. He got the whole argument into the room, out loud, in order, which for him was close to a personal record. The control plane wasn't a feature, it was the shape of the thing. The report would sell to companies they physically could not then serve. Every customer it won would arrive in Q4 with subsidiaries and a wall.
 
 "Can I just—" said Saul, twice, and both times Alex said "hang on, one more," and kept going, and the second time his voice did something he had not heard from it before, which was to get slightly louder rather than quieter.
 
-He finished. There was a pause. He could feel that he had landed it. For a moment he thought he had won.
+He finished.
 
-"That's completely right," said Ben.
+There was a pause. He could feel that he had landed it. For a moment he thought he had won.
+
+"That's completely right," said Ben Farrow.
 
 And then Ben talked for four minutes about timing.
 
-It was good. It was good, and none of it contradicted anything Alex had said, and that was the trouble. It accepted the whole argument and set it gently to one side, the way a chair is moved. Q4 was a risk they'd be lucky to have. February was a certainty. A platform is what you call an engine after somebody has paid for it.
+It was good. None of it contradicted anything Alex had said, and that was the trouble. It accepted the whole argument and set it gently to one side, the way a chair is moved. Q4 was a risk they'd be lucky to have. February was a certainty. A platform is what you call an engine after somebody has paid for it.
 
-By the end the room's centre of gravity had gone. No vote. And when Ben said, "Alex, you're the one who has to build it — what do you think?" the honest answer was *I think you've just spent four minutes making it impossible for me to think.*
+By the end the room's centre of gravity had gone. There was no vote. There was never a vote.
 
-What he said was:
+"Alex, you're the one who has to build it — what do you think?"
 
 "I mean. We can do the compliance thing quickly."
 
@@ -152,13 +66,31 @@ It was minuted as *compliance module, 2 sprints, Alex to scope.* A minute later 
 
 ---
 
-That night the building dropped its note the way it did after midnight, a tone and a half down and quieter, and Alex was alone in the office, the way he was two or three nights a week. Far lights off, one lamp.
+That night he was alone in the office, the way he was two or three nights a week. Far lights off, one lamp. The building down a tone and a half.
 
-He had fixed the race condition. It took four hours, because the seventy-minute state never came back on demand. He fixed it in the plodding way, by being stubborn at it, and nobody would ever know it had been broken.
+The extractor over the kitchen had been rattling since March.
 
-The notebook took nouns. That was not a rule he had made, it was a rule he had noticed, going back through the four of them: *teardown, refcount, ordering.* *quiesce.* *arena, then bump, then never free.* Names of things. In three years there were two sentences in it.
+It was not loud. It was a dry knock every four or five seconds where something in the housing had come adrift, and it went through the floor and into the desks, and he had raised it with the office manager in March and again in May, and in May she had said she would chase it, and had chased it.
 
-He got the notebook out and sat with the pen a long time and wrote the third.
+He got a screwdriver out of the drawer where the chargers went to die and stood on a chair.
+
+The cover came off in one piece and hung by its own weight on the last screw, and inside it was exactly what he had thought it would be for five months, which was nothing dramatic at all, a bracket with two fixings and one of them backed out about four turns and the whole assembly hanging on its friction and knocking against the flange every time the blade passed a particular point in its rotation, and he stood on the chair with his head and one shoulder inside the housing and turned the fixing until it stopped, and then a quarter turn more, and then took the blade in two fingers and moved it through a full revolution to hear the whole circle of it, and there was nothing, and he did it again to be sure, and there was nothing, and he came down off the chair and stood in the middle of the dark kitchen with the screwdriver in his hand and listened to a building that had one fewer thing wrong with it than it had had eleven minutes earlier, and nobody would ever know, and nobody would ever mention it, and the pleasure of that went through him like something warm gone down too fast.
+
+He was still standing there when he saw it.
+
+Not the fan. The other thing, the five-month thing, arriving sideways from underneath the way they always did, ninety seconds after he had stopped hunting for it and while his hands were full of somebody else's screwdriver.
+
+He went back to the desk.
+
+It took the rest of the night, because he did it the plodding way, being stubborn at it, the seventy-minute state never coming back on demand. He took the lock out. He drew the two threads on paper with their little vertical strokes and went looking for the gap and could not build one, and tried for a long time to build one, and could not, and that was the best part of the whole night.
+
+Nobody would ever know that had been broken either.
+
+---
+
+The notebook took nouns. That was not a rule he had made, it was a rule he had noticed, going back through the four of them. *Teardown, refcount, ordering.* *Quiesce.* *Arena, then bump, then never free.* Names of things. In three years there were two sentences in it.
+
+He got it out and sat with the pen a long time and wrote the third.
 
 *I was right today and it didn't matter, and I need to work out whether that's because I was wrong.*
 
@@ -198,17 +130,17 @@ Four words. It cost Marek Wójcik nothing to say and everything to be able to sa
 
 The second time was smaller and worse.
 
-Following Tuesday. Not the sale — the sale had been lost the week before in a proper meeting where he had at least fought. This was a design session about how the agent would carry state across a restart, and Alex had drawn the thing he had been turning over for a month.
+The following Tuesday. A design session about how the agent would carry state across a restart, and Alex had drawn the thing he had been turning over for a month.
 
 He said it well to begin with.
 
-"The trick is you don't persist the state at all. You persist the *inputs*, in order, and replay them on restart, and then there's nothing to corrupt, because there's no state to be wrong — there's just the log and a function. It's slower to start and it can never lie to you, and for us that's the whole trade, because the thing that kills us in the field is state that's silently wrong."
+"You don't keep the state at all. You keep the *inputs*, in order, and run them again on restart. Then there's nothing to corrupt, because there's nothing left to be wrong — there's a log and a function. It's slower to start and it can never lie to you. That's the whole trade, and it's the right way round for us, because what kills us in the field is state that's quietly wrong six weeks later."
 
-That was good. He could feel it being good. The rare physical sensation of a sentence leaving his mouth in the shape it had held in his head.
+He could feel it being good. The rare physical sensation of a sentence leaving his mouth in the shape it had held in his head.
 
-"Right," said Ben, already up and moving to the board, which was how it started. He picked up the red pen and drew a box around what Alex had drawn. "So the way I'd frame this is — do we need it now, or is it a v2 thing? It's elegant, genuinely, but the customer never sees a restart, and we've got forty people and a runway that ends in February, and I don't want to gold-plate the engine while the thing that closes deals sits in a backlog."
+"Right," said Ben, already up and moving to the board, which was how it started. Red pen. A box drawn around what Alex had drawn. "So the way I'd frame this is — do we need it now, or is it a v2 thing? It's elegant, genuinely. But the customer never sees a restart, and we've got forty people and a runway that ends in February, and I don't want to gold-plate the engine while the thing that closes deals sits in a backlog."
 
-The room settled. Alex watched it happen. Saul leaning back. Fenella turning her laptop round. A pen going down. The small physical agreement a group makes when it has decided.
+The room settled. Alex watched it happen. Saul leaning back. Fenella turning her laptop round. A pen going down.
 
 He had one move left. He knew what it was, because he had made it before. *Ben, hang on, give me ninety seconds and nobody talk.* It worked. It cost him hours of the afterwards, lying awake replaying the faces of people who had watched him ask a grown man for silence in his own company.
 
@@ -232,9 +164,7 @@ He heard the volume go out of his own voice in real time. The sentence trailing 
 
 He sat at his desk afterwards, not working, turning the notebook over in his hands without opening it.
 
-He could talk for forty minutes about memory ordering to a room full of strangers in Seattle. There was a video. Two thousand people had watched it and some had written to say it changed how they thought about their scheduler.
-
-In Seattle they were deciding about the scheduler.
+Above the ceiling tiles the air handling went on with its long slow breathing, and one floor over, in the kitchen, the extractor ran without a knock in it, and no one in the building had said a word about that either.
 
 ---
 

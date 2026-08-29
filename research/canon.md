@@ -58,6 +58,10 @@ banking conference where Michael speaks, and the Midlands Open chess congress.
 - **Arcus** — the American acquirer that wants the product and the team.
 - **Marek** and **Ewa Wójcik** — his parents. Came from Poland with nothing; Marek did nights at a
   bakery on Bethnal Green Road and days at a print works.
+- **The dates.** Marek arrived in 1994, at thirty-seven, with Ewa and a trade that did not transfer.
+  He is sixty-eight now. **Alex was born here, in 1999** — his parents have the accent and he does
+  not, which is the whole of the pitch in ch2. He does not arrive as a child with them. The dead
+  Compaq goes on the kitchen table in 2007, when he is eight, and takes eleven weeks.
 
 ## Michael Halloway — COO, 64
 

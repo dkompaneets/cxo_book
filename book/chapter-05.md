@@ -70,6 +70,8 @@ Bea sent nothing in the morning either. Four weeks later Kate would notice that 
 
 ---
 
+The flat in Bow had a fridge in it and the fridge had a compressor, and on a Sunday with nothing else running you could hear it come in and go out.
+
 Alex found out about the customer call the same Sunday, by accident, in the most boring way imaginable.
 
 He was tidying the shared drive because he could not face the compliance module. He opened a folder called *Meridian.* There was a file in it four days old. `Meridian — follow up`, Ben's initials on it, from a Wednesday on which Alex had sat eleven feet from Ben all day and heard nothing about a call.
@@ -90,11 +92,9 @@ It was obviously fine. A short inbound call to the CEO on a day Alex was buried 
 
 *no worries at all*, Alex typed, and sent it.
 
-Then he sat for a long time in a flat in Bow with the fridge going, and it cut out, and the room was louder without it.
+It was the third time. Each one had been fine.
 
-Because underneath the reasonable exchange was a thing he could not photograph. This was the fourth time. Each individual time had been fine. And he was starting to feel himself routed around the way water routes around a rock — not maliciously, not even deliberately, only because it was faster.
-
-There is no way to say *I have a feeling* to a man with a runway ending in February.
+He sat for a long time with the fridge going. Then it cut out, and the room was louder without it.
 
 He had not opened the notebook in eighteen days.
 

@@ -99,9 +99,14 @@ Michael's side instead of entering it. Split it — Michael's POV for the room, 
 prose to Alex and let the eruption run at full length and full speed. Michael's sixty per
 cent comprehension becomes the reader's sixty per cent.
 
-Ch2 is the weakest chapter in the book at least partly for the same reason: the seventy silent
-minutes are described in retrospect, at a distance, in the house voice. Write them as the
-seventy minutes.
+Ch2 was the weakest chapter in the book for the same reason and has been rewritten: the
+extractor comes off the wall and the fix runs at full length, in one sentence, as the thing
+happening. It is now the reference for the other four.
+
+Ch9 was making the same mistake in miniature — *he did the thing with his hands and used the
+words ring buffer* — and now enters it. The eruption is the ring, told to a man holding a
+bishop who does not need to say anything, and the point of the scene is that nothing comes in
+over the top of it.
 
 Ch24 is the return, played quiet. He says it once, slowly, and the room tone is still going
 underneath.

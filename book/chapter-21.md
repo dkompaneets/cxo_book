@@ -124,6 +124,8 @@ They had four hours. They had a coffee, and a second coffee. Ewa found a shop an
 
 Marek and Alex sat in two moulded plastic chairs at the end of a row.
 
+Terminal 2 ran at about a hundred hertz and never stopped. Air handling, the travelators, a floor polisher two gates down, the PA coming over the top of all of it every ninety seconds to say the same four things to different people.
+
 Marek did not say anything for a long time. He sat with his hands on his knees, in the good jacket, an old man with a bad shoulder in an airport.
 
 He waited.
@@ -146,13 +148,13 @@ There was a pause of about ten seconds.
 
 "Ah," said Marek. "Yes."
 
-They ate the crisps.
+They ate the crisps, under the hundred hertz.
 
-At 5:20 Ewa came back with nothing, as always, and said the perfume section was a disgrace, and it was time; and there was the business of the bags, and the short struggle over who carried what, which Marek won.
+At 5:20 Ewa came back with nothing, as always, and said the perfume section was a disgrace, and it was time. And there was the business of the bags, and the short struggle over who carried what, which Marek won.
 
 At the barrier his mother held on slightly too long and said into his shoulder, "You'll come at Christmas. Properly, not one day," and Alex said, "I'll come at Christmas."
 
-And his father shook his hand, because they had never been a family that embraced at barriers, and held it a second longer than the handshake; and then they went through, and his mother turned round twice and waved, and his father did not turn round at all, because he could not have managed it.
+And his father shook his hand, because they had never been a family that embraced at barriers, and held it a second longer than the handshake, and then they went through, and his mother turned round twice and waved, and his father did not turn round at all, because he could not have managed it.
 
 ---
 

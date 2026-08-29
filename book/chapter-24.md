@@ -2,6 +2,8 @@
 
 The fridge in the flat in Bow had a compressor that cut in every eleven minutes and ran for four.
 
+Two states. He could tell which one from the hall.
+
 Alex did not go to the Tuesday meeting, because by the time he got back to London it had already happened. He read the notes on the Wednesday, sitting on the floor with his back against the sofa. Ben had written them up warmly, the way he wrote everything. *Great first session with Lauriston. They're keen. Compliance-first lands well — programme director wants a proposal for the evidencing module by end of month. Recon is "phase 2" in their heads which is exactly where we want it. Big one, team.*
 
 He read it twice, and closed it, and sat on the floor with the laptop shut on his knees while the compressor ran its four minutes and stopped.
@@ -12,9 +14,15 @@ Then he did a thing he had not done in three years, which was to open the calend
 
 The room called Riga had a projector that stayed powered even when nothing was plugged into it, and its fan ran at a pitch about a tone and a half above the building's air handling, and the two of them beat against each other slowly, and you could hear the beat if you stopped talking for long enough. Nobody ever stopped talking for long enough.
 
-They sat with no laptops, which made both of them aware of their hands, and left the room with nothing in it to look at except the other person and a whiteboard that had been wiped so many times it had gone the colour of weak tea.
+They sat with no laptops.
 
-Alex had thought about how to start for two days. He had discarded every version that began with the grievance. He had worked out, from watching Kate take three people apart in a hotel bar, and from his father waiting four days in an airport without asking him anything, that the grievance was the thing that made him easy to manage. The grievance invited *mate, I hear you, and here's the context.* The context was always true. Being managed by true context was the whole of his life.
+That made both of them aware of their hands, and left the room with nothing in it to look at except the other person and a whiteboard wiped so many times it had gone the colour of weak tea.
+
+He had thought about how to start for two days.
+
+He had discarded every version that began with the grievance. He had worked that out from two people — from watching Kate take three people apart in a hotel bar, and from his father waiting four days in an airport without asking him anything.
+
+The grievance was what made him easy to manage. It invited *mate, I hear you, and here's the context.* The context was always true. Being managed by true context was the whole of his life.
 
 So he did not start with the grievance.
 
@@ -88,7 +96,9 @@ Ben was quiet for what was, by the clock Alex had not noticed until forty minute
 
 It was not a clean victory.
 
-Alex had prepared for the version where Ben said *you're absolutely right, I've been terrible*, and had rehearsed a gracious response to it on the Northern line. That version did not arrive, because it was not true, and Ben did not deal in things that were not true, which was the quality that made him worth having and the quality that made him impossible.
+He had prepared for the version where Ben said *you're absolutely right, I've been terrible.* He had rehearsed a gracious response to it on the Northern line.
+
+That version did not arrive. It was not true, and Ben did not deal in things that were not true, which was the quality that made him worth having and the quality that made him impossible.
 
 What Ben said was:
 
@@ -122,9 +132,9 @@ Alex had it ready, because he had written it on the back of a receipt on the Nor
 
 "Two engineers starting Monday means the compliance module ships in November instead of September. And the November date is in a contract with Meridian that I signed. So it's not a priorities question. It's a breach question."
 
-Alex sat with that, and turned it over, and found no way through it that was not simply a wish.
+Alex sat with that. He turned it over and found no way through it that was not simply a wish.
 
-It was, annoyingly, exactly the kind of answer he would have given if the two of them had been standing on opposite sides of the question.
+It was, annoyingly, the answer he would have given from the other side of the table.
 
 "January," said Ben. "Two engineers, January, in the plan, written down. And I'll say it at the all-hands, so it costs me something to renege."
 
@@ -144,7 +154,9 @@ Four months. Four months in which the thing he had built in thirty hours would s
 
 That was the actual price, and Ben had found it almost at once, the way he found everything, in the time it took most people to decide whether they were going to be difficult about it.
 
-Forty calls. The thing he was worst at in the world. The thing that made the words go. And the only currency in which this was purchasable.
+Forty calls. The thing he was worst at in the world. The thing that made the words go.
+
+And the only currency this was purchasable in.
 
 "Fine," he said.
 
@@ -154,25 +166,27 @@ Forty calls. The thing he was worst at in the world. The thing that made the wor
 
 Ben laughed — and then stopped laughing, because Alex was not laughing.
 
-He put out his hand across the table, which is a slightly absurd thing to do with a man you have known for four years.
+He put out his hand across the table.
 
-They shook on it.
-
-It was the first genuinely equal thing that had ever passed between them, and it had cost him a winter, and he would have paid more than that and they both knew it and neither of them said so.
+They shook on it, which is a slightly absurd thing to do with a man you have known for four years, and they both did it anyway, and neither of them said anything about it then or afterwards.
 
 The projector fan cut out. Neither of them noticed, having stopped hearing it about ninety minutes earlier.
 
 ---
 
-The pilot with Lauriston came the following spring, as a consequence and not a climax. A small paid engagement to prove the recon approach on real data, on a subset, with a bank's caution about it. It found four things that broke the model, exactly as he had said it would on a hotel floor in July, and three of them were the sort of thing you fix in an afternoon once you can see them. The fourth was a genuine limitation in the approach, and he wrote it up honestly and at length and without hedging.
+The pilot with Lauriston came the following spring. Not a climax. A small paid engagement to prove the recon approach on real data, on a subset, with a bank's caution about it. It found four things that broke the model, exactly as he had said it would on a hotel floor in July, and three of them were the sort of thing you fix in an afternoon once you can see them. The fourth was a genuine limitation in the approach, and he wrote it up honestly and at length and without hedging.
 
 Michael's programme director, a man Alex never met, wrote back one line: *this is the first time anyone's told us what it can't do.*
 
-Alex printed it out on the office printer, which nobody had used since March, and folded it, and did not mention it to anybody at all.
+He printed it out on the office printer, which nobody had used since March and which took eleven seconds to wake up and then made the whole sequence of noises it had been making since 2019, the drum spinning up and the fuser coming to temperature and the sheet going through with a sound like a held breath, and he stood beside it for all of that with his hands in his pockets, and then folded the page twice and put it in the inside pocket of the jacket, next to the notebook, and did not mention it to anybody at all.
 
 ---
 
-He rang his father on the Sunday, sitting on the floor of the flat with his back against the sofa, which is where he made difficult calls, and the fridge cut in at the fourth ring.
+He rang his father on the Sunday.
+
+On the floor, back against the sofa. Where he made difficult calls.
+
+The fridge cut in at the fourth ring.
 
 He had been putting it off for eleven days, and what he had been putting off was *it*, the one call and not the general run of them, because on the phone from the office in July he had said *it's great, it's going really well*, and there was a taking-back to do and no established procedure for doing it.
 
@@ -204,7 +218,9 @@ There was a silence on the line, and it was not a wounded silence, and Alex, who
 
 "Because you were not ready," said Marek simply. "A man tells you when he can. If I ask you when you cannot, you say *it's fine, Papa*, and then you have said it, and then it is between us, the *it's fine*, and it is harder afterwards. So I wait. I am good at waiting. I waited six years for Tony to find out I could fix the machine."
 
-Alex sat on the floor of the flat with the phone against his ear and the fridge running and a view of the underside of the sofa, and did the arithmetic on six years of Tony and a broken machine in Leyton.
+Alex sat on the floor with the phone against his ear and the fridge running and a view of the underside of the sofa.
+
+He did the arithmetic on six years of Tony and a broken machine in Leyton.
 
 "That must have been—" He stopped. "That's a horrible thing to be good at."
 

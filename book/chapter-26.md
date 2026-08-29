@@ -70,7 +70,9 @@ Nik had not rung the others either.
 
 ---
 
-In November, in a meeting about whether to take the Arcus number seriously, Alex went first.
+The new office had underfloor ventilation and the grilles were in the wrong places, so the room ran quiet at one end and loud at the other, and Alex sat at the loud end because it was the end where he could hear it.
+
+In November, in a meeting about whether to take the Arcus number seriously, he went first.
 
 Eight people, a Tuesday, nothing at stake beyond the next four years.
 
@@ -86,9 +88,11 @@ He put the pen down on the ledge.
 
 "Say the last bit again," he said.
 
-So Alex said it again, and the room actually looked at it, for something like ninety seconds, which was ninety seconds longer than it would have looked in June. Then they argued for an hour, and the decision went about half his way, which is all anybody gets.
+So Alex said it again, and the room actually looked at it, for something like ninety seconds, which was ninety seconds longer than it would have looked in June. Then they argued for an hour, and the decision went about half his way.
 
-Nobody in the room understood that anything had happened. Which was correct, because the thing that had happened was inside Alex Wójcik.
+Nobody in the room noticed anything had happened.
+
+The grilles went on doing what they did.
 
 The notebook was filling up again — a fifth one in October, red, the fourth full. And in the back of the fourth, in small square handwriting, written badly in the dark on a roof in Birmingham in July: *ask him about the second-question thing.*
 

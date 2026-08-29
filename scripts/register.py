@@ -81,6 +81,12 @@ def load(n):
     # Blockquoted lines are rendered artefacts — a Slack thread, a pasted email. They are not the
     # POV's prose, and counting their timestamps as his clock is measuring the screenshot.
     text = re.sub(r"^>.*$", "", text, flags=re.M)
+    # A speech that runs over a paragraph break opens with a quote and does not close one. Left
+    # alone, that single unpaired mark puts every quote after it out of phase for the rest of the
+    # file, and narration and dialogue swap places — which is how ch24 reported Marek's four-word
+    # sentences as Alex's prose. Close each paragraph's own quote before splitting.
+    paras = [p + '"' if p.count('"') % 2 else p for p in text.split("\n\n")]
+    text = "\n\n".join(paras)
     return text.replace("---\n", "")
 
 

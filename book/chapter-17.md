@@ -1,16 +1,22 @@
 # 17. CC
 
-Velum ran on a shared workspace with about four hundred channels in it, and Alex, who had built the workspace when there were nine of them, was still in all four hundred, because leaving a channel is an act with a meaning and rejoining one is worse.
+Room 914 had an extractor in the bathroom that came on with the light and stayed on for eleven minutes after it went off.
 
-He read the thread on Sunday afternoon because he was avoiding his parents.
+He had timed it on the Thursday. Eleven minutes, and a small dry tick in it at the top of the impeller, and under that the ninth floor's air handling, and under that nothing.
 
-That was the true and shabby reason and he would think about it later. They had gone to a canal on Saturday and loved it. On Sunday his mother had produced a printed itinerary that included a garden centre. At two o'clock Alex had said he had "one work thing," and had gone up to room 914, and opened the laptop.
+He read the thread on the Sunday afternoon because he was avoiding his parents.
 
-Ninth floor. The extractor going. Forty-one milliseconds to London.
+That was the true and shabby reason.
+
+They had gone to a canal on Saturday and loved it. On Sunday morning his mother had produced a printed itinerary that included a garden centre. At two o'clock Alex said he had one work thing, and went up, and opened the laptop.
+
+Forty-one milliseconds to London.
+
+Velum ran on a shared workspace with about four hundred channels in it. He had built the workspace when there were nine of them and was still in all four hundred, because leaving a channel is an act with a meaning and rejoining one is worse.
 
 The channel was `#bd-pipeline`. He had not read it in five months.
 
-The first message was Ben's, from Saturday, 09:12:
+The first message was Ben's, from Saturday morning.
 
 > 🚨 warm intro from a COO at **Lauriston** (the bank) overnight — straight to me + Saul. Alex do you know anything about this?? Says he met one of us at a hotel. Decade-old reconciliation problem, 19 FTE in Sheffield, three consultancies burned, and he says our architecture is "the first thing anyone's shown me that starts in the right place." Reading between the lines this is eight figures.
 
@@ -35,7 +41,9 @@ Alex sat on the end of the bed.
 
 *He's at a hotel thing with his parents.*
 
-True. Kindly meant. He had told Ben it himself, in a corridor, on the Wednesday.
+True. Kindly meant. He had said it to Ben himself, in a corridor, on the Wednesday.
+
+The extractor was still going. Four minutes left on it.
 
 ---
 
@@ -45,7 +53,7 @@ It was in a branch called `causal-order`. He had pushed the first cut on the Sat
 
 Nine hundred lines.
 
-And it was, he thought, looking at it, the cleanest thing he had written since the interceptor — because the whole of it turned on refusing to answer the question everybody asks, which is *when did this happen*, and asking instead the one both machines can answer for nothing, which is *what had I already seen when I did this*. You take the gateway's write and you hang on it the identity of the last batch it heard about. You take the ledger's post and you hang on it the identity of the last balance it read. Sixteen bytes on each side, a field nobody has to compute, because both numbers are already sitting in memory at the moment of writing and are currently being thrown away. And then you do not sort. Sorting is the mistake. You walk the two chains and wherever they touch you have a fact — not an estimate, not a tolerance, a fact, the same fact in nine hundred years — and everywhere they do not touch you have two events that never met and never could have, and which the nineteen people in Sheffield have been reconciling every morning since 2014 because a column of milliseconds told them the two things happened in an order that nothing in the universe actually put them in.
+And it was the cleanest thing he had written since the interceptor, because the whole of it turned on refusing to answer the question everybody asks, which is *when did this happen*, and asking instead the one both machines can answer for nothing, which is *what had I already seen when I did this*. You take the gateway's write and you hang on it the identity of the last batch it heard about. You take the ledger's post and you hang on it the identity of the last balance it read. Sixteen bytes on each side, a field nobody has to compute, because both numbers are already sitting in memory at the moment of writing and are currently being thrown away. And then you do not sort. Sorting is the mistake. You walk the two chains and wherever they touch you have a fact — not an estimate, not a tolerance, a fact, the same fact in nine hundred years — and everywhere they do not touch you have two events that never met and never could have, and which the nineteen people in Sheffield have been reconciling every morning since 2014 because a column of milliseconds told them the two things happened in an order that nothing in the universe actually put them in.
 
 It took two synthetic ledgers with deliberately disagreeing clocks, and eleven thousand items a night of drift, and ordered them by causality, and produced one number. How many items a human being in Sheffield would have to look at in the morning.
 
@@ -53,13 +61,11 @@ The number was fourteen.
 
 He ran it again while he sat there, because it was the only thing available to do with his hands, and watched it come out at fourteen, and it took eleven seconds.
 
-He had built the thing Michael's email was about. He had built it in thirty hours, unasked, on holiday, for free. And there was a meeting on Tuesday morning about compliance evidencing that he was not in.
+He had built the thing Michael's email was about. He had built it in thirty hours, unasked, on holiday, for free.
+
+There was a meeting on Tuesday morning about compliance evidencing. He was not in it.
 
 ---
-
-He did not sit there and be sad about it.
-
-That was the difference, and he would come back to it for a long time: that this once, he did the thing.
 
 He rang Ben.
 
@@ -83,11 +89,11 @@ And he heard it go.
 
 In real time. On the phone. Standing in room 914 with the extractor going.
 
-The volume dropping out of his own voice. And the sentence he had rehearsed on the stairs — *it's not a services deal and it never was, the recon fix is the platform, the compliance thing is the mannequin, you're selling the wrong thing and it has my name on it* — arriving in his mouth as
+The volume coming out of his own voice. And the sentence he had built on the stairs — *it's not a services deal and it never was, the recon fix is the platform, the compliance thing is the mannequin, you're selling the wrong thing and it has my name on it* — arriving in his mouth as
 
 nothing.
 
-Not blocked. Not swallowed. Not there. The place he reached into was empty, the way a pocket is empty, and there was no way to say that, because saying it would have needed
+Not blocked. Not swallowed. Not there. And there was no way to say that, because saying it would have needed
 
 "—yeah," he said. "No, you're right. Round two."
 
@@ -99,13 +105,15 @@ He put the phone down.
 
 ---
 
-He had done the thing.
+He sat on the end of the bed.
 
-He had picked it up and rung and made the case, out loud, and it had been true and it had been his. And he had been managed out of his own introduction in under four minutes by a good man in a hurry, warmly, with his name on the email and his parents used as the reason. And he had said *you're right* at the end, because the words for anything else had gone.
+The extractor ran. It had four minutes on it and then it would stop and the room would get bigger.
 
-That was worse than the thread.
+He waited for it the way he waited for the other thing, sideways and complete and ninety seconds after you stop hunting.
 
-The thread he could have been the victim of. This one he had walked into on his feet.
+The extractor stopped.
+
+Nothing arrived.
 
 ---
 
@@ -117,7 +125,7 @@ Alex looked at it for a moment.
 
 *coming*, he typed.
 
-He went down in the lift and across the lobby past the fireplace with no fire in it, and out into the car park, where his father was standing beside a taxi with the door already open, holding it, in the sun, waiting.
+He went down in the lift and across the lobby past the fireplace with no fire in it, and out through both sets of doors into the car park, where his father was standing beside a taxi with the door already open, holding it, in the sun, waiting.
 
 "Everything all right at the work?" said Marek.
 
