@@ -36,7 +36,7 @@ The room stopped, which Kate found she minded less than she used to.
 
 And Kate laughed so hard she had to sit down on the edge of the stage. In a church hall, on a Wednesday, in front of a dozen strangers and her own assistant, at forty-one years old.
 
-She could not do the turn. She still could not really do the turn. But there was a moment, in the second half of a class, sometimes, when her body stopped asking permission; and she recognised it, from a church hall in Amersham, from being nine.
+She could not do the turn. She still could not really do the turn. But there was a moment, in the second half of a class, sometimes, when her body stopped asking permission, and she recognised it, from a church hall in Amersham, from being nine.
 
 Every time it happened she thought: *there you are.*
 
@@ -44,7 +44,7 @@ She let Tom run things. He mostly did not drop them, and when he did the company
 
 She had not rung the others.
 
-The group Nik had made — *Ardenne*, four names — sat in her phone with nothing in it. She looked at it about once a fortnight. She thought about writing in it about once a fortnight, and did not, because the last night was in it, unspoken, sitting where it fell; and she did not know how to write a message that stepped over it, and could not bear to write one that stepped in it.
+The group Nik had made — *Ardenne*, four names — sat in her phone with nothing in it. She looked at it about once a fortnight. She thought about writing in it about once a fortnight, and did not, because the last night was in it, unspoken, sitting where it fell, and she did not know how to write a message that stepped over it, and could not bear to write one that stepped in it.
 
 ---
 
@@ -60,7 +60,7 @@ He and Meera were not fixed, because people are not fixed. But she asked him the
 
 And when he polished something — which he still did, sometimes, in company, the reflex firing off before he could stop it, she would catch his eye across a room and hold up, very slightly, one finger.
 
-That was their private thing. It meant *say it once, slowly.* Which was Marek's phrase, which Nik had told her, which had become theirs.
+That was their private thing. It meant *say it once, slowly.*
 
 His father's knee was done in September, privately, and the physiotherapy worked. Raghavan walked to the end of the road and back in November, and rang to report it as though it were a chess result: the distance, the time, and one observation about the surface.
 
@@ -102,13 +102,13 @@ He had not rung the others. He kept meaning to ring Michael back, and the meanin
 
 ---
 
-And so it sat, for months. Four people, in four cities, each doing the one small impossible thing, and none of them speaking to the others; and the last night at the hotel lying exactly where it had fallen in July, in a group chat with four names in it and nothing written.
+And so it sat, for months. Four people, in four cities, each doing the one small impossible thing, and none of them speaking to the others, and the last night at the hotel lying exactly where it had fallen in July, in a group chat with four names in it and nothing written.
 
-Until a Thursday in the middle of November, when Kate Merrick, standing at her window at half past nine at night with the city doing its thing below her, decided.
+Until a Thursday in the middle of November, when Kate Merrick, standing at her window at half past nine at night with the city below her, decided.
 
 She did not write in the group. Four people who had blown up a room were not going to un-blow it in a group chat, all at once, in front of each other.
 
-One at a time, then. The way she should have done Dawn.
+One at a time, then. Ringing, not writing.
 
 She rang Alex first.
 
@@ -152,7 +152,7 @@ Michael's phone rang in a house in Hertfordshire at 9:52 on a Thursday night, an
 
 "Is he—"
 
-There was a silence on the line of about two seconds; and Kate Merrick, who read silences the way Nik read positions, stood very still at her window.
+There was a silence on the line of about two seconds. Kate Merrick read silences the way Nik read positions.
 
 "I'm so sorry," said Claire. "I don't know how to — you didn't know. Of course you didn't. Dad died. Nine days ago."
 
@@ -166,9 +166,9 @@ Kate did not say anything, because there was nothing.
 
 "That was me," said Kate.
 
-"He said it was the first thing in years that had needed *him* and not the job." Claire's voice went, for a second, and came back. "So. Thank you. For that. Whatever it was, that weekend — thank you. He came back different. We got a few good months that I don't think we'd have got otherwise, and I'll never know exactly why, and I've stopped needing to."
+"He said it was the first thing in years that had needed *him* and not the job." Claire's voice went, for a second, and came back. "So. Thank you. For that. Whatever it was, that weekend — thank you. He came back different. We got a few good months that I don't think we'd have got otherwise."
 
-Kate stood at her window with the phone against her ear and the whole lit city below her, and thought about a man turning a glass a quarter-turn on a marble bar, and saying *they punish the interval*; and *I optimised everything except the part that was the point*; and *nobody has ever come.*
+Kate stood at her window with the phone against her ear and the whole lit city below her, and thought about a man turning a glass a quarter-turn on a marble bar. *They punish the interval.* *I optimised everything except the part that was the point.* *Nobody has ever come.*
 
 "We were going to have a drink," Kate said. "The four of us. Next Friday. He was going to come."
 

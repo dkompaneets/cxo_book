@@ -1,6 +1,6 @@
 # 23. The Real Number
 
-He got in at ten past seven on the Tuesday evening, and Meera was standing in the kitchen with her arms folded, which she never did.
+He got in on the Tuesday evening, and Meera was standing in the kitchen with her arms folded, which she never did.
 
 "Anaya's at Nell's," she said. "Rohan's asleep. So."
 
@@ -98,7 +98,7 @@ There was a long silence in the kitchen.
 
 ---
 
-He wrote the memo on the Wednesday and sent it on the Thursday morning at 7:40.
+He wrote the memo on the Wednesday and sent it on the Thursday morning before anybody else was in.
 
 Two pages, and it said in the first line, without any preamble at all: *I have been presenting our position more confidently than the evidence supports. This memo corrects that.*
 

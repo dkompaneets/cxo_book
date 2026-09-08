@@ -98,15 +98,13 @@ Marek Wójcik was sixty-eight. He had come over at thirty-seven with a wife, no 
 
 And he was *calm.*
 
-That was the thing. Nik kept looking for it and could not find it. He knew what he was looking for, because he carried it: the low hum under everything, the running total, the eye that goes to the price on the menu first.
+Nik kept looking for the other thing and could not find it. He knew what he was looking for, because he carried it: the low hum under everything, the running total, the eye that goes to the price on the menu first.
 
 He had assumed, without ever putting it into a sentence, that the hum was simply what this life did to a man. That in thirty years he would be a version of himself with more money and the same hum. That this was the deal.
 
 Marek Wójcik did not have the hum.
 
 He had an opinion about the coffee. He had a long and detailed complaint about a train company. He asked Nik four questions about Chennai and listened to all four answers. And when Ewa came down and said the room was fine but the pillows were "like a paper", he said, "So we ask for another pillow" — and Nik watched a man solve a problem in six words at a volume of about thirty per cent, and understood, and covered the understanding by drinking some water.
-
-This is what it looks like when the door has actually been shut, and the room behind it is actually empty, and the man has walked away from it.
 
 *The fear ends*, Nik thought.
 
@@ -188,7 +186,7 @@ A pause.
 
 "If you say it one time and stop, they have to look at it. Three times, it is noise." He turned his hand over. "And if you don't say it, then it was never in the room. And after, you are angry with them. For a thing they never saw."
 
-Two feet away, Nikhil Raghavan sat absolutely still.
+Two feet away, Nikhil Raghavan put his water down.
 
 "At the works I said nothing, six years," Marek went on, to nobody in particular. "Then the machine was broken."
 
@@ -206,6 +204,6 @@ And at the end, when Ewa had gone to find the toilets, Marek Wójcik said, looki
 
 And Alex said, "Yeah. Tired. It's a big year."
 
-And his father — who had spent thirty-one years, four hours of sleep at a time, on exactly one thing in this world, and who had known since the moment he walked into that lobby that something was badly wrong with his son, and had watched him all morning, and counted the number of times he checked his phone, and heard the eleven days of *it's great* — looked at him for a second and a half.
+And his father — who had spent thirty-one years, four hours of sleep at a time, on exactly one thing in this world, and who had known since the moment he walked into that lobby that something was badly wrong with his son — looked at him for a second and a half.
 
 "Good," he said. "Then we go and look at this canal your mother has read about."

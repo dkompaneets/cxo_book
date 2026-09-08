@@ -16,13 +16,13 @@ At 8:36 he declined a request to sit on a steering group; and then, a few minute
 
 Breathed in. Breathed out.
 
-By ten past nine he had done nine things. Nobody had ever counted the breaths, including Michael, who had been taking them since roughly 2011 and did not know that he did, in the way that a man does not know the sound of his own house.
+By ten past nine he had done nine things.
 
 ---
 
 The programme review was at ten, in Cathedral, the big room, with the screen that never worked first time.
 
-There were nineteen people in it, which was nine too many, and Michael had said so, and had been told that this was a matter of inclusion in the change journey — a phrase that had entered the bank around 2018 in the manner of Japanese knotweed, and had since gone under the foundations. So: nineteen. He sat halfway down the long side, because sitting at the head makes people perform; and he made a joke about the screen while Callum Deitch fought it, and got his laugh, and the screen came on.
+There were nineteen people in it, which was nine too many, and Michael had said so, and had been told that this was a matter of inclusion in the change journey, a phrase that had entered the bank around 2018 in the manner of Japanese knotweed, and had since gone under the foundations. So: nineteen. He sat halfway down the long side, because sitting at the head makes people perform; and he made a joke about the screen while Callum Deitch fought it, and got his laugh, and the screen came on.
 
 Callum Deitch was thirty-four and extremely good. Michael wished, with an old man's unrepeatable envy, that he were less good, so that this would be easier.
 
@@ -78,7 +78,7 @@ He waited until the room emptied. Then he sat for a moment at the long table wit
 
 Lunch was a sandwich at his desk, and the post.
 
-Actual post; Lauriston still had it, in a wire tray, brought round at 12:30 by a man called Errol who had been doing it for nineteen years and had a system for which floors got theirs first that nobody had ever formally approved. A charity thing. A wine merchant. A brochure from a wealth manager who had somehow got hold of his date of birth and had put on the front, in a serif font, *The next chapter deserves a plan* — which Michael read twice, then dropped in the bin from a height; then, after a moment, took out of the bin and put in a drawer.
+Actual post; Lauriston still had it, in a wire tray, brought round at 12:30 by a man called Errol who had been doing it for nineteen years and had a system for which floors got theirs first that nobody had ever formally approved. A charity thing. A wine merchant. A brochure from a wealth manager who had somehow got hold of his date of birth and had put on the front, in a serif font, *The next chapter deserves a plan*, which Michael read twice, then dropped in the bin from a height; then, after a moment, took out of the bin and put in a drawer.
 
 And the invitation.
 
@@ -98,7 +98,7 @@ He wrote *Delighted — MH* under the biro, and put it in the tray for Errol.
 
 In the spring of 1975 a man came to the house in Watford and put a sticker on the television.
 
-Michael was twelve. He remembered the sticker better than he remembered his father's face that year: a printed label about the size of a playing card, gummed onto the top-right corner of the screen where you could see it from the sofa. It stayed there eleven days. Nobody in the house said anything about it. His mother went on wiping around it.
+Michael was thirteen. He remembered the sticker better than he remembered his father's face that year: a printed label about the size of a playing card, gummed onto the top-right corner of the screen where you could see it from the sofa. It stayed there eleven days. Nobody in the house said anything about it. His mother went on wiping around it.
 
 His father had been a partner, one of three, in a builders' merchant on the Dunstable Road. Halloway & Grieves. There had been a van with the name on it, and Michael had once been allowed to ride in the van, standing up, holding the dashboard, which in 1971 was a thing that could happen to a boy.
 
@@ -190,7 +190,7 @@ Fiona Redgrave caught him by the lifts at ten past four. She was carrying her sh
 
 "Going beautifully. Practically finished. I've written the whole of the middle and both edges."
 
-Fiona laughed — a proper laugh, used economically, which made it worth something. "Michael. Can I say a thing."
+Fiona laughed; a proper laugh, used economically, which made it worth something. "Michael. Can I say a thing."
 
 "That's never a question."
 

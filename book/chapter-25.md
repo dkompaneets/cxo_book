@@ -80,7 +80,7 @@ Iris considered this with the whole of her attention, in the manner of a person 
 
 "Yes," said Michael. "It's the squash. It's very strong squash."
 
-A little way off, Claire put her own hand over her mouth for a second. She had not seen her father cry in her entire life, and had assumed, as one assumes things about a parent, that he could not.
+A little way off, Claire put her own hand over her mouth for a second. She had not seen her father cry in her entire life.
 
 ---
 
@@ -126,7 +126,7 @@ So he sat down on the step, which took him a second, and said, "Can I tell you s
 
 Danny, wary, amused, said, "Go on."
 
-And Michael Halloway took a breath in — Danny watched him do it, a long breath, in through the nose, the way he did before the things that mattered, though Danny did not know that and never would — and let it out.
+And Michael Halloway took a breath in, and let it out.
 
 And then he told him.
 

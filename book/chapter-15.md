@@ -30,7 +30,7 @@ She rang again. Voicemail again.
 
 And then, in the way these things arrive, in the exact worst order, the memory came up. Tuesday. The corridor by the lifts. Dawn with her coat half on and a phone in her hand, saying something. Kate walking, reading.
 
-Dawn had said — she had actually said it, the words were there, they had been sitting in a drawer all week — *"So I'm going to be off Sunday, Marcus has got the thing with his chest again, they've said to keep him home and Steve's away, so I won't be reachable, is that going to be—"*
+Dawn had said it. She had actually said it, the words were there, they had been sitting in a drawer all week. *"So I'm going to be off Sunday, Marcus has got the thing with his chest again, they've said to keep him home and Steve's away, so I won't be reachable, is that going to be—"*
 
 And Kate, walking, reading, had said: "Course. Fine. Do what you need to."
 
@@ -110,7 +110,7 @@ She was magnificent.
 
 There is no other word and there were seven witnesses. She stood at the front of the Warwick Suite with the wrong deck on the screen behind her and said, at 9:01:
 
-"You've got a version in front of you that's three weeks old. Ignore it. I'll send the right one this afternoon. I'd rather talk than click."
+"You've got a version in front of you that's two weeks old. Ignore it. I'll send the right one this afternoon. I'd rather talk than click."
 
 And then she did it from memory. Forty-four minutes.
 
@@ -124,7 +124,7 @@ Nobody moved.
 
 At 9:31 Harriet Nash said, "Since March," in a voice with nothing in it.
 
-And Kate said — calmly, having been told the answer by an old man in a bar on Thursday, and having had thirty-six hours to make it hers:
+And Kate said, calmly, having been told the answer by an old man in a bar on Thursday, and having had thirty-six hours to make it hers:
 
 "Yes. I could have brought you a worry in March. I brought you a finding in July. The interval is mine and I'll own it; and if you'd rather have the worry next time, tell me now and you'll get it, and I'd advise against it."
 

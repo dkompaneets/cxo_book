@@ -16,7 +16,7 @@ Kate's car came at ten past seven, the first pickup of the day, and the driver w
 
 She had been packed since half past five.
 
-She did not knock on anybody's door. She thought about it in the lift; and what stopped her was not shame, or not only. It was that she had run the conversation and could not make it end anywhere. *I'm sorry* leads to *it's fine.* *It's fine* leads to nothing. And Kate Merrick did not initiate processes that had no defined output.
+She did not knock on anybody's door. She thought about it in the lift. What stopped her was not shame, or not only. It was that she had run the conversation and could not make it end anywhere. *I'm sorry* leads to *it's fine.* *It's fine* leads to nothing. And Kate Merrick did not initiate processes that had no defined output.
 
 That fact about herself arrived while she was standing in a lift. She looked straight at it. She got out on the ground floor anyway.
 
@@ -34,15 +34,15 @@ Somewhere past the airport turn she closed the laptop and said, out loud, to a f
 
 Round seven began at half past nine, and Nikhil Raghavan lost it in fifty-four moves.
 
-He had white on board fourteen against a Norwegian woman of about thirty who was half a point ahead of him on the live standings. A win put him equal first. A draw got him about ninety pounds. A loss got him nothing at all and left him on four out of seven, which is a perfectly ordinary result that nobody remembers.
+He had white on board fourteen against a Norwegian woman of about thirty who was half a point ahead of him on the live standings. A win put him equal first. A draw got him about ninety pounds. A loss got him nothing and left him on four out of seven, which is a perfectly ordinary result that nobody remembers.
 
 On move nineteen he was slightly worse, and had a choice.
 
-He could shore it up. There was a move — g3, small and ugly and reliable — that would have made the position solid and dull and about fifteen per cent worse for the next four hours, and would almost certainly have ended in a draw around move sixty; and would have been, on the evidence of six years of score sheets, exactly what he did.
+He could shore it up. There was a move — g3, small and ugly and reliable — that would have made the position solid and dull and about fifteen per cent worse for the next four hours, and would almost certainly have ended in a draw around move sixty. On the evidence of six years of score sheets, it was what he did.
 
 Or he could push the pawn.
 
-Pushing the pawn opened his own king. It was, he calculated for twenty minutes, probably objectively worse. It made the position sharp in the way where being sharp is the only thing that saves you; and if it went wrong it would go wrong in about six moves, and everybody in the hall would be able to see it.
+Pushing the pawn opened his own king. It was, he calculated for twenty minutes, probably objectively worse. It made the position sharp in the way where being sharp is the only thing that saves you, and if it went wrong it would go wrong in about six moves, and everybody in the hall would be able to see it.
 
 *And if it doesn't work.*
 
@@ -50,7 +50,7 @@ Then it doesn't work, thought Nikhil Raghavan, and pushed the pawn.
 
 For nineteen moves it was the best chess of his life. He knew it while it was happening, which is rare. He had a rook doing something on the h-file that he had never in his life had a rook doing.
 
-The Norwegian went into a thirty-four-minute think on move twenty-nine and came out having found the only move; and then the only move again; and then on thirty-five she found something he had not looked at, and it was over, slowly, across the next nineteen moves, in a dignified way.
+The Norwegian went into a thirty-four-minute think on move twenty-nine and came out having found the only move. Then the only move again. Then on thirty-five she found something he had not looked at, and it was over, slowly, across the next nineteen moves, in a dignified way.
 
 He resigned at 1:20 in the afternoon.
 
@@ -98,7 +98,7 @@ He stopped.
 
 "What four seconds?"
 
-"When you've said a thing and they haven't got it yet. And they're looking at you, deciding." He turned his hand over. "I found out at about twenty-two that if you polish it, they never do that. And I've built an entire professional personality out of never letting anybody have those four seconds. And it's cost me my wife, more or less, and it nearly cost my daughter a school, and I only found that out on Sunday."
+"When you've said a thing and they haven't got it yet. And they're looking at you, deciding." He looked at the half-cleared board. "I found out at about twenty-two that if you polish it, they never do that. And I've built an entire professional personality out of never letting anybody have those four seconds. And it's cost me my wife, more or less, and it nearly cost my daughter a school, and I only found that out on Sunday."
 
 "That's more than half," said Wilf.
 
@@ -114,7 +114,7 @@ He did not say *and now you must stop doing it.* He did not say *well done.* He 
 
 "I lost the one that mattered."
 
-"You lost the one that was interesting," said Wilf; and stood up, which took him a while, and shook hands, and went.
+"You lost the one that was interesting," said Wilf, and stood up, which took him a while, and shook hands, and went.
 
 ---
 
@@ -134,7 +134,7 @@ He had been waiting four days. He had waited on the Saturday by the fireplace, a
 
 It was fifty-one.
 
-He had a single conviction about his son and it had not changed since a kitchen table in 2007: *he will tell me when he can.* And the corollary, which had cost Marek Wójcik a great deal over thirty-one years, and which he had never once broken: *and if I ask, he will tell me something else instead, and then it will be harder for both of us afterwards.*
+He had a single conviction about his son and it had not changed since a kitchen table in 2007: *he will tell me when he can.*
 
 So he waited.
 
@@ -170,7 +170,7 @@ At 4:41, on a train out of Birmingham New Street, Nikhil Raghavan created a grou
 
 He had all four numbers, swapped on the roof on the Friday — quickly, with the phones held up in the dark, and Michael complaining about the size of the letters.
 
-He typed the numbers in. He looked at the field that said *Group name*, and typed *The Roof*, and deleted it; and typed *Ardenne*, and left it.
+He typed the numbers in. He looked at the field that said *Group name*, and typed *The Roof*, and deleted it, and typed *Ardenne*, and left it.
 
 Then he sat with his thumbs over the keyboard.
 
@@ -182,4 +182,4 @@ At 5:09 he put the phone in his pocket with the group created, four names in it,
 
 Nobody wrote in it that day. Nobody wrote in it that week.
 
-And the four of them went home — one to a flat in Bow, one to a house in Woking, one to a flat by the river with a hundred and forty messages in it, one to a house in Hertfordshire where his wife had made a shepherd's pie because he was early — with the armour off, all of it, every plate of it, and nothing at all underneath it yet.
+And the four of them went home — one to a flat in Bow, one to a house in Woking, one to a flat by the river with a hundred and forty messages in it, one to a house in Hertfordshire where his wife had made a shepherd's pie because he was early — with the armour off, all of it, every plate of it, and nothing underneath it yet.

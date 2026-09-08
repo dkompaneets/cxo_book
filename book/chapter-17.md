@@ -49,7 +49,7 @@ The extractor was still going. Four minutes left on it.
 
 Then he opened a new tab, because he wanted to be fair, and went and found the demo.
 
-It was in a branch called `causal-order`. He had pushed the first cut on the Saturday after the business centre, having come up from the fifth floor and not slept, and had kept at it in the evenings while his parents were in bed.
+It was in a branch called `causal-order`. He had pushed the first cut on the Saturday after the business centre, having come up from the business centre at three and not slept, and had kept at it in the evenings while his parents were in bed.
 
 Nine hundred lines.
 
@@ -75,7 +75,7 @@ He rang Ben.
 
 "Alex, that's *incredible.*"
 
-And Ben meant it. That was the thing. You could hear that he meant it.
+And Ben meant it. You could hear that he meant it.
 
 "Fourteen? From eleven thousand? Mate, that's the whole — OK. OK. So here's what I'm thinking, and tell me if I'm wrong—"
 

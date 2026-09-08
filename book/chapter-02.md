@@ -120,7 +120,7 @@ He went back inside. He went back inside on a great many afternoons, and his mot
 
 "He's inside again."
 
-And his father, not looking up, doing nights at the bakery on Bethnal Green Road and days at the print works, six years in and four to go:
+And his father, not looking up, doing nights at the bakery on Bethnal Green Road and days at the print works, eight years in and two to go:
 
 "Leave him. He's building something."
 

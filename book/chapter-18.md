@@ -20,7 +20,7 @@ Between the two he had a jacket potato in the atrium café with Wilf Tanner, who
 
 "Mm," said Wilf, and ate his soup.
 
-At twenty past five, walking out of the playing hall into a corridor with a window in it, Nik discovered that he was — the word arrived, and he inspected it and turned it over and found no fault in it — *happy.* That he had been happy for most of a day. And that this had last happened on some date he could not produce.
+Walking out of the playing hall at the end of the afternoon, into a corridor with a window in it, Nik discovered that he was — the word arrived, and he inspected it and turned it over and found no fault in it — *happy.* That he had been happy for most of a day. And that this had last happened on some date he could not produce.
 
 He rang home at six.
 
@@ -76,11 +76,11 @@ Said in that order, in that voice, it described a different weekend belonging to
 
 He did not notice for about four seconds.
 
-He was already going on — something about the standings, something about Tuesday — and there was a small delay, the way there is when you walk past a shop you used to know. Then the sentence came back round and hit him in the side of the head.
+He was already going on — something about the standings, something about Tuesday — and there was a delay, the way there is when you walk past a shop you used to know. Then the sentence came back round and hit him in the side of the head.
 
 *That's nice, Nik.*
 
-Flat. Warm. That was the thing. Not cold, no edge on it anywhere. The exact tone in which you say *that's nice* to a four-year-old who has told you about a dream. Pleasant, and complete, and it asked nothing further.
+Flat. Warm. Not cold, no edge on it anywhere. The exact tone in which you say *that's nice* to a four-year-old who has told you about a dream. Pleasant, and complete, and it asked nothing further.
 
 And then, stacked up behind it like carriages, every other time.
 
@@ -164,7 +164,7 @@ Three hundred and ten pounds.
 
 He did not convert it into anything. He noticed that distantly, the way a man notices a noise stopping. The machine had run every figure he had met for twenty-six years, and it looked at this one and had nothing to say about it at all.
 
-Nikhil Raghavan sat at a small desk in room 812 of The Ardenne, with a spreadsheet in front of him in which the numbers had at some point stopped being numbers, and a phone in his hand, and a suitcase against the wall with a name tape sewn into the lid.
+Nikhil Raghavan sat at the desk in room 812 of The Ardenne, with a spreadsheet in front of him in which the numbers had at some point stopped being numbers, and a phone in his hand, and a suitcase against the wall with a name tape sewn into the lid.
 
 Outside the window the car park, and the ring road, and the aircraft going round.
 

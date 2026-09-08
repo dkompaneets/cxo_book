@@ -4,7 +4,7 @@ Nik got there first, at five to nine, because he had been sitting in his room si
 
 He took the round table in the corner of The Long Room, the one under the bad print of a canal, and ordered a lime and soda. He looked at it. Then he ordered a beer as well.
 
-He had not replied to Meera. That fact had been underneath everything for twenty-six hours: nine things typed and none sent; then, that morning, *I'll sort it, don't worry, I'll call you tonight;* and back, a single word, *ok*, which had sat in his phone all day like a stone in a shoe.
+He had not replied to Meera. That fact had been underneath everything for twenty-six hours: nine things typed and none sent, and then, that morning, *I'll sort it, don't worry, I'll call you tonight*, and back, a single word, *ok*, which had sat in his phone all day like a stone in a shoe.
 
 Alex came in at four minutes past nine, fast, jacket still on, and sat without taking it off. In his pocket was a phone with `#bd-pipeline` on it and a message from Ben at 6:12: *Tomorrow's going to be big. Enjoy the family time mate, you've earned it 🙏*
 
@@ -14,7 +14,7 @@ Kate came in at 9:20, twenty minutes late, off a call, sliding the phone into he
 
 And for eleven minutes it was fine.
 
-That was the thing all three of them would come back to, differently, over the months: that it was *fine.* Michael did a routine about the conference's closing lunch, in which a man from Nationwide had been served a plated dessert during his own presentation. Alex told the Alabama story, and Nik laughed, and the coat came into it. Kate said "the roof" and everyone spoke at once.
+It was what all three of them would come back to, differently, over the months: that it was *fine.* Michael did a routine about the conference's closing lunch, in which a man from Nationwide had been served a plated dessert during his own presentation. Alex told the Alabama story, and Nik laughed, and the coat came into it. Kate said "the roof" and everyone spoke at once.
 
 Then Michael said, "Right. It's the last night, and we've none of us said one true thing since Friday, and I propose we keep it that way."
 
@@ -56,7 +56,7 @@ And Kate stopped, because it was, and she knew it was, and there was nowhere in 
 
 It could have ended there.
 
-It did not, because Alex had been sitting on the CC thread for twenty-nine hours, and Kate had just said *you built something this weekend for free*; and it came out of him sideways and at the wrong person.
+It did not, because Alex had been sitting on the CC thread for twenty-nine hours, and Kate had just said *you built something this weekend for free*, and it came out of him sideways and at the wrong person.
 
 "You made an introduction," he said, to Michael.
 
@@ -98,7 +98,7 @@ Nik stopped, half standing.
 
 "Kate," said Michael. "Leave it—"
 
-"Because I have four hundred and eleven pounds," said Nik.
+"Because I have three hundred and ten pounds," said Nik.
 
 The table went quiet in a different way.
 
@@ -138,7 +138,7 @@ Nobody said anything. Somebody at the bar ordered two of something.
 
 He turned to Nik.
 
-"And you didn't lie to your wife to spare her. You've told yourself that for years and it's the wrong way round. You did it because a man who says the plain thing has to sit there afterwards while somebody decides what to make of him; and you would rather be four hundred pounds from the edge on your own than looked at for four seconds by somebody who loves—"
+"And you didn't lie to your wife to spare her. You've told yourself that for years and it's the wrong way round. You did it because a man who says the plain thing has to sit there afterwards while somebody decides what to make of him; and you would rather be three hundred pounds from the edge on your own than looked at for four seconds by somebody who loves—"
 
 "You don't know my marriage," said Nik, sharp.
 
@@ -188,6 +188,6 @@ Nobody told him it was all right.
 
 They tried twice more to talk. Kate said something about the roof. Nik said something about the last round in the morning. Both times the thing got up onto its feet and sat back down.
 
-At eleven they went up.
+Then they went up.
 
-It had taken forty minutes; and the part that did the damage was the eleven at the start, when it was fine, and none of them had felt it coming.
+It had taken forty minutes, and the part that did the damage was the eleven at the start, when it was fine, and none of them had felt it coming.

@@ -118,7 +118,7 @@ He knew at once that he wanted to go; that was not the difficulty. The difficult
 
 He sat with the remote and worked out why.
 
-In September there had been Sam's assembly, and he had put himself in the calendar on the Sunday; and on the Tuesday night Group Risk had blown up; and at a quarter past eleven on the Wednesday morning he had sent Claire the message, and it had been fine, everyone understood, Claire sent a photograph and three words. But there existed, in the world, a seven-year-old boy who had looked at a row of chairs.
+In September there had been Sam's assembly, and he had put himself in the calendar on the Sunday; and on the Tuesday night Group Risk had blown up; and at a quarter past eleven on the Wednesday morning he had sent Claire the message, and it had been fine, everyone understood, Claire sent a photograph and three words. But there existed, in the world, a five-year-old boy who had looked at a row of chairs.
 
 And Michael had found a way to be safe from that, which was not to be in the row at all. If he did not put himself down, nobody expected him; and coming was a bonus, and not-coming was nothing.
 

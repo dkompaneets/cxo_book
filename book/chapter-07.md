@@ -72,9 +72,9 @@ Nik stopped.
 
 Wilf Tanner was eighty-three. He had been a structural engineer in Coventry for forty-one years and had played tournament chess since 1958. He had the build of a very old man who has stayed exactly the same height all his life. His hands shook slightly, except when they were moving a piece, at which point they did not shake at all.
 
-Nik sat down and set up. The set was a Jaques from about 1970, weighted, worth four hundred pounds on a good day. Nik knew that within a second of touching a rook and said nothing, because there is a kind of man who prices another man's chess set out loud, and Nik had spent thirty years not being him in public.
+Nik sat down and set up. The set was a Jaques from about 1970, weighted, worth four hundred pounds on a good day. Nik knew that within a second of touching a rook and said nothing, because there is a kind of man who prices another man's chess set out loud, and Nik had spent twenty years not being him in public.
 
-It took twenty minutes to get to move seventeen, and Wilf did not say a single thing on the way. He put the pieces where they had been, in silence, with his eyes on the board, and Nik found himself narrating a little, apologetically — "he'd been quite quick up to here" — and being met with nothing at all, which taught him quickly to stop.
+It took twenty minutes to get to move seventeen, and Wilf did not say a single thing on the way. He put the pieces where they had been, in silence, with his eyes on the board, and Nik found himself narrating a little, apologetically — "he'd been quite quick up to here" — and being met with nothing, which taught him quickly to stop.
 
 At move seventeen Wilf stopped.
 
@@ -148,7 +148,7 @@ He wanted the load path. He was not interested in Nik.
 
 He stopped.
 
-He sat in a function room called the Kenilworth with his hands flat on the table on either side of a chessboard, and went looking, and priced what he found. Nothing. No secret. No wound with a story attached that he could produce and be understood about. A door, and thirty years of standing in it, and behind it a room he could have let anybody walk through at any point since about 2004 at a cost of nothing at all.
+He sat in a function room called the Kenilworth with his hands flat on the table on either side of a chessboard, and went looking, and priced what he found. Nothing. No secret. No wound with a story attached that he could produce and be understood about. A door, and twenty years of standing in it, and behind it a room he could have let anybody walk through at any point since about 2004, at a cost of nothing.
 
 "That's a very good question," he said at last, in the wrong voice. The board voice. The one that means *I'll come back to you on that.*
 

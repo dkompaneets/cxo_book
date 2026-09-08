@@ -16,7 +16,7 @@ Dawn looked up.
 
 "No. No. Christ, no. Opposite. Sort of."
 
-They went into the small room on the second floor with the whale on the wall. Kate shut the door. Dawn sat down with a notebook, which she always brought. Kate looked at the notebook and something in her chest turned over.
+They went into the Aquarium, the room on the second floor with the whale on the wall. Kate shut the door. Dawn sat down with a notebook, which she always brought. Kate looked at the notebook and something in her chest turned over.
 
 "You won't need that."
 
@@ -40,7 +40,7 @@ She pressed play.
 
 *Dawn — it's me. It's eight fifty-two on Sunday. I'm standing outside the board and the deck in the folder is the second of July version.*
 
-It is a very strange thing to sit in a small room and listen to your own voice at that volume.
+It is a very strange thing to sit in a room and listen to your own voice at that volume.
 
 Kate had never once heard it. She had recorded four or five voice messages a day for six years and had listened back to perhaps three of them in her life. What she had not understood — what she had not understood, in a way that would never be fully repaired — was what the thing sounded like at the other end.
 
@@ -68,7 +68,7 @@ The room did the thing rooms do.
 
 "Right," said Kate. Her voice had gone. "I'm not going to explain any of it. I know I'm going to want to, in about nine seconds, so I'm telling you now that I'm not going to, because everything I could say is a way of making you carry it with me.
 
-"There was no mistake. You did exactly what you said you'd do, and you told me in writing at twenty-two minutes to twelve on the Wednesday night that you couldn't get into my drive, and I read it and typed *Perfect*, and then on Sunday morning I decided, in about two seconds, that it was you. And it took me until eleven o'clock that morning to find out that it was me. And by then you'd played it. At fourteen minutes past nine on a Sunday morning with a sick child in the house.
+"There was no mistake. You did exactly what you said you'd do, and you told me in writing at eighteen minutes to twelve on the Wednesday night that you couldn't get into my drive, and I read it and typed *Perfect*, and then on Sunday morning I decided, in about two seconds, that it was you. And it took me until eleven o'clock that morning to find out that it was me. And by then you'd played it. At fourteen minutes past nine on a Sunday morning with a sick child in the house.
 
 "I'm sorry. Not for the pressure I was under, or the fortnight I'd had, or any of it. For what I did to you. I'm sorry."
 
@@ -106,7 +106,7 @@ It had taken four minutes.
 
 That was what took her apart.
 
-Kate sat in the small room with the whale on the wall for ten minutes after Dawn had gone.
+Kate sat in the Aquarium for ten minutes after Dawn had gone.
 
 She had prepared for a difficult conversation. She was excellent at difficult conversations. She had done four hundred of them. There is a *shape* to a difficult conversation and Kate could take one from anywhere to anywhere in twenty minutes. She had come down the stairs armoured for cold politeness, or for tears, or for a resignation, or for a long negotiation in which she would have had, at some point, to do something skilful.
 
@@ -116,7 +116,7 @@ There was no work available in it. Nothing to earn, or level, or close out, or p
 
 A board of seven had said *exceptional* eight days earlier and she had felt nothing at all.
 
-She sat in the small room with her hand over her mouth.
+She sat there with her hand over her mouth.
 
 ---
 
@@ -152,7 +152,7 @@ It took two hours and twenty minutes and it was not clean.
 
 Tom wobbled at 4:20. There is a recording of a call where he says "I'll need to check with—" and then stops, audibly, and there are two seconds of dead air on the line, and then he says, "No. Do it."
 
-He got the sequence wrong at 5:05 and had to back one thing out. He made a call about customer comms at 5:30 that Kate — watching the channel from a room upstairs with her hands flat on a table — would not have made, and which was, she looked at it for a long time, defensible.
+He got the sequence wrong at 5:05 and had to back one thing out. He made a call about customer comms at 5:30 that Kate — watching the channel from a room upstairs with her hands in her lap — would not have made, and which was, she looked at it for a long time, defensible.
 
 Possibly better.
 
@@ -192,7 +192,7 @@ It took ten minutes and involved a man called Gordon who had a theory. Kate aske
 
 She put the phone down and sat on the sofa.
 
-It was not forgiveness and it was not a confrontation, and nothing whatsoever had been resolved. After thirty-two years, on a Sunday afternoon, for eleven minutes, she had stopped servicing the debt.
+After thirty-two years, on a Sunday afternoon, for eleven minutes, she had stopped servicing the debt.
 
 Nobody had been told. Nobody had noticed. The debt was still there and would be there at Christmas.
 

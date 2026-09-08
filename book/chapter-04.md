@@ -20,7 +20,7 @@ And about a tenth of a point of the room, which he did not.
 
 So he did the thing he did. He put a number in front of the silence and let the number carry it, and by the second bullet the room had forgotten there had been a joke, and only one person in it knew there was anything to forget.
 
-The unsaid version went like this. The eleven-two had two-point-four of publisher prepayments in it, and those came back if Sunward slipped past November. The runway assumed a headcount nine people short, and an open role lengthens a runway exactly the way a skipped meal lengthens money. Sunward had been given three dates and had missed three dates.
+The unsaid version went like this. The eleven-two had two-point-four of publisher prepayments in it, and those came back if Sunward slipped past November. The runway assumed a headcount nine people short, and an open role lengthens a runway the way a skipped meal lengthens money. Sunward had been given three dates and had missed three dates.
 
 None of it was a lie. All of it was in the pack, on page nineteen, in a table, correctly labelled, put there by Nik so that it would exist quietly.
 
@@ -78,7 +78,7 @@ Nothing had happened. That was true of it either way. She was nineteen and there
 
 He said it again, slightly louder. She got it, and smiled. That was the whole event.
 
-He paid three pounds forty and went and stood outside on the Guildford road with the coffee going cold in his hand, because he was twenty-four years old and standing in a room in Croydon.
+He paid three pounds forty and went and stood outside on the Guildford road with the coffee going cold in his hand, because he was nineteen years old and standing in a room in Croydon.
 
 Five years of it, 1999 to about 2004. He would say a sentence, and there would be a beat, and the other person's face would do a small thing — a fractional leaning-in, nothing rude, nothing anybody could have been accused of — and then *sorry?* And he would say it again, and it would land in the room four seconds late and about ten per cent smaller than the sentences on either side of it.
 
@@ -92,7 +92,7 @@ So he tried the other thing.
 
 And the other thing worked immediately, which was the disaster. You take a true thing and you press it. Not falsify. *Press*, the way you press a shirt. And it lands, and when it lands nobody leans in, and when nobody leans in nobody says *sorry?*, and the four seconds are gone.
 
-Twenty-six years later a girl in a sandwich shop had not heard him over a grinder, and he had spent three pounds forty and eleven minutes of an afternoon standing on a pavement about it.
+Twenty-six years later a girl in a sandwich shop had not heard him over a grinder, and he had spent three pounds forty and a quarter of an hour of an afternoon standing on a pavement about it.
 
 He put the coffee in a bin without drinking it. Three pounds forty, and he registered the waste, and there was not one single thing he could do about any of it.
 

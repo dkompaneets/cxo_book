@@ -24,7 +24,7 @@ Check-in took nine minutes, because the woman ahead of him was disputing a charg
 
 Standard double: £141. Per night. Five nights.
 
-Seven hundred and five pounds. He had known that; he had paid it. What happened at the desk was not the discovery of a number but the arrival of one number in the same room as another, which is a different event; and the other number was £1,140, due on the first of August.
+Seven hundred and five pounds. He had known that. He had paid it. What happened at the desk was not the discovery of a number but the arrival of one number in the same room as another, which is a different event, and the other number was £1,140, due on the first of August.
 
 He did the division before he could stop himself. Five nights here was two-thirds of a month of his daughter's school. Then he did it per night. Worse. Then per hour, which was ridiculous, and he stopped, and the stopping took an effort he would have been embarrassed to describe.
 
@@ -74,7 +74,7 @@ Kate looked at the note.
 
 Alex arrived at 4:50 and did not speak to a human being for eleven minutes.
 
-He had the big headphones on. He had not been listening to anything for the last half hour of the train, because he had been thinking about a problem; the headphones had simply stayed on as a wall rather than a speaker.
+He had the big headphones on. He had not been listening to anything for the last half hour of the train, because he had been thinking about a problem, and the headphones had stayed on as a wall rather than a speaker.
 
 He joined the wrong queue twice.
 

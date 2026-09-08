@@ -44,7 +44,7 @@ And Kate — who had had four hours' sleep, and a day of sixty-one people, and a
 
 "Right, Kate. I'm going to look at my phone now, and you're going to go back to your third option."
 
-He did. He actually did; he turned slightly away and got his phone out and read something on it for a full ninety seconds.
+He did. He actually did. He turned slightly away and got his phone out and read something on it for a full ninety seconds.
 
 Kate looked at her sheet of paper. At the *3*. And discovered that she had lost the thread, and that what she wanted, with an intensity that alarmed her, was for the man to say something else.
 
@@ -70,7 +70,7 @@ Kate turned on her stool to face him.
 
 She told him.
 
-She had not planned to, and could not afterwards fully reconstruct how it happened. There was a step where he asked what the number was for next year, and a step where she said it out loud — *twenty-two* — and heard how it sounded in a bar at ten o'clock; and a step where he said "and what's the honest one?" and she said "fourteen, if Refill lands. Eleven if it doesn't." And then she was simply telling him, in detail, with the folder open, to a man whose surname she did not know.
+She had not planned to, and could not afterwards fully reconstruct how it happened. There was a step where he asked what the number was for next year, and a step where she said it out loud — *twenty-two* — and heard how it sounded in a bar at ten o'clock. A step where he said "and what's the honest one?" and she said "fourteen, if Refill lands. Eleven if it doesn't." And then she was simply telling him, in detail, with the folder open, to a man whose surname she did not know.
 
 Two things made it possible. She understood both of them at the time.
 
@@ -106,7 +106,7 @@ There was a pause in which the barman moved a glass.
 
 "Being surprised."
 
-"Three." He turned his glass a quarter turn on the marble; she noticed it, and would notice it again later. "When you go in on Sunday and say fourteen, what is the first question?"
+"Three." He turned his glass a quarter turn on the marble. She noticed it, and would notice it again later. "When you go in on Sunday and say fourteen, what is the first question?"
 
 "Why."
 
@@ -116,7 +116,7 @@ He let that sit.
 
 "Because there is no board on earth that punishes you for the number. They punish you for the interval between when you knew and when they knew. That's the entire thing. That's thirty years of my life in one sentence, and you can have it for a gin and tonic."
 
-Kate sat very still.
+Kate put the pen down.
 
 "I've known since March," she said.
 

@@ -10,7 +10,7 @@ He had rung the service desk at ten past twelve. A very pleasant young man in Ba
 
 "I can see four padlocks," Michael said. "This machine is a Victorian jail."
 
-Then he had said something else, which he regretted immediately and apologised for; and the young man had been extremely gracious; and Michael had put the phone down and sat in the business centre of a hotel at that hour with his hands flat on either side of a laptop.
+Then he had said something else, which he regretted immediately and apologised for; and the young man had been extremely gracious; and Michael had put the phone down and sat in the business centre of a hotel at that hour with his hands on either side of a laptop.
 
 It was not the attachment.
 
@@ -20,7 +20,7 @@ That was when Alex went past the window.
 
 ---
 
-Alex was going past the window because he could not sleep, and the lift lobby on the ninth had the only reliable signal in the building, and he had gone down two floors on the stairs looking for a better one and ended up on the first-floor landing.
+Alex was going past the window because he could not sleep, and the lift lobby on the ninth had the only reliable signal in the building, and he had gone down the stairs looking for a better one and ended up on the first-floor landing.
 
 He saw, through the glass, an old man staring at a laptop in a small bright room at half past midnight, and the set of the shoulders that means a person has stopped trying and has not yet stood up.
 
@@ -40,7 +40,7 @@ Michael looked up.
 
 "Yeah." Alex came in. "Can I? It's ninety seconds. It's not you, it's — everyone's is broken. It's a known thing."
 
-It took eighty. Alex did not touch the laptop; he stood beside it with his hands behind his back and said, "settings — no, the other settings, the gear — right, network — there'll be a thing that says something like *use secure gateway*, turn it off, no, it won't break anything, it'll just be slower — now open it again."
+It took eighty. Alex did not touch the laptop. He stood beside it with his hands behind his back and said, "settings — no, the other settings, the gear — right, network — there'll be a thing that says something like *use secure gateway*, turn it off, no, it won't break anything, it'll just be slower — now open it again."
 
 The file opened.
 
@@ -84,7 +84,7 @@ It was Michael who brought up the Ledger Gap, and he brought it up as a man show
 
 "They agree about ninety-nine-point-nine-something of the time," said Michael. "The rest is what we call the Gap. It's about eleven thousand items a night. And there are nineteen people in Sheffield whose entire job is to sit down at six in the morning and work out what those eleven thousand things are."
 
-Alex had gone very still.
+Alex had stopped moving.
 
 "How do they do it?"
 
@@ -142,7 +142,7 @@ And the fix is not a better clock. That is the thing. Everybody buys a better cl
 
 You are asking two systems *when did this happen*, and neither of them knows. They cannot know. Nothing knows when anything happened. But each of them knows something better, something they have never once been asked, which is: *what had I already seen when I did this.*
 
-That is free. That is sitting there. The gateway, when it writes a payment, has already read a balance, and the balance came from somewhere, and it has an identity; and the ledger, when it posts, has already applied a batch, and the batch has an identity too. So you do not need a time. You need a pointer. Each event carries the last thing it heard from the other side — one field, sixteen bytes, you could ship it in a fortnight — and now every event is not a dot on a timeline, it is a link in a chain, and the chains interlock wherever the two systems actually touched, and *that* order is not an estimate. That order is a fact. It was true when it happened and it will be true in nine hundred years.
+That is free. That is sitting there. The gateway, when it writes a payment, has already read a balance, and the balance came from somewhere, and it has an identity, and the ledger, when it posts, has already applied a batch, and the batch has an identity too. So you do not need a time. You need a pointer. Each event carries the last thing it heard from the other side — one field, sixteen bytes, you could ship it in a fortnight — and now every event is not a dot on a timeline, it is a link in a chain, and the chains interlock wherever the two systems actually touched, and *that* order is not an estimate. That order is a fact. It was true when it happened and it will be true in nine hundred years.
 
 And what falls out of it is that most of the eleven thousand are not discrepancies at all. They are the same event seen twice from two frames, correctly, by two systems that were both right, and the only thing wrong was a human being at six in the morning in Sheffield being asked to referee a race between two clocks that were never in the same race.
 
@@ -190,7 +190,7 @@ Alex laughed. Then he stopped laughing, because Michael had not.
 
 Alex looked at the floor.
 
-He was aware, he was extremely aware, of a thing happening in his chest that he had not felt since he was a boy, and which was not pride exactly. Pride was familiar; he got pride off a benchmark. This was different, and it had a stranger in it. This was a man with no reason on earth to flatter him, who had not seen his CV, who did not know what his company had raised or who his investors were or that he had once given a talk in Seattle that two thousand people watched — who had watched him do the thing he was actually good at for two hours and forty minutes, and had then, in the light of that and nothing else, said *what do you charge.*
+He was aware, he was extremely aware, of a thing happening in his chest that he had not felt since he was a boy, and which was not pride exactly. Pride was familiar. He got pride off a benchmark. This was different, and it had a stranger in it. This was a man with no reason on earth to flatter him, who had not seen his CV, who did not know what his company had raised or who his investors were or that he had once given a talk in Seattle that two thousand people watched — who had watched him do the thing he was actually good at for two hours and forty minutes, and had then, in the light of that and nothing else, said *what do you charge.*
 
 "It's just—" he said. "That's just how I think. It's not—"
 
@@ -206,7 +206,7 @@ He stood up, and put a hand briefly on the back of the chair, and looked at the 
 
 "Two o'clock Monday," said Alex.
 
-"Nobody has ever come," said Michael; and went up to bed, and took a breath at the lift, in and out, and slept better than he had in a month.
+"Nobody has ever come," said Michael, and at the lift he stopped, and took a breath in, and let it out, and went up to bed.
 
 Alex stayed on the floor of the business centre for another ten minutes, looking up at the five sheets.
 

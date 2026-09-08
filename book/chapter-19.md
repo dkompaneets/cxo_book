@@ -62,7 +62,7 @@ He had taught Claire to swim. He wanted that noted; and he noted it, sitting on 
 
 He could not remember one afternoon of it.
 
-He got up at twenty to ten, and looked at himself in the mirror of a hotel bathroom for slightly too long, and then took a breath in, and let it out, and went and put on a clean shirt, because at two o'clock he had to give a speech.
+He got up, and looked at himself in the mirror of a hotel bathroom for slightly too long, and then took a breath in, and let it out, and went and put on a clean shirt, because at two o'clock he had to give a speech.
 
 ---
 
@@ -72,7 +72,7 @@ The Warwick Suite held four hundred and there were perhaps two hundred and eight
 
 Michael was funny for six minutes, and then serious for eleven, and then funny again; and the eleven serious minutes were the best public speaking he had done in a decade. He did the history of retail operations since 1986 and did not once mention transformation. He said the sentence about the mainframe and got the laugh he had banked on, and it went up the room like a wave — because every single person in that hall was running their actual business on something written before the audience's juniors were born, and nobody had said it out loud in four days.
 
-He did nine minutes on the Ledger Gap, honestly, with the eleven million pounds in it and the man from Bristol left out; and at the end of that section a woman in the fourth row put her hand up in a keynote, which does not happen, and asked a real question, and he answered it, and she wrote it down.
+He did nine minutes on the Ledger Gap, honestly, with the thirteen million pounds in it and the man from Bristol left out; and at the end of that section a woman in the fourth row put her hand up in a keynote, which does not happen, and asked a real question, and he answered it, and she wrote it down.
 
 And then he came to the end, and did the thing he had planned in the shower, which was to say:
 
@@ -84,9 +84,9 @@ A beat.
 
 It was good. It got a proper hand.
 
-He came off at 2:41 and a queue of people wanted to talk to him and he was charming to all of them; and a man from a building society in the north-west said, "That was the only useful thing anyone's said all week," and shook his hand with both of his.
+He came off and a queue of people wanted to talk to him and he was charming to all of them; and a man from a building society in the north-west said, "That was the only useful thing anyone's said all week," and shook his hand with both of his.
 
-And Michael went back to room 402 at 3:20 and sat down and thought: *there was no paragraph about why we do this.*
+And Michael went back to room 402 and sat down and thought: *there was no paragraph about why we do this.*
 
 He had written round it. He had done forty minutes, and taken the exact question he had been asked, and turned it, with great skill and real charm, into a different one that he could answer; and two hundred and eighty operations people had applauded, and eleven had queued, and one had said it was the only useful thing all week — and not a single human being in that room had noticed that a man had stood in front of them for forty minutes and declined to say why he had spent his life doing this.
 

@@ -162,7 +162,7 @@ And the only currency this was purchasable in.
 
 "Yeah?"
 
-"Two engineers in January, written down, said out loud. Round two is mine. And I'll do the forty calls." He put his hand flat on the table. "And the first time you answer one of those questions for me before I've finished, I'm going to stop talking and let the silence sit there until everyone on that call notices."
+"Two engineers in January, written down, said out loud. Round two is mine. And I'll do the forty calls." He put both hands on the table. "And the first time you answer one of those questions for me before I've finished, I'm going to stop talking and let the silence sit there until everyone on that call notices."
 
 Ben laughed — and then stopped laughing, because Alex was not laughing.
 
@@ -174,7 +174,7 @@ The projector fan cut out. Neither of them noticed, having stopped hearing it ab
 
 ---
 
-The pilot with Lauriston came the following spring. Not a climax. A small paid engagement to prove the recon approach on real data, on a subset, with a bank's caution about it. It found four things that broke the model, exactly as he had said it would on a hotel floor in July, and three of them were the sort of thing you fix in an afternoon once you can see them. The fourth was a genuine limitation in the approach, and he wrote it up honestly and at length and without hedging.
+The pilot with Lauriston came the following spring. A small paid engagement to prove the recon approach on real data, on a subset, with a bank's caution about it. It found four things that broke the model, exactly as he had said it would on a hotel floor in July, and three of them were the sort of thing you fix in an afternoon once you can see them. The fourth was a genuine limitation in the approach, and he wrote it up honestly and at length and without hedging.
 
 Michael's programme director, a man Alex never met, wrote back one line: *this is the first time anyone's told us what it can't do.*
 

@@ -14,7 +14,7 @@ The Ardenne had a first-floor landing with a window that looked down into the at
 
 **15:40.** The board arrived at five for dinner. She had two hours, less the twenty minutes it would take to change.
 
-Nine hours of it on Friday. Eleven on Saturday morning. Certain, in front of sixty-one people, for twenty hours in two days. She had come up the stairs to find somewhere quiet to read the deck for the ninth time, and had seen him through the glass, and had not read the deck.
+Eleven hours of it on Friday. Six on Saturday. Certain, in front of sixty-one people, for seventeen hours in two days. She had come up the stairs to find somewhere quiet to read the deck for the ninth time, and had seen him through the glass, and had not read the deck.
 
 They watched the chess for a while. From above it looked like a system. A hundred and seventy-six people bent over eighty-eight boards under the strip lights. Every so often, somewhere in the grid, one of them stood up and stretched and walked about. You could tell from the walk who was winning.
 
@@ -136,7 +136,7 @@ His mouth did something.
 
 "There's a thing that happens to a man when the phone stops. And I have spent about two years pretending that I had stopped answering it, when in fact it had stopped ringing. Those are extremely different. I have never said that out loud in my life."
 
-Kate did not say anything at all, which was, at that moment, the hardest and best thing she did all weekend.
+Kate did not say anything.
 
 "Yes," said Michael. "All right. Yes."
 

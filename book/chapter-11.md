@@ -26,7 +26,7 @@ There was an extractor housing the size of a transit van that made a low continu
 
 And there was a view.
 
-The car park, then the ring road, then the M42; and then — because The Ardenne sat on slightly raised ground, and because it was ten past nine in July — everything else. The whole flat lit sprawl of it going off to the north-west. The tower blocks in the middle distance. The aircraft stacked over the airport in a slow queue with their lights on. And the sky doing the long orange thing it does in England in July at that hour, where it takes forty minutes to give up.
+The car park, then the ring road, then the M42. Then, because The Ardenne sat on slightly raised ground, and because it was ten past nine in July, everything else. The whole flat lit sprawl of it going off to the north-west. The tower blocks in the middle distance. The aircraft stacked over the airport in a slow queue with their lights on. And the sky doing the long orange thing it does in England in July at that hour, where it takes forty minutes to give up.
 
 And there was already somebody there.
 
@@ -46,7 +46,7 @@ He was sitting in the metal chair with his elbows on his knees, and he stood up 
 
 "Michael."
 
-The two men shook hands, which on a roof, at night, next to an extractor, is a slightly comic act; and all three of them registered that, and nobody said anything about it.
+The two men shook hands, which on a roof, at night, next to an extractor, is a slightly comic act. All three of them registered that, and nobody said anything about it.
 
 ---
 
@@ -80,13 +80,13 @@ Nobody's title came up. Not once. And the extraordinary thing — Kate thought a
 
 What they talked about was the hotel.
 
-The lanyards, at length, and the incident with the lanyards, which Michael had got the full account of from Fola and told very badly and very well. The fireplace with no fire in it. Whether the nine hundred glass rods in the lobby were, as Alex insisted, structurally supporting anything — and the fact that Nik knew, actually knew, from a man in the analysis room, that they were not; and that the man in question was an eighty-three-year-old structural engineer who had walked into the lobby on Thursday, looked up at them for four seconds, and said the word "decoration" with genuine contempt.
+The lanyards, at length, and the incident with the lanyards, which Michael had got the full account of from Fola and told very badly and very well. The fireplace with no fire in it. Whether the nine hundred glass rods in the lobby were, as Alex insisted, structurally supporting anything — and the fact that Nik knew, actually knew, from a man in the analysis room, that they were not, and that the man in question was an eighty-three-year-old structural engineer who had walked into the lobby on Thursday, looked up at them for four seconds, and said the word "decoration" with genuine contempt.
 
 They talked about Birmingham. They talked about a hotel in Frankfurt that Nik had once been stuck in for three days. Michael did four minutes on a conference in 1991 that had gone so wrong that a man had ended up in a fountain, and there was a point in it where Kate had to put her drink down.
 
 And below them, coming up through the roof, very faintly, under the extractor, there was music.
 
-The Bellwether summit had ended its second day with a thing in the ballroom, and the thing in the ballroom had a DJ; and what came through five inches of concrete and a rubber membrane was not the tune but the low end of it — the bass and the kick, arriving in the soles of the feet rather than the ears.
+The Bellwether summit had ended its second day with a thing in the ballroom, and the thing in the ballroom had a DJ, and what came through five inches of concrete and a rubber membrane was not the tune but the low end of it — the bass and the kick, arriving in the soles of the feet rather than the ears.
 
 ---
 

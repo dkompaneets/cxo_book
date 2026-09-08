@@ -10,15 +10,15 @@ He had brought, in his coat pocket, for no reason he could have defended, a smal
 
 Alex came in at four minutes past six.
 
-He came in the way he came into everywhere: fast, already apologising, scanning the room with the headphones round his neck. And then he saw Nik, and stopped, and his whole face changed; and neither of them managed to do the thing that men do, the nod, the *all right*, the cool version. Nik stood up too fast and knocked the table and Alex said "*mate*" in a voice that had nothing guarded in it at all, and they did not shake hands, they did the other thing, the brief hard clasp with a hand on the shoulder, and then both sat down slightly embarrassed and enormously pleased.
+He came in the way he came into everywhere: fast, already apologising, scanning the room with the headphones round his neck. And then he saw Nik, and stopped, and his whole face changed, and neither of them managed to do the thing that men do, the nod, the *all right*, the cool version. Nik stood up too fast and knocked the table and Alex said "*mate*" in a voice that had nothing guarded in it at all, and they did not shake hands, they did the other thing, the brief hard clasp with a hand on the shoulder, and then both sat down slightly embarrassed and enormously pleased.
 
 "You look—" said Nik.
 
 "Yeah, you too. You look — did you win?"
 
-"I lost the last one. On purpose, sort of. I'll tell you." Nik was grinning. "I came second overall. Ninety pounds."
+"I lost the last one. On purpose, sort of. I'll tell you." Nik was grinning. "Four out of seven. Not a penny."
 
-"Ninety *pounds.*"
+"Not a *penny.*"
 
 "It's not a business," said Nik.
 
@@ -32,7 +32,7 @@ They had an hour before Kate came, and they spent it as you spend it with somebo
 
 Alex told him about Ben. About the meeting with no laptops. About *once, slowly.*
 
-And Nik put his hand flat on the table and said, "That's my — Alex, that's the thing your dad said. I've been using that. I've been using it for four months, ask Meera."
+And Nik put his glass down and said, "That's my — Alex, that's the thing your dad said. I've been using that. I've been using it for four months, ask Meera."
 
 "I know," said Alex. "I gave it to you. You gave it back."
 
@@ -47,8 +47,6 @@ Nik told him about the memo, and the number he had said out loud in his own kitc
 Alex went still.
 
 "Oh," he said. "Yeah. That's — yeah. That's mine too. That's exactly mine."
-
-And the two of them, the chief financial officer and the chief technology officer, sat in a pub off Sun Street having independently arrived, from opposite directions, at the same four seconds.
 
 "How's your dad?" said Nik.
 
@@ -78,17 +76,17 @@ She stayed standing, with her hands on the back of the empty chair — the fourt
 
 And she said it the way Michael had taught her to say the thing they don't want to hear. Plainly. Once. Without making them wait for it. Without a preamble that would let them start hoping in the gap.
 
-"Michael died," she said. "Nine days ago. I rang him on Thursday to ask him here, and his daughter answered. He'd been ill for over a year. A heart thing that turned into something else. He knew. He'd known the whole time. He didn't tell anyone."
+"Michael died," she said. "Three weeks ago. I rang him to ask him here, and his daughter answered. He'd been ill for over a year. A heart thing that turned into something else. He knew. He'd known the whole time. He didn't tell anyone."
 
 Nobody said anything.
 
-The fire did its thing. Somewhere behind them a man laughed at a different table, in a different world.
+The fire burned. Somewhere behind them a man laughed at a different table, in a different world.
 
-"He was going to come tonight," said Kate.
+"He'd have come tonight," said Kate.
 
-Her voice was very level, and it was the same level as the voicemail, the surgical calm, except that this time she was using it on purpose, to get the words out without them breaking in her mouth.
+Her voice was level, the same level as the voicemail, except that this time she was using it on purpose, to get the words out whole.
 
-"He said yes. His daughter said he'd talked about the hotel, at the end. About all of us. The boy with the marker pen. The man who plays chess." She looked at each of them. "The woman who gave him a job that was a telephone."
+"His daughter said he'd talked about the hotel, at the end. About all of us. The boy with the marker pen. The man who plays chess." She looked at each of them. "The woman who gave him a job that was a telephone."
 
 She sat down, finally, in her own chair, and put her hands flat on the table.
 
@@ -114,7 +112,7 @@ He stopped.
 
 "I did the thing my dad warned me about. The debt that gets bigger the longer you leave it. I did it to Michael."
 
-Nobody told him it was all right, because they were not, any of them, in the business of that any more.
+Nobody told him it was all right.
 
 Then Alex took out his phone.
 
@@ -136,7 +134,7 @@ His voice came out of the small speaker into the pub, and it was unbearably him:
 
 Kate had her hand over her mouth.
 
-They had braced for last words. These were not last words. Whatever he had known in September, he had not known how little was left of it; and so there was nothing in the recording that was saying goodbye. Only a man on an ordinary Tuesday ringing somebody up and putting the true thing first, without going round by the joke.
+They had braced for last words. These were not last words. Whatever he had known in September, he had not known how little was left of it, and so there was nothing in the recording that was saying goodbye. Only a man on an ordinary Wednesday ringing somebody up and putting the true thing first, without going round by the joke.
 
 *Anyway. I hear the recon thing worked. Of course it did. Ring me back if you want to. And if you don't, that's — I'd understand that too.*
 
@@ -164,7 +162,7 @@ Then Nik got up, without a word, and went to the bar, and came back with four gl
 
 And one in front of the empty chair.
 
-He poured. It was a bottle of red, the second-cheapest — though he did not know that Kate had noticed, and that it had undone her a little. He filled all four, including the fourth, right up, and set the bottle down, and sat.
+He poured. It was a bottle of red, the second-cheapest, though he did not know that Kate had noticed. He filled all four, including the fourth, right up, and set the bottle down, and sat.
 
 The fourth glass stood in front of the empty chair. Full. Dark. Catching the light off the fire.
 
@@ -182,7 +180,7 @@ He stopped.
 
 "Yes," said Kate.
 
-"He did it every time," said Nik. "That's what it was for."
+"He did it every time," said Nik.
 
 "Yes," said Kate.
 
@@ -196,6 +194,6 @@ And after a long while Kate said, quietly, not as a toast, just as a fact she wa
 
 "Yeah," said Alex.
 
-Somebody paid for the fourth glass. It was Nik, at the end, quietly, when he settled the tab; and nobody argued about it, and nobody drank it, and the pub cleared it away after they had gone and thought nothing of it — the way a hotel resets a lobby, the way the world routes around the thing that is no longer there.
+Somebody paid for the fourth glass. It was Nik, at the end, quietly, when he settled the tab, and nobody argued about it, and nobody drank it.
 
-And the three of them came back the next Friday, and the one after that.
+The pub cleared it away after they had gone and thought nothing of it.

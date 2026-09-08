@@ -140,7 +140,7 @@ The plant went on behind the lift core.
 
 "No," he said. "Sorry. I don't have it."
 
-Nik sat very still.
+Nik put the bishop down.
 
 "Yes," he said.
 
@@ -171,8 +171,6 @@ Two tables away a man put a set into a bag, and the pieces went in with the soun
 "Why?" said Alex.
 
 "Because if I say the plain thing they might get it wrong."
-
-He turned his hand over.
 
 "That's it. That's the whole of it, and it sounds insane out loud, which is presumably why I've never said it out loud." He looked at the board. "I have said, to a stranger, at one in the morning, in a hotel, a thing I have not said to my wife in fourteen years of marriage. I'd like it noted that I'm aware of how that looks."
 
@@ -210,7 +208,7 @@ Nik looked up sharply.
 
 "Yeah."
 
-"Ah," said Nik, and sat back, and put his hand flat on the table beside the board.
+"Ah," said Nik, and sat back, and did not say anything else.
 
 The lift to the ninth floor ran with a hum in it at about the pitch of the atrium and a rattle at the door that arrived a beat after it stopped.
 
