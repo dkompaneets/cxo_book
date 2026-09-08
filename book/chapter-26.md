@@ -6,8 +6,6 @@ Nothing external had changed. None of them would have believed that in July.
 
 The FY27 cycle opened in October exactly as FY26 had: a pre-read, a demand, and a gap between them. Harriet Nash was exactly as much of a force of nature as she had ever been. Bellwether was bigger, and therefore the problems were bigger, and there were still Sunday nights.
 
-What was different was small enough to be invisible from outside, and was the whole of it.
-
 Kate danced on Wednesdays, badly, at the church hall on Milkwood Road, in a room mostly of people over fifty who did not care.
 
 Colin was nationally ranked and had never once let anybody forget it. He had taken one look at her frame on the first evening and said, "Oh. We've got a controller," in a voice of enormous satisfaction, and had been working on her for eight weeks.
@@ -102,7 +100,7 @@ He had not rung the others. He kept meaning to ring Michael back, and the meanin
 
 ---
 
-And so it sat, for months. Four people, in four cities, each doing the one small impossible thing, and none of them speaking to the others, and the last night at the hotel lying exactly where it had fallen in July, in a group chat with four names in it and nothing written.
+And so it sat, for months, in a group chat with four names in it and nothing written.
 
 Until a Thursday in the middle of November, when Kate Merrick, standing at her window at half past nine at night with the city below her, decided.
 

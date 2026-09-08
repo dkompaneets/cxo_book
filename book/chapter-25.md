@@ -132,6 +132,8 @@ And then he told him.
 
 He told him all of it. Not as a warning, and not as a lesson, and not with a moral on the end, because he had learned in July that a man declines to hear the moral. He told him plainly, unedited, without a single joke: the branches; the years; the sticker on the television; the promise a boy made at a table in Bushey; the four hundred closures; the empty chairs; the phone that stopped ringing; the granddaughter he had to be told twice about; the recital he had nearly not come to. He told him that it had been the right decision every single time, and that it added up to a thing he could not undo.
 
+"I was good at it," he said, somewhere in the middle of it. "If I'd been worse at it I'd have been home."
+
 He talked for eleven minutes on a step in the dark, and Danny did not say anything at all.
 
 At the end Michael said:

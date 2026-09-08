@@ -76,7 +76,7 @@ Here is what nobody said, over the next hour and a half.
 
 Nobody said what they did. Michael said "banks" once, in passing, in a sentence about the fraud stands in Hall 2. Kate said "e-commerce," in a joke about warehouses. Nik said he was "with a games company," and Alex said "I do security stuff," and that was the entire exchange of professional information among four people whose combined direct reports numbered three hundred and eleven.
 
-Nobody's title came up. Not once. And the extraordinary thing — Kate thought about this afterwards, quite hard — was that it was not tact. It was not four people being modest. It was that on a roof, at night, beside an extractor, with a paint tin full of somebody else's cigarettes, there was no mechanism by which it could have come up, because the subject never turned to what anybody was worth.
+Nobody's title came up. Not once. It was not tact. On a roof, at night, beside an extractor, with a paint tin full of somebody else's cigarettes, the subject never turned to what anybody was worth.
 
 What they talked about was the hotel.
 

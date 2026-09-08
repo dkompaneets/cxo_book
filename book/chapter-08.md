@@ -182,6 +182,6 @@ She had spent eleven months being asked *how are you, though* by people who want
 
 "Two o'clock Monday."
 
-"Nobody has ever come," said Michael, delighted.
+"Nobody has ever come," said Michael, and for the first time that evening his face changed while he said it.
 
 And Denny arrived with the bill, and it was 11:50, and Kate went up to eleven and slept five hours, which was an hour and a half more than she had managed on any night that week.

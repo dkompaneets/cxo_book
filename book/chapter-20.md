@@ -148,8 +148,6 @@ There was a second where it could have gone either way.
 
 "No," said Michael. "I don't. I take that back. That was mine, not yours."
 
-And it was the taking-back — a man conceding a point in the middle of the worst thing he had said all weekend — that told them how far off the map they had gone.
-
 He looked at Kate last. This one he got out whole.
 
 "You solved three strangers tonight, brilliantly, because on Sunday you did something you can't fix from a hotel, and you'd rather take a room apart than sit with it. And you have asked me to be your advisor, and I'll do it; and you'll ring me for twenty years and take nothing, because you don't want advice. You want a witness who'll tell you that you were right to be tired."

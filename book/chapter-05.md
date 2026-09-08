@@ -52,7 +52,7 @@ The belief was: *anything I am not personally holding will eventually be dropped
 
 Not a mood. She had had moods. This had the texture of arithmetic. The payments review. The German cards. Ocean in March. The returns copy in 2023. Four times she had not been in the room, four things gone wrong.
 
-Nobody could have argued her out of it. Nobody tried. She never said it aloud, because saying it aloud would have insulted two hundred people who worked very hard. So it stayed inside and did what such things do inside, and grew a small orderly root system into every hour of her week.
+She never said it aloud. Saying it aloud would have insulted two hundred people who worked very hard.
 
 **19:48, Tuesday.** She declined a dinner with a woman who ran a much larger business and had been trying to have dinner with her since February.
 
@@ -98,9 +98,9 @@ He sat for a long time with the fridge going. Then it cut out, and the room was 
 
 He had not opened the notebook in eighteen days.
 
-The ideas had not stopped. That was the frightening part.
+The ideas had not stopped.
 
-On the Central line on the Monday he had had one, and it arrived whole and sideways the way they did — because if you stop flushing the audit buffer on an interval and flush it on the quiesce instead, then the cost does not get smaller, the cost *disappears*, it goes into a thing the runtime is already doing and has already paid for, and the interval was only ever there because somebody two years ago wanted a number they could put in a config file and nobody had asked since what the number was buying, and the answer was nothing, the answer was that four months of latency work had been sitting behind a default that a person picked in an afternoon.
+On the Central line on the Monday he had had one, and it arrived whole — because if you stop flushing the audit buffer on an interval and flush it on the quiesce instead, then the cost does not get smaller, the cost *disappears*, it goes into a thing the runtime is already doing and has already paid for, and the interval was only ever there because somebody two years ago wanted a number they could put in a config file and nobody had asked since what the number was buying, and the answer was nothing, the answer was that four months of latency work had been sitting behind a default that a person picked in an afternoon.
 
 He reached for the pocket.
 
@@ -156,7 +156,7 @@ Vanessa laughed. She really laughed; she put a hand on his arm. "Send it to me. 
 
 And Michael stood there holding the plate.
 
-It had taken about a second and a half, and he had done it without deciding to; and the extraordinary thing — the thing he turned over on the train that evening and could not put down — was that he had felt *relief.* Physical relief, at the sound of her laughing. As if the danger had not been the tiredness, but the possibility of somebody looking at it.
+It had taken about a second and a half, and he had done it without deciding to; and the extraordinary thing — the thing he turned over on the train that evening and could not put down — was that he had felt *relief.* Physical relief, at the sound of her laughing.
 
 ---
 

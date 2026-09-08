@@ -62,7 +62,7 @@ The rest of the day arrived as numbers, which was the only way anything arrived.
 
 The bank renewed the Dublin overdraft forty basis points worse than last year, in a letter using the word *partnership* twice. Forty points on eight hundred thousand is three thousand two hundred a year. Not a catastrophe. Also a junior QA contractor for a month, and he had both before the second paragraph.
 
-Priyesh sent a forecast revision. Twenty-eight, thorough, and he had found a marketing accrual sitting in the wrong quarter since March, eleven thousand four hundred of it. He presented this with the shining face of a man who has not yet discovered that being right about the accounts is a hobby and not a career. Nik told him it was good work, and meant it. He watched him leave lit up, and thought about how many years that lasts.
+Priyesh sent a forecast revision. He was twenty-eight and thorough, and he had found a marketing accrual sitting in the wrong quarter since March, eleven thousand four hundred of it. He presented this with the shining face of a man who has not yet discovered that being right about the accounts is a hobby and not a career. Nik told him it was good work, and meant it. He watched him leave lit up, and thought about how many years that lasts.
 
 HR wanted the salary bands finalised by Friday. He could not do it. Finalising them meant telling nine people a number, and he had not decided which of two numbers to tell them. Across nine people the gap between the two was thirty-one thousand a year, which is one senior artist, or four hundred pounds a head, depending on which way round you needed it to sound.
 

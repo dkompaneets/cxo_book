@@ -70,6 +70,8 @@ Kate looked at the note.
 
 "Of course she does," she said pleasantly, and picked the phone back up.
 
+Six minutes at the desk. She had given it two. The four would come out of something.
+
 ---
 
 Alex arrived at 4:50 and did not speak to a human being for eleven minutes.
@@ -120,7 +122,7 @@ Michael arrived at 5:20 and was, within ninety seconds, on excellent terms with 
 
 "No, no. Leave him. He's no trouble." Michael put his card down. "Give him a nice view."
 
-Fola laughed properly, which is rarer at a hotel desk than people think; and then spent four minutes doing something complicated with two reservations and a rate code, while Michael leaned on the desk and watched the traffic of the place. A man going past with a chess clock in each hand. Two women in fern arguing amiably about a slide. A great shuffling release of banking delegates out of Hall 2 at a quarter past five.
+Fola laughed properly, which is rarer at a hotel desk than people think; and then spent four minutes doing something complicated with two reservations and a rate code, while Michael leaned on the desk and watched the traffic of the place, and smelled it: vanilla out of a diffuser, and under the vanilla what every conference hotel had smelled of since 1986, carpet and chlorine from somewhere below and hot dust off a screen. A man going past with a chess clock in each hand. Two women in fern arguing amiably about a slide. A great shuffling release of banking delegates out of Hall 2 at a quarter past five.
 
 Nobody looked at him. He noticed it, and did not, at the time, give it a name; he had walked into buildings for a dozen years and been the most senior person in them, and here he was a man in a good coat at a desk.
 

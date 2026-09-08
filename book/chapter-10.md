@@ -82,13 +82,15 @@ Kate had stopped eating.
 
 It came up in her whole and assembled and ready — the church hall in Amersham, the hairspray, Tuesdays and Saturdays, the tutor, the five weeks in March that nobody mentioned.
 
+Under the table her weight had gone onto the ball of her left foot.
+
 The story ended thirty years ago. He would look at her with the sympathy people reserve for a thing that is over.
 
 "That's nice," she said. "That you've got something that isn't a race."
 
 "You don't?"
 
-"I've got — I mean, I run. I've got a thing on the wall that tells me how I ran." She heard how it sounded and went on anyway, at speed, in the warm voice, the good one. "I've got a Peloton I use as a coat rack, which I maintain is the correct use, and I once went to a spa where a woman told me my shoulders were the worst she'd seen that year, and I took it as a competitive result."
+"I've got — I mean, I run. I've got a thing on the wall that tells me how I ran." She heard how it sounded and went on anyway, at speed, in the warm voice, the good one. "I once went to a spa where a woman told me my shoulders were the worst she'd seen that year, and I took it as a competitive result."
 
 He laughed. It worked. It always worked. She had built it to work.
 

@@ -30,7 +30,7 @@ Here is what she felt.
 
 Nothing.
 
-Not modesty. She checked. Not the thing where a compliment arrives late and lands in the evening. She waited for it in the evening too. Not disbelief, not impostor syndrome, not the little hot rush followed by the drop.
+Not modesty. She checked. Not the thing where a compliment arrives late and lands in the evening. She waited for it in the evening too.
 
 Nothing at all. A flat, clean, echoing nothing, of the kind you get when you put your hand into a pocket you were certain had something in it.
 

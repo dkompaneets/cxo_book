@@ -28,7 +28,7 @@ And Alex laughed, and it was, for an hour, exactly the way it had been on the ro
 
 They talked over each other, both at once, neither minding.
 
-They had an hour before Kate came, and they spent it as you spend it with somebody you were honest with once, under strange conditions, and have not seen since: quickly, greedily, catching up on facts as a way of not yet saying the other thing.
+They had an hour before Kate came, and they spent it as you spend it with somebody you were honest with once, under strange conditions, and have not seen since: quickly, greedily, facts first.
 
 Alex told him about Ben. About the meeting with no laptops. About *once, slowly.*
 
@@ -128,7 +128,7 @@ Alex put the phone in the middle of the table, on the dark wood, between the fou
 
 *Alex. It's Michael. From the — from the hotel. The mascot.*
 
-His voice came out of the small speaker into the pub, and it was unbearably him: the warmth, the timing, the tiny pause before the joke that you could hear him choosing not to fully make.
+His voice came out of the small speaker into the pub, and it was him: the warmth, the timing, the tiny pause before the joke that you could hear him choosing not to fully make.
 
 *Listen. You were right about most of it, and I've thought about it a great deal, and I wanted to say so, and I wanted to say that the introduction — I should have sent it to you. Just you. You were right about that, and I knew the reason while I was doing it, and you named it, and it's cost me some sleep, which at my age is a genuine sacrifice.*
 
