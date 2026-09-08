@@ -16,7 +16,7 @@ Tuesday.
 
 There was a fault in the interceptor.
 
-He had known for five months, in the way of a tooth that is going to need work. Four thousand lines of C, most of them written in eleven days two years ago in a state he had never been able to get back to, and thirty-one million dollars of other people's money sitting on top of them like a cathedral on a canoe.
+He had known for five months, in the way of a tooth that is going to need work. Four thousand lines of C, most of them written in eleven days two years ago in a state he had never been able to get back to, and thirty-one million dollars of other people's money sitting on top of them like a cathedral on a canoe. It ran on nine customers' machines. One of the nine was a payments company, and the payments company ran it on the boxes that did the second leg of a card authentication, which were the hottest boxes anybody had.
 
 It was not a crash. It was worse than a crash. Once in about a million teardowns, on a machine that happened to be running hot, two things that had never in eighteen months arrived in the wrong order arrived in the wrong order.
 
@@ -85,6 +85,8 @@ He went back to the desk.
 It took the rest of the night, because he did it the plodding way, being stubborn at it, the seventy-minute state never coming back on demand. He took the lock out. He drew the two threads on paper with their little vertical strokes and went looking for the gap and could not build one, and tried for a long time to build one, and could not, and that was the best part of the whole night.
 
 Nobody would ever know that had been broken either.
+
+The fix went into a branch called `teardown-order`. The next release was the compliance module, and the one after that was the compliance module, and he did not ask for a slot.
 
 ---
 

@@ -8,7 +8,7 @@ Alex did not go to the Tuesday meeting, because by the time he got back to Londo
 
 He read it twice, and closed it, and sat on the floor with the laptop shut on his knees while the compressor ran its four minutes and stopped.
 
-Then he did a thing he had not done in three years, which was to open the calendar and book a meeting room for an hour and put exactly one other name on it, and no agenda, because an agenda would have let it be answered before it was said.
+Then he did a thing he had not done in three years, which was to open the calendar and book a meeting room for an hour at four on the Thursday and put exactly one other name on it, and no agenda, because an agenda would have let it be answered before it was said.
 
 ---
 
@@ -18,7 +18,7 @@ They sat with no laptops.
 
 That made both of them aware of their hands, and left the room with nothing in it to look at except the other person and a whiteboard wiped so many times it had gone the colour of weak tea.
 
-He had thought about how to start for two days.
+He had thought about how to start for a day.
 
 He had discarded every version that began with the grievance. He had worked that out from two people — from watching Kate take three people apart in a hotel bar, and from his father waiting four days in an airport without asking him anything.
 
@@ -171,6 +171,14 @@ He put out his hand across the table.
 They shook on it, which is a slightly absurd thing to do with a man you have known for four years, and they both did it anyway, and neither of them said anything about it then or afterwards.
 
 The projector fan cut out. Neither of them noticed, having stopped hearing it about ninety minutes earlier.
+
+Fenella was outside the door when they opened it, with a laptop open on one forearm.
+
+"The control-plane certificate expired at twenty to four," she said. "Every agent in Europe failed closed. Two hours. It's back, I've done it by hand, and I'd like to know whose calendar that was in."
+
+Neither of them answered.
+
+It had been in Alex's. In 2023, on a laptop he had stopped using, in a calendar that had gone on knowing about it after everybody had stopped asking.
 
 ---
 

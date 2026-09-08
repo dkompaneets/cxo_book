@@ -122,7 +122,7 @@ She sat there with her hand over her mouth.
 
 The crisis broke on the Thursday at 3:40, which was the first properly load-bearing thing to happen since the board.
 
-A supplier's certificate expired without anybody noticing, and every card payment on the mobile app stopped working. At a quarter to four. On a Thursday. In July.
+A certificate expired in a piece of software two suppliers down from Bellwether, which nobody at Bellwether had heard of, and every card payment on the mobile app stopped working. At a quarter to four. On a Thursday. In July.
 
 Kate was on the second floor when Tom Ferreira found her.
 
@@ -158,7 +158,7 @@ Possibly better.
 
 At 5:51 the app was back.
 
-At 5:58 Tom put a message in the channel: *Back up. Root cause was the cert, we've got an alert on expiry now which we should have had since 2022. My call on the comms, I'll write it up. Sorry for the two hours.*
+At 5:58 Tom put a message in the channel: *Back up. Root cause was a cert at Marrowbone's security vendor, their agent failed closed, we've got an alert on it now which we should have had since 2022. My call on the comms, I'll write it up. Sorry for the two hours.*
 
 Kate read it four times.
 
@@ -204,7 +204,7 @@ She booked it on the Monday. She nearly cancelled it on the Tuesday. On the Wedn
 
 At 6:14, running down Tooley Street with a bag, she got the call.
 
-"Kate, sorry — it's Tom. The Marrowbone people are saying the settlement file—"
+"Kate, sorry — it's Tom. The Marrowbone people are saying Lauriston's rejected the settlement file—"
 
 She stopped on the pavement.
 

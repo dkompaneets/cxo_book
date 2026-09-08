@@ -94,7 +94,7 @@ The not-answering was the answer, and Alex saw it.
 
 Nik stopped, half standing.
 
-"That's who you're at. You said the studio and the Sunward milestone at breakfast, and I looked it up, because I look everything up. Your publisher's got a clawback on that milestone at the end of November — it was in a piece in January — two-point-four million, against a runway that's six months if it slips. And it'll slip, because the producer's missed every date they've set." She had not raised her voice either. "And you've just told this table you're buying a round off a strong quarter, in front of two people who can't check and one who can. Why?"
+"That's who you're at. You said the studio and the Sunward milestone at breakfast, and I looked it up, because I look everything up. Your publisher's got a clawback on that milestone at the end of November — it was in a piece in January — two-point-four million, against a runway that's six months if it slips. And it'll slip, because the producer's missed every date they've set. And Hollis are on your board. Hollis are on mine. I know what they're like in a quarter where a date moves." She had not raised her voice either. "And you've just told this table you're buying a round off a strong quarter, in front of two people who can't check and one who can. Why?"
 
 "Kate," said Michael. "Leave it—"
 

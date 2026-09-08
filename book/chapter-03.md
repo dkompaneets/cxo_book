@@ -12,6 +12,10 @@ At 8:19 he took a call from Group Risk about a supplier in Leeds, and said the s
 
 He breathed in. He breathed out.
 
+At 8:27 he approved the repricing of the commercial overdraft book, forty basis points across eleven hundred facilities, on a one-page note whose only load-bearing sentence was the one about the letter, which would use the word *partnership* twice, since somebody had established that this reduced complaints.
+
+He breathed in, and out.
+
 At 8:36 he declined a request to sit on a steering group; and then, a few minutes later, having thought about who had asked and what it would cost her to be declined, un-declined it and accepted, which is a different and worse thing than saying yes in the first place.
 
 Breathed in. Breathed out.
@@ -36,7 +40,7 @@ Callum Deitch was thirty-four and extremely good. Michael wished, with an old ma
 
 "—and the critical path runs through the settlement interface, which is the piece that talks to the payments gateway."
 
-*The Ledger Gap. We have called it the Ledger Gap since 2014. Three firms. Nine million pounds. It is still there.*
+*The Ledger Gap. We have called it the Ledger Gap since 2014. Three firms. Nine million pounds. It is still there, and up a third since June, and nobody at this table has asked why.*
 
 "The three amber items are data quality in the dormant-account population, vendor resourcing for the September window, and the interface spec sign-off, which is — Michael, actually, that one's with you."
 
@@ -102,7 +106,7 @@ Michael was thirteen. He remembered the sticker better than he remembered his fa
 
 His father had been a partner, one of three, in a builders' merchant on the Dunstable Road. Halloway & Grieves. There had been a van with the name on it, and Michael had once been allowed to ride in the van, standing up, holding the dashboard, which in 1971 was a thing that could happen to a boy.
 
-What Michael did not learn until he was nineteen was that all three partners had signed personal guarantees on the overdraft, which is a sentence that means nothing at all until it means everything. When the property market went over in 1974, and the builders stopped paying and then stopped existing, the firm went down owing forty-one thousand pounds; and the bank — some bank, some quiet, decent, reasonable bank — went to the guarantees.
+What Michael did not learn until he was nineteen was that all three partners had signed personal guarantees on the overdraft, which is a sentence that means nothing at all until it means everything. When the property market went over in 1974, and the builders stopped paying and then stopped existing, the firm went down owing forty-one thousand pounds. The largest of the builders had been a consortium putting up a conference hotel beside the new exhibition centre outside Birmingham, twelve storeys of it, which Halloway & Grieves had supplied on ninety days' credit through the whole of 1973; it stopped paying in the February and stopped existing in 1976, and nineteen thousand of the forty-one was its. And the bank — some bank, some quiet, decent, reasonable bank — went to the guarantees.
 
 They lost the house in the November. They moved to a maisonette in Bushey with a smell in the hall.
 

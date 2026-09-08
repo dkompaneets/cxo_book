@@ -68,7 +68,7 @@ He got up, and looked at himself in the mirror of a hotel bathroom for slightly 
 
 The keynote went well.
 
-The Warwick Suite held four hundred and there were perhaps two hundred and eighty in it, which for the closing slot of a four-day conference is a triumph; and the man who introduced him mispronounced the bank's name.
+The Warwick Suite held four hundred and there were perhaps two hundred and eighty in it, which for the closing slot of a four-day conference is a triumph; and Colin, who had asked for him by name, introduced him and mispronounced the bank's name.
 
 Michael was funny for six minutes, and then serious for eleven, and then funny again; and the eleven serious minutes were the best public speaking he had done in a decade. He did the history of retail operations since 1986 and did not once mention transformation. He said the sentence about the mainframe and got the laugh he had banked on, and it went up the room like a wave — because every single person in that hall was running their actual business on something written before the audience's juniors were born, and nobody had said it out loud in four days.
 

@@ -4,7 +4,7 @@
 
 It went well.
 
-They took fourteen. They took it after fifty minutes of proper work. Simon from the fund pushed hard on the September sensitivity and was right to. Kate gave him a worse answer than she wanted to, and said so, and he accepted it. There was a difficult eleven minutes about the Kettering warehouse. Harriet Nash asked one question about Gareth Pryce that had four other questions inside it, and Kate answered the outer one and let the inner ones stand, and Harriet let her.
+They took fourteen. They took it after fifty minutes of proper work. Simon from Hollis pushed hard on the September sensitivity and was right to. Kate gave him a worse answer than she wanted to, and said so, and he accepted it. There was a difficult eleven minutes about the Kettering warehouse. Harriet Nash asked one question about Gareth Pryce that had four other questions inside it, and Kate answered the outer one and let the inner ones stand, and Harriet let her.
 
 At 12:24 Harriet closed her folder.
 
@@ -54,7 +54,7 @@ She rode up alone with a laptop under her arm and did the whole thing in fifty-o
 
 *I chose them.*
 
-She had recruited Harriet Nash in 2021 out of a shortlist of four, over a perfectly good chairman from retail. She had said it out loud to the search consultant. It was in the notes, under *strengths.* "She'll be harder on me." She had taken Simon's fund over a cheaper term sheet because they were known to be demanding.
+She had recruited Harriet Nash in 2021 out of a shortlist of four, over a perfectly good chairman from retail. She had said it out loud to the search consultant. It was in the notes, under *strengths.* "She'll be harder on me." She had taken Hollis over a cheaper term sheet because they were known to be demanding.
 
 Four years ago, with her own hands, in daylight. She had assembled seven intelligent people whose function was to be difficult to please. Installed them above her. Given them the authority to grade her.
 

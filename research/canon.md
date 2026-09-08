@@ -94,3 +94,37 @@ banking conference where Michael speaks, and the Midlands Open chess congress.
 - Nobody is redeemed by being told something. They are changed by seeing it on someone else.
 - Michael's jokes always land. That is the problem with them.
 - No character explains the theme out loud. Wilf comes closest and is allowed to, once.
+
+## The chain
+
+The vise is made of each other. Each of the four calls the pressure the board, the co-founder, the
+number. It arrives through a chain that runs through the other three, and the reflex each uses to
+survive it sends it on down the line. None of the four ever learns this, with two exceptions the prose
+allows: Kate names the shared fund to Nik in ch20, and Colin tells Kate in ch26 that he was in Hall 2.
+The reader assembles the rest. Nothing below is ever explained by the narrator.
+
+- **Velum's agent runs on Marrowbone's step-up authentication hosts.** Alex fixes the teardown-ordering
+  fault on the Thursday of ch2 and does not ask for a release slot. Marrowbone's German step-up fails one
+  in nine for four days in ch5. Ben closes the P1 as config; Alex merges the fix at ten past one, alone,
+  and the record goes on saying config. Kate's belief that anything she is not holding will be dropped
+  hardens on that bug.
+- **Lauriston settles for Marrowbone.** After Tom's retry fix in ch1, Bellwether's refunds go out in
+  bursts of about four hundred at eleven at night. A third of the Ledger Gap's growth since June is
+  Bellwether (ch3, ch12). In ch22 it is Lauriston that rejects Marrowbone's settlement file.
+- **Michael approves the repricing of the commercial overdraft book at 8:27 in ch3.** Nik's letter in
+  ch4, forty basis points worse and *partnership* twice, is that approval.
+- **Hollis** is the fund on both boards. Simon sits for it at Bellwether, Aaron at Lodestone. Kate chose
+  it over a cheaper term sheet because it was known to be demanding.
+- **Velum's control-plane certificate expires at twenty to four on the Thursday of ch22 and ch24.** Every
+  agent fails closed, Marrowbone stops taking cards, and Bellwether's app is down for two hours and
+  twenty minutes while Kate keeps her hands in her lap and Alex tells Ben, across town, that the company
+  runs on a model of its CTO. The certificate was in Alex's calendar in 2023.
+- **The Ardenne's consortium** was Halloway & Grieves' largest debtor: nineteen thousand of the
+  forty-one. Wilf Tanner checked the calculations on the slab in 1973 and was never paid. Michael stayed
+  in the building in 2004 and shows Kate its roof in ch11. Whether Michael knows which hotel it was is
+  never stated, and must not be.
+- **Colin** chaired the Banking Operations Forum, asked for Michael by name, introduced him in ch19, and
+  has danced on Milkwood Road with Dawn for eight years.
+- **Ocean** runs Bellwether's logistics. Danny runs its south-east. The client who moves his Thursday
+  call is Kate.
+

@@ -48,6 +48,16 @@ scripts/narrate_book.sh                 # all chapters (skips up-to-date ones)
 scripts/narrate_book.sh book/chapter-05.md
 ```
 
+**One audiobook file** — [scripts/build_audiobook.sh](scripts/build_audiobook.sh) joins every
+`audio/book/chapter-*.mp3` into `audio/the-vise.m4b` with a chapter marker per chapter, titled from
+the `# N. Title` headings. It refuses to run if any mp3 is older than its markdown, so narrate first.
+The m4b is not committed (it is a compile of files already in the repo, and it is over GitHub's
+100 MB file limit); `.gitignore` keeps it out.
+
+```sh
+scripts/narrate_book.sh && scripts/build_audiobook.sh
+```
+
 **How it works** — [scripts/tts.py](scripts/tts.py) converts markdown to narration text,
 synthesises with Kokoro (`af_heart`, American English, 24 kHz), then pipes through ffmpeg
 to mp3 and deletes the intermediate wav. It handles both the outlines and the prose

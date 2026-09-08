@@ -114,11 +114,11 @@ Danny was on the porch when Michael went to leave, having a moment to himself th
 
 Michael knew the look; he had, in a manner of speaking, invented it, and had worn it on a great many porches of his own over a period of about twenty-five years.
 
-Danny was thirty-eight, and worked for a logistics company, and was, by every visible sign — the phone, the two-thumbed reply at a child's recital, the specific grey around the eyes — working exactly the way Michael had worked at thirty-eight.
+Danny was thirty-eight, and ran the south-east for a logistics firm called Ocean, and was, by every visible sign — the phone, the two-thumbed reply at a child's recital, the specific grey around the eyes — working exactly the way Michael had worked at thirty-eight.
 
 "Long week?" said Michael.
 
-"Aren't they all," said Danny, and laughed.
+"Aren't they all," said Danny. "I've got a client who moves the Thursday call the way other people breathe." He laughed.
 
 It was a good laugh. It had a floor under it. Michael recognised the floor.
 

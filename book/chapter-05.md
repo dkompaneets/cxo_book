@@ -10,7 +10,7 @@ There is a moment in the setting of concrete, the engineers say, when it is stil
 
 "Since when?"
 
-"Forty minutes. Their step-up authentication's failing about one in nine on German cards and we didn't see it because our alerting's on the aggregate and Germany's eleven per cent of volume."
+"Forty minutes. Their step-up authentication's failing about one in nine on German cards and we didn't see it because our alerting's on the aggregate and Germany's eleven per cent of volume. It's not their code. Their step-up hosts run hot, and something under the runtime on them stalls a connection in nine when they do. Their words, not mine."
 
 "How long's it been going on?"
 
@@ -20,9 +20,11 @@ A pause. The pause was the answer.
 
 She was standing. Thursday, Friday, Saturday, Sunday. Four days. The biggest weekend of the month. The number came out of her instantly, and it was large, and she put it down and went to work.
 
-They fixed it by two in the morning. Good work by tired people, most of whom had been at it since eleven. Priyanka found the cause. Tom ran it. Kate did almost none of it, and stayed for all of it.
+They had Germany back on the incumbent by two in the morning. Good work by tired people, most of whom had been at it since eleven. Priyanka found where it was, which was not in anything Bellwether owned. Tom ran it. Kate did almost none of it, and stayed for all of it.
 
 What Kate did was be there.
+
+The reversals went to Marrowbone, and from Marrowbone to the bank that settled for them, and stopped being hers.
 
 **02:10.** Alone in the flat. She opened the operating rhythm document and looked at the two review layers she had added a fortnight ago, and thought, with the flat clarity that comes at the end of a night like that: *it isn't enough.*
 
@@ -74,7 +76,13 @@ The flat in Bow had a fridge in it and the fridge had a compressor, and on a Sun
 
 Alex found out about the customer call the same Sunday, by accident, in the most boring way imaginable.
 
-He was tidying the shared drive because he could not face the compliance module. He opened a folder called *Meridian.* There was a file in it four days old. `Meridian — follow up`, Ben's initials on it, from a Wednesday on which Alex had sat eleven feet from Ben all day and heard nothing about a call.
+He was tidying the shared drive because he could not face the compliance module.
+
+There was a folder called *Marrowbone* with a file in it from Friday, `P1 — auth hosts — closed (config)`, Ben's initials on it. He read it. Two of Marrowbone's hottest machines, a week of one connection in nine stalling on teardown, and a customer's engineer who had used the word *ordering* four times on the Friday call. Closed, config.
+
+He knew what it was. It was on his laptop, in a branch called `teardown-order`, where it had been for eleven days.
+
+Then he opened a folder called *Meridian.* There was a file in it four days old. `Meridian — follow up`, Ben's initials on it, from a Wednesday on which Alex had sat eleven feet from Ben all day and heard nothing about a call.
 
 He read it. It was ordinary. Meridian wanted the report. Meridian was happy. Meridian had asked about multi-tenancy and Ben had said *on the roadmap.*
 
@@ -95,6 +103,8 @@ It was obviously fine. A short inbound call to the CEO on a day Alex was buried 
 It was the third time. Each one had been fine.
 
 He sat for a long time with the fridge going. Then it cut out, and the room was louder without it.
+
+At ten past one he merged `teardown-order`, alone, and did not put it in the channel, and the file in the Marrowbone folder went on saying config.
 
 He had not opened the notebook in eighteen days.
 

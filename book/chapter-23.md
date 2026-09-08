@@ -148,11 +148,11 @@ So Nik spent a Thursday telling four heads of department that the eleven people 
 
 His honesty, converted into consequence, landed on people who had done nothing.
 
-The second was smaller and lasted longer. The fund asked for a monthly cash pack instead of a quarterly one, which is about a day and a half of Priyesh every month, call it eleven thousand a year of a man's time to tell people something they already had. Nobody framed it as a punishment and everybody understood it as one, and it stayed in place for a year.
+The second was smaller and lasted longer. Hollis asked for a monthly cash pack instead of a quarterly one, which is about a day and a half of Priyesh every month, call it eleven thousand a year of a man's time to tell people something they already had. Nobody framed it as a punishment and everybody understood it as one, and it stayed in place for a year.
 
 They went to the publisher on the eleventh of August. Three meetings, and a considerable amount of unpleasantness in the second one, and they came out with the milestone moved to the thirty-first of January in exchange for a revenue share point and a hard cap on scope. A point is about four hundred thousand pounds over the life of the title if the title does what they think it will do, and Nik had that figure in the room, and signed anyway, because the alternative was the thirtieth of November with four months of cash and no story. A worse deal than the one they had. A very much better deal than the one they would have had in December.
 
-Gus made him present it to the board himself. It was not a triumph. Simon-from-the-fund's equivalent, a man called Aaron, spent twenty minutes on why the studio had not seen this in the spring, and Nik said, "Because I didn't tell you," four times, in four different ways. Each time it got slightly easier and remained entirely horrible.
+Gus made him present it to the board himself. It was not a triumph. Hollis's man on the Lodestone board, Aaron, spent twenty minutes on why the studio had not seen this in the spring, and Nik said, "Because I didn't tell you," four times, in four different ways. Each time it got slightly easier and remained entirely horrible.
 
 He kept his job. His standing in the room was lower than it had been in June, he thought, and considerably more real.
 

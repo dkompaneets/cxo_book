@@ -60,7 +60,7 @@ Nik looked at the car park.
 
 The rest of the day arrived as numbers, which was the only way anything arrived.
 
-The bank renewed the Dublin overdraft forty basis points worse than last year, in a letter using the word *partnership* twice. Forty points on eight hundred thousand is three thousand two hundred a year. Not a catastrophe. Also a junior QA contractor for a month, and he had both before the second paragraph.
+Lauriston renewed the Dublin overdraft forty basis points worse than last year, in a letter that used the word *partnership* twice. Forty points on eight hundred thousand is three thousand two hundred a year. Not a catastrophe. Also a junior QA contractor for a month, and he had both before the second paragraph.
 
 Priyesh sent a forecast revision. He was twenty-eight and thorough, and he had found a marketing accrual sitting in the wrong quarter since March, eleven thousand four hundred of it. He presented this with the shining face of a man who has not yet discovered that being right about the accounts is a hobby and not a career. Nik told him it was good work, and meant it. He watched him leave lit up, and thought about how many years that lasts.
 

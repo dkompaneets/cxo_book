@@ -206,7 +206,7 @@ NAMES = r"""Kate|Merrick|Katherine|Aleksander|Alex|Alek|Wójcik|Wojcik|Michael|H
 Nikhil|Nik|Raghavan|Ben|Farrow|Meera|Anaya|Rohan|Shobha|Marek|Ewa|Dawn|Fowler|Ruth|Claire|
 Danny|Iris|Sam|Gus|Delaney|Wilf|Tanner|Harriet|Nash|Tom|Ferreira|Gareth|Pryce|Priyesh|Bridget|
 Fiona|Redgrave|Terry|Nwosu|Callum|Deitch|Saul|Fenella|Velum|Bellwether|Lauriston|Lodestone|
-Sunward|Marrowbone|Arcus|Meridian|Ardenne|Bea|Sasha|Sofia|Colin|Denny|Vasyl|Otis|Priyanka"""
+Sunward|Marrowbone|Arcus|Meridian|Ardenne|Hollis|Ocean|Bea|Sasha|Sofia|Colin|Denny|Vasyl|Otis|Priyanka"""
 NAMES = re.compile(r"\b(" + NAMES.replace("\n", "") + r")('s)?\b")
 
 

@@ -72,7 +72,15 @@ Nik stopped.
 
 Wilf Tanner was eighty-three. He had been a structural engineer in Coventry for forty-one years and had played tournament chess since 1958. He had the build of a very old man who has stayed exactly the same height all his life. His hands shook slightly, except when they were moving a piece, at which point they did not shake at all.
 
-Nik sat down and set up. The set was a Jaques from about 1970, weighted, worth four hundred pounds on a good day. Nik knew that within a second of touching a rook and said nothing, because there is a kind of man who prices another man's chess set out loud, and Nik had spent twenty years not being him in public.
+Nik sat down and set up.
+
+"I checked the calculations on the slab you're sitting under," said Wilf, to the board. "Nineteen seventy-three. They never paid."
+
+"The hotel?"
+
+"The hotel." He straightened a rook. "Move one."
+
+The set was a Jaques from about 1970, weighted, worth four hundred pounds on a good day. Nik knew that within a second of touching a rook and said nothing, because there is a kind of man who prices another man's chess set out loud, and Nik had spent twenty years not being him in public.
 
 It took twenty minutes to get to move seventeen, and Wilf did not say a single thing on the way. He put the pieces where they had been, in silence, with his eyes on the board, and Nik found himself narrating a little, apologetically — "he'd been quite quick up to here" — and being met with nothing, which taught him quickly to stop.
 

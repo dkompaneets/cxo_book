@@ -80,7 +80,7 @@ Nobody's title came up. Not once. It was not tact. On a roof, at night, beside a
 
 What they talked about was the hotel.
 
-The lanyards, at length, and the incident with the lanyards, which Michael had got the full account of from Fola and told very badly and very well. The fireplace with no fire in it. Whether the nine hundred glass rods in the lobby were, as Alex insisted, structurally supporting anything — and the fact that Nik knew, actually knew, from a man in the analysis room, that they were not, and that the man in question was an eighty-three-year-old structural engineer who had walked into the lobby on Thursday, looked up at them for four seconds, and said the word "decoration" with genuine contempt.
+The lanyards, at length, and the incident with the lanyards, which Michael had got the full account of from Fola and told very badly and very well. The fireplace with no fire in it. Whether the nine hundred glass rods in the lobby were, as Alex insisted, structurally supporting anything — and the fact that Nik knew, actually knew, from a man in the analysis room, that they were not, and that the man in question was an eighty-three-year-old structural engineer who had walked into the lobby on Thursday, looked up at them for four seconds, and said the word "decoration" with genuine contempt, having checked the slab himself in 1973 and never been paid for it.
 
 They talked about Birmingham. They talked about a hotel in Frankfurt that Nik had once been stuck in for three days. Michael did four minutes on a conference in 1991 that had gone so wrong that a man had ended up in a fountain, and there was a point in it where Kate had to put her drink down.
 

@@ -114,7 +114,7 @@ There is no other word and there were seven witnesses. She stood at the front of
 
 And then she did it from memory. Forty-four minutes.
 
-She rebuilt the market map on the flip chart with a marker in four minutes. Six boxes. It was better on the flip chart than it had been on the slide, because you could watch it being built. She did the growth bridge as numbers spoken out loud, in order. When Simon from the fund asked for the September Refill sensitivity she gave him three scenarios to one decimal place without notes.
+She rebuilt the market map on the flip chart with a marker in four minutes. Six boxes. It was better on the flip chart than it had been on the slide, because you could watch it being built. She did the growth bridge as numbers spoken out loud, in order. When Simon from Hollis asked for the September Refill sensitivity she gave him three scenarios to one decimal place without notes.
 
 And at 9:26 she said the sentence.
 

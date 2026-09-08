@@ -84,6 +84,8 @@ It was Michael who brought up the Ledger Gap, and he brought it up as a man show
 
 "They agree about ninety-nine-point-nine-something of the time," said Michael. "The rest is what we call the Gap. It's about eleven thousand items a night. And there are nineteen people in Sheffield whose entire job is to sit down at six in the morning and work out what those eleven thousand things are."
 
+"It was eight thousand in May. A third of the difference is one merchant. A shopping business, homewares and then everything, that refunds people in bursts of about four hundred at eleven at night, through a processor we settle for. Sheffield has a name for it, and I'm not going to repeat it in a hotel."
+
 Alex had stopped moving.
 
 "How do they do it?"

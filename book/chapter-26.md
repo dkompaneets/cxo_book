@@ -8,7 +8,7 @@ The FY27 cycle opened in October exactly as FY26 had: a pre-read, a demand, and 
 
 Kate danced on Wednesdays, badly, at the church hall on Milkwood Road, in a room mostly of people over fifty who did not care.
 
-Colin was nationally ranked and had never once let anybody forget it. He had taken one look at her frame on the first evening and said, "Oh. We've got a controller," in a voice of enormous satisfaction, and had been working on her for eight weeks.
+Colin was nationally ranked and had never once let anybody forget it. He had chaired something in banking for twenty years before he retired to this, and mentioned that about as often. On the third Wednesday he said, "You were at the Ardenne in July. The fern lanyards. I was running the thing in Hall 2," and Kate had no memory of him at all. He had taken one look at her frame on the first evening and said, "Oh. We've got a controller," in a voice of enormous satisfaction, and had been working on her for eight weeks.
 
 "Stop," he said, in the eighth week.
 
@@ -48,7 +48,7 @@ The group Nik had made — *Ardenne*, four names — sat in her phone with nothi
 
 Nik filed the second honest quarterly memo in October.
 
-It was easier than the first and still not easy. Aaron-from-the-fund gave him a hard time about a different thing, correctly, and Nik answered it plainly and survived it.
+It was easier than the first and still not easy. Aaron from Hollis gave him a hard time about a different thing, correctly, and Nik answered it plainly and survived it.
 
 Sunward was now due at the end of January, and would probably, Nik thought, privately, assigning it a number the way he now made himself assign everything a number, slip to March. He had already started the conversation about March, in November, from a position of ten months of cash, which is a conversation you can have.
 
