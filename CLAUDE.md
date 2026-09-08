@@ -12,7 +12,7 @@ Working notes for the CXO novel ("The Vise").
   A chapter file holds the chapter and nothing else (see below). **27 chapters, not the
   outline's 32** — see the structure section of [research/canon.md](research/canon.md) for
   which outline chapters were merged and why. Don't "restore" the missing five.
-- `audio/` — narrated mp3s of the research docs. `audio/book/` — narrated chapters.
+- `audio/book/` — narrated chapters. `audio/the-vise.m4b` — the whole book as one audiobook file.
 - `scripts/` — tooling.
 - `covers/` — cover concepts.
 - `todo.md` — running list.
@@ -51,8 +51,8 @@ scripts/narrate_book.sh book/chapter-05.md
 **One audiobook file** — [scripts/build_audiobook.sh](scripts/build_audiobook.sh) joins every
 `audio/book/chapter-*.mp3` into `audio/the-vise.m4b` with a chapter marker per chapter, titled from
 the `# N. Title` headings. It refuses to run if any mp3 is older than its markdown, so narrate first.
-The m4b is not committed (it is a compile of files already in the repo, and it is over GitHub's
-100 MB file limit); `.gitignore` keeps it out.
+The m4b is committed. It is encoded as HE-AAC at 32 kbps, which is what keeps five and a half hours
+under GitHub's 100 MB per-file limit; at 64 kbps the file is 164 MB and the push is rejected.
 
 ```sh
 scripts/narrate_book.sh && scripts/build_audiobook.sh

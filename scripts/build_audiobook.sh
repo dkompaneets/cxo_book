@@ -34,8 +34,11 @@ for md in book/chapter-*.md; do
     start=$end
 done
 
+# HE-AAC at 32 kbps mono: near-transparent for narrated speech, and it keeps the whole
+# book under GitHub's 100 MB per-file limit so the m4b can live in the repo. aac_at is
+# the macOS AudioToolbox encoder; on another OS use `-c:a aac -b:a 36k` instead.
 ffmpeg -y -loglevel error -f concat -safe 0 -i "$list" -i "$meta" -map_metadata 1 -map 0:a \
-    -c:a aac -b:a 64k -ac 1 -ar 24000 -movflags +faststart "$out"
+    -c:a aac_at -profile:a 4 -b:a 32k -ac 1 -ar 24000 -movflags +faststart "$out"
 
 secs=$((start / 1000))
 printf 'wrote %s  %d chapters  %dh %02dm  %s\n' "$out" "$(ls book/chapter-*.md | wc -l | tr -d ' ')" \
