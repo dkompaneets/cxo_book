@@ -1,38 +1,38 @@
 # 3. Deep Breath
 
-Lauriston had been founded in 1786 by two brothers who fell out in 1791, and the bank had been managing disagreement quietly ever since; its headquarters was a 1960s building faced in Portland stone that had gone the colour of a filing cabinet, and on the fourth floor, in an office that had once belonged to a man with a knighthood, Michael Halloway approved things.
+Lauriston had been founded in 1786 by two brothers who fell out soon afterwards, and the bank had been managing disagreement quietly ever since; and on the fourth floor of its headquarters, in an office that had once belonged to a man with a knighthood, Michael Halloway approved things.
 
-At 8:14 he approved the revised statement of work for the branch-estate programme, nineteen pages, of which he read the schedule of rates and the termination clause and nothing else; for after thirty-one years he knew that a statement of work is a poem about money, and that only two of its stanzas are load-bearing.
+He began that morning with a statement of work for the branch-estate programme, of which he read the schedule of rates and the termination clause and nothing else; for he had learned long ago that a statement of work is a poem about money, and that only two of its stanzas are load-bearing.
 
 He signed it. He watched the little animation of the signature going on.
 
 Then he sat back, and took a long breath in through his nose, and let it out.
 
-At 8:19 he took a call from Group Risk about a supplier in Leeds, and said the sentence he had said perhaps two hundred times in his career — *we're not going to solve this in this call, so let's agree what would make us able to solve it in the next one* — and heard the relief come down the line, and put the phone down.
+There was a call from Group Risk about a supplier, in which he said the sentence he had been saying in one form or another for most of his career — *we're not going to solve this in this call, so let's agree what would make us able to solve it in the next one* — and heard the relief come down the line, and put the phone down.
 
 He breathed in. He breathed out.
 
-At 8:27 he approved the repricing of the commercial overdraft book, forty basis points across eleven hundred facilities, on a one-page note whose only load-bearing sentence was the one about the letter, which would use the word *partnership* twice, since somebody had established that this reduced complaints.
+At 8:27, on a one-page note, he approved the repricing of the commercial overdraft book, forty basis points across the whole of it; the only sentence in the note that mattered was the one about the letter, which would use the word *partnership* twice, since somebody had established that this reduced complaints.
 
 He breathed in, and out.
 
-At 8:36 he declined a request to sit on a steering group; and then, a few minutes later, having thought about who had asked and what it would cost her to be declined, un-declined it and accepted, which is a different and worse thing than saying yes in the first place.
+He declined a request to sit on a steering group; and then, a few minutes later, having thought about who had asked and what it would cost her to be declined, accepted it after all, which is a different and worse thing than saying yes in the first place.
 
 Breathed in. Breathed out.
 
-By ten past nine he had done nine things.
+The morning went on in that manner until the review.
 
 ---
 
 The programme review was at ten, in Cathedral, the big room, with the screen that never worked first time.
 
-There were nineteen people in it, which was nine too many, and Michael had said so, and had been told that this was a matter of inclusion in the change journey, a phrase that had entered the bank around 2018 in the manner of Japanese knotweed, and had since gone under the foundations. So: nineteen. He sat halfway down the long side, because sitting at the head makes people perform; and he made a joke about the screen while Callum Deitch fought it, and got his laugh, and the screen came on.
+There were too many people in it, and Michael had said so, and had been told that this was a matter of inclusion in the change journey, a phrase that had come into the bank some years before in the manner of Japanese knotweed and had since gone under the foundations. He sat halfway down the long side, because sitting at the head makes people perform; and he made a joke about the screen while Callum Deitch fought it, and got his laugh, and the screen came on.
 
 Callum Deitch was thirty-four and extremely good. Michael wished, with an old man's unrepeatable envy, that he were less good, so that this would be easier.
 
-"So, just to level-set for everyone," Callum said, "PROGRAMME ATLAS is the migration of the core deposit ledger off the mainframe estate. We're in wave two of five. Wave two is retail current accounts — six-point-four million accounts — and the cutover window is the August bank holiday, which gives us seventy-two hours."
+"So, just to level-set for everyone," Callum said, "Atlas is the migration of the core ledger off the mainframe. We're in wave two. Wave two is retail current accounts, and the cutover window is the August bank holiday, which gives us seventy-two hours."
 
-*Seventy-one*, thought Michael. *You lose an hour to the reconciliation freeze at the front and you never get it back; and in 2019 it was seventy-one, and everybody said seventy-two then as well.*
+*Seventy-one*, thought Michael. *You lose an hour to the freeze at the front and you never get it back, and everybody said seventy-two last time as well.*
 
 "Wave one delivered in March, slightly behind plan—"
 
@@ -40,33 +40,33 @@ Callum Deitch was thirty-four and extremely good. Michael wished, with an old ma
 
 "—and the critical path runs through the settlement interface, which is the piece that talks to the payments gateway."
 
-*The Ledger Gap. We have called it the Ledger Gap since 2014. Three firms. Nine million pounds. It is still there, and up a third since June, and nobody at this table has asked why.*
+*The Ledger Gap. We have called it the Ledger Gap for ten years, and it is still there, and up a third since June, and nobody at this table has asked why.*
 
 "The three amber items are data quality in the dormant-account population, vendor resourcing for the September window, and the interface spec sign-off, which is — Michael, actually, that one's with you."
 
-Nineteen faces turned, politely, at the speed of a wave in a stadium.
+The faces turned, politely, at the speed of a wave going round a stadium.
 
 "It's on my desk," Michael said. "It'll be back to you Friday."
 
 "Brilliant. So the RAG status overall we've kept at amber-green—"
 
-Michael had built the settlement interface. Not the code; but in 2013 he had sat in a room like this one with four people and a whiteboard and drawn the shape of the thing the bank had used ever since, and had argued for it against a Group CIO who wanted to buy something instead, and had won, and had been right; and a decade later the retail bank still ran on the drawing. He knew the dormant-account problem down to the year the data went bad. He knew the vendor resourcing was not amber but red, because he knew what that vendor's Manchester office looked like in September, when the graduate intake arrives.
+Michael had built the settlement interface. Not the code; but in 2013 he had sat in a room like this one with a whiteboard and drawn the shape of the thing, and had argued for it against a Group CIO who wanted to buy something instead, and had won, and had been right; and a decade later the bank still ran on the drawing. He knew the dormant-account problem down to the year the data went bad. He knew the vendor resourcing was not amber but red, because he knew what that vendor's office looked like in September, when the graduates arrive.
 
 He could have said all of it in ninety seconds; the room would have gone very quiet; and Callum Deitch would have had a bad afternoon.
 
 He let him finish.
 
-He let him finish for two reasons, and the first was the reason he would have given had anybody asked: that a thirty-four-year-old presenting his own programme in front of nineteen people should not be corrected by the chief operating officer, since he will present it worse for the rest of his life. That reason was genuine. Michael had believed it for years, and had built two careers on it, including Terry Nwosu's.
+He let him finish for two reasons, and the first was the reason he would have given had anybody asked: that a thirty-four-year-old presenting his own programme in front of a full room should not be corrected by the chief operating officer, since he will present it worse for the rest of his life. That reason was genuine. Michael had believed it for years, and had built two careers on it, including Terry Nwosu's.
 
-The second reason was that Michael was tired. Not sleepy; tired in the joints of the thing, tired in the place where the willingness lives. To say it he would have had to gather himself, and to gather himself in front of nineteen people would have shown them what it cost to gather himself; and he would rather have been shot than let that room see how tired he was, and how fed up, and how long it had been since he last cared what colour the RAG status was.
+The second reason was that Michael was tired. Not sleepy; tired in the joints of the thing, tired in the place where the willingness lives. To say it he would have had to gather himself, and to gather himself in front of that room would have shown them what it cost to gather himself; and he would rather have been shot than let that room see how tired he was, and how fed up, and how long it had been since he last cared what colour the RAG status was.
 
 So he sat, and nodded at the correct moments; and at the end, when the pack was closing and there was a shuffle of laptops, he heard himself begin a sentence.
 
-"Callum. The Manchester resourcing—"
+"Callum. The vendor resourcing—"
 
-Nineteen faces came back round.
+The faces came back round.
 
-He had, at that moment, the whole of it available to him: the September intake, the two names worth ringing, the fact that he could pick up a telephone that afternoon and have the thing solved by Tuesday, and that solving it would put him back inside a programme he had drawn the shape of and had not been consulted on since March. It would have taken one sentence. He had said harder ones in worse rooms.
+He had, at that moment, the whole of it available to him: the two names worth ringing, the fact that he could pick up a telephone that afternoon and have the thing solved by the end of the week, and that solving it would put him back inside a programme he had drawn the shape of and had not been consulted on since the spring. It would have taken one sentence. He had said harder ones in worse rooms.
 
 "—it's the graduate intake, isn't it. Watch the second week of September."
 
@@ -82,11 +82,11 @@ He waited until the room emptied. Then he sat for a moment at the long table wit
 
 Lunch was a sandwich at his desk, and the post.
 
-Actual post; Lauriston still had it, in a wire tray, brought round at 12:30 by a man called Errol who had been doing it for nineteen years and had a system for which floors got theirs first that nobody had ever formally approved. A charity thing. A wine merchant. A brochure from a wealth manager who had somehow got hold of his date of birth and had put on the front, in a serif font, *The next chapter deserves a plan*, which Michael read twice, then dropped in the bin from a height; then, after a moment, took out of the bin and put in a drawer.
+Actual post; Lauriston still had it, in a wire tray, brought round by a man called Errol who had been doing it for years and had a system for which floors got theirs first that nobody had ever formally approved. A charity thing. A wine merchant. A brochure from a wealth manager who had somehow got hold of his date of birth and had put on the front, in a serif font, *The next chapter deserves a plan*, which Michael read twice, then dropped in the bin from a height; then, after a moment, took out of the bin and put in a drawer.
 
 And the invitation.
 
-Heavy card, embossed, the kind that costs nine pounds a unit and exists so that a conference can charge two thousand a head. *The Ardenne, Birmingham. The Banking Operations Forum. We would be honoured if you would deliver the closing keynote.* Forty minutes. Two o'clock on the Monday, after lunch, at the fag-end of a four-day conference: which is a graveyard slot dressed in a dinner jacket, and Michael knew it, and was not certain that he minded.
+Heavy card, embossed, the kind that exists so that a conference can charge two thousand a head. *The Ardenne, Birmingham. The Banking Operations Forum. We would be honoured if you would deliver the closing keynote.* Forty minutes, at two o'clock on the Monday, the last afternoon of it: which is a graveyard slot dressed in a dinner jacket, and Michael knew it, and was not certain that he minded.
 
 He turned it over. On the back, in biro: *Michael — they asked for you by name. It'd be nice for the bank. F.*
 
@@ -94,7 +94,7 @@ Fiona Redgrave, chief executive, who wrote on the back of things in biro.
 
 Michael read the sentence *they asked for you by name*, and something happened in his chest that he chose not to look at directly, and that was not pleasure.
 
-He thought about the Monday. The forum ran from the Friday; if he went up early he would be away the best part of a week; and there was nothing in it he could not move; and the alternative to being at The Ardenne was being in this building, and the two of those, laid side by side, were not close.
+He thought about it. If he went up for the whole of the forum he would be away the best part of a week; and there was nothing in it he could not move; and the alternative to being at The Ardenne was being in this building, and the two of those, laid side by side, were not close.
 
 He wrote *Delighted — MH* under the biro, and put it in the tray for Errol.
 
