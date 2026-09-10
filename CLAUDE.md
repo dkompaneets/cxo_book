@@ -13,6 +13,7 @@ Working notes for the CXO novel ("The Vise").
   outline's 32** — see the structure section of [research/canon.md](research/canon.md) for
   which outline chapters were merged and why. Don't "restore" the missing five.
 - `audio/book/` — narrated chapters. `audio/the-vise.m4b` — the whole book as one audiobook file.
+- `ebook/` — `the-vise.epub` and `the-vise.pdf`, the whole book as ebook and print-style PDF.
 - `scripts/` — tooling.
 - `covers/` — cover concepts.
 - `todo.md` — running list.
@@ -80,6 +81,18 @@ the source markdown — the markdown is the artifact, the audio is a rendering o
 
 `scripts/tts_outline1.py` is the original single-purpose version, kept for reference.
 Use `scripts/tts.py` for anything new.
+
+## Building the ebook
+
+[scripts/build_ebook.sh](scripts/build_ebook.sh) builds `ebook/the-vise.epub` and `ebook/the-vise.pdf`
+from `book/chapter-*.md`. The EPUB comes from pandoc, one section per chapter, with
+`covers/the-vise-cover-v1.png` as the cover. The PDF is pandoc's HTML printed by headless Chrome
+at 6×9 in, so nothing beyond `pandoc` and Google Chrome is needed. Both files are committed;
+rebuild after editing a chapter.
+
+```sh
+scripts/build_ebook.sh
+```
 
 ## Outline conventions
 

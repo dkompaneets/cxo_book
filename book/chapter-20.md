@@ -2,7 +2,7 @@
 
 Nik got there first, at five to nine, because he had been sitting in his room since half past seven unable to be in it.
 
-He took the round table in the corner of The Long Room, the one under the bad print of a canal, and ordered a lime and soda. He looked at it. Then he ordered a beer as well.
+He took the round table in the corner of The Long Room, the one under the bad print of a canal, and ordered a lime and soda, which was two pounds ten. He looked at it. Then he ordered a beer as well, which was six pounds forty, and did not look at that.
 
 He had not replied to Meera. That fact had been underneath everything for twenty-six hours: nine things typed and none sent, and then, that morning, *I'll sort it, don't worry, I'll call you tonight*, and back, a single word, *ok*, which had sat in his phone all day like a stone in a shoe.
 
@@ -14,7 +14,7 @@ Kate came in at 9:20, twenty minutes late, off a call, sliding the phone into he
 
 And for eleven minutes it was fine.
 
-It was what all three of them would come back to, differently, over the months: that it was *fine.* Michael did a routine about the conference's closing lunch, in which a man from Nationwide had been served a plated dessert during his own presentation. Alex told the Alabama story, and Nik laughed, and the coat came into it. Kate said "the roof" and everyone spoke at once.
+Michael did a routine about the conference's closing lunch, in which a man from Nationwide had been served a plated dessert during his own presentation. Alex told the Alabama story, and Nik laughed, and the coat came into it. Kate said "the roof" and everyone spoke at once.
 
 Then Michael said, "Right. It's the last night, and we've none of us said one true thing since Friday, and I propose we keep it that way."
 
@@ -27,8 +27,6 @@ And Kate leaned back and said, "Oh, I don't know. I'd quite like to."
 She had gone thirty hours in the presence of a thing she was forbidden to fix.
 
 She had not, in four years, gone thirty hours without fixing something.
-
-So the machine, with nowhere to go and enormous pressure behind it, found three problems it could solve.
 
 "Alex. Your co-founder's going to sell the company. Eleven months, tops. He'll be lovely about it the whole way and you'll find out from a document. The tell isn't that he talks over you. The tell is the twenty-two seconds. Nobody waits twenty-two seconds unless they've already decided and they need it on the record that they asked. You built something in a hotel this weekend for *free.* What did you charge?"
 
@@ -56,9 +54,9 @@ And Kate stopped, because it was, and she knew it was, and there was nowhere in 
 
 It could have ended there.
 
-It did not, because Alex had been sitting on the CC thread for twenty-nine hours, and Kate had just said *you built something this weekend for free*, and it came out of him sideways and at the wrong person.
+The glass washer under the bar ran its cycle and stopped.
 
-"You made an introduction," he said, to Michael.
+"You made an introduction," Alex said, to Michael.
 
 Michael put his glass down.
 
@@ -76,15 +74,13 @@ He was leaning forward. The jacket was still on.
 
 Michael did not answer.
 
-The not-answering was the answer, and Alex saw it.
-
 "You didn't do it for me," he said. "You did it because you liked being the man who makes an introduction at three in the morning. No committee, no phone ringing, so you found a kid with a marker pen and got to be somebody's benefactor for four hours. And then you sent it to the CEO instead of the engineer, because that's who men like you send things to.
 
 "You're a mascot. You're the funny old man everyone's fond of who hasn't said one real thing all weekend, and you'd rather be liked than useful, and I know exactly what it is because I do the same thing with silence—"
 
 "That's enough," said Kate.
 
-"No, it isn't," said Alex, and stood up, and then did not have anywhere to go, and sat down again. Which was worse.
+"No, it isn't," said Alex, and stood up, and then did not have anywhere to go, and sat down again.
 
 ---
 
@@ -168,13 +164,11 @@ And went.
 
 And they heard him say something to Denny at the bar on his way past — something ordinary, something with a lift on the end of it — and heard Denny laugh.
 
-That, somehow, was the worst part.
-
 ---
 
 They sat there.
 
-Denny came and cleared two glasses and did not ask if they wanted anything, which was the kindest thing anybody did.
+Denny came and cleared two glasses, and left the third where it was with the note under it, and did not ask if they wanted anything.
 
 "He was right," Nik said eventually.
 
@@ -186,6 +180,6 @@ Nobody told him it was all right.
 
 They tried twice more to talk. Kate said something about the roof. Nik said something about the last round in the morning. Both times the thing got up onto its feet and sat back down.
 
-Then they went up.
+The note under Michael's glass was a twenty. Nik had seen that from across the table without meaning to, the way he saw everything, and it was, near enough, the round he had stood up to buy, and none of them touched it.
 
-It had taken forty minutes, and the part that did the damage was the eleven at the start, when it was fine, and none of them had felt it coming.
+Then they went up.

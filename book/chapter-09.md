@@ -114,9 +114,9 @@ He knew because he had heard it, the way you hear your own footsteps change comi
 
 Alex kept going for another two minutes and then ran out, honestly, the way a tape runs out.
 
-And what he thought afterwards, walking it back, was not that Nik had been polite. Nik had not been polite. Nik had been moving a bishop about and thinking, and had had nothing he needed to say.
+Nik moved the bishop, and thought about something, and had nothing he needed to say.
 
-Then, moving the bishop, Nik said:
+Then he said:
 
 "How is it, having a co-founder?"
 
@@ -172,7 +172,7 @@ Two tables away a man put a set into a bag, and the pieces went in with the soun
 
 "Because if I say the plain thing they might get it wrong."
 
-"That's it. That's the whole of it, and it sounds insane out loud, which is presumably why I've never said it out loud." He looked at the board. "I have said, to a stranger, at one in the morning, in a hotel, a thing I have not said to my wife in fourteen years of marriage. I'd like it noted that I'm aware of how that looks."
+"That's it. That's the whole of it." He looked at the board. "I have said, to a stranger, at one in the morning, in a hotel, a thing I have not said to my wife in fourteen years of marriage. I'd like it noted that I'm aware of how that looks."
 
 "Noted," said Alex.
 

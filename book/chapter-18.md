@@ -64,8 +64,6 @@ And here it came.
 
 Sentence by sentence, true.
 
-Said in that order, in that voice, it described a different weekend belonging to a different man. A weekend of dinners and a crowd, rather than one jacket potato, one accidental roof, and two conversations that had gone somewhere he had not intended.
-
 "Wow," said Meera. "Look at you."
 
 "I know."
@@ -140,7 +138,7 @@ Then he sat and thought about the actual thing. A nine-year-old told in August t
 
 There was no version.
 
-That was the finding, and he was a man who respected a finding. No arrangement of these numbers gave his father a knee, his daughter a school, and his wife one week. It did not matter how many times he ran it, because it was not a modelling problem. It was an arithmetic one. And he had been avoiding it since March in the way that only a man who is extremely good at arithmetic can avoid arithmetic.
+That was the finding, and he was a man who respected a finding. No arrangement of these numbers gave his father a knee, his daughter a school, and his wife one week, and he had been avoiding that since March in the way that only a man who is extremely good at arithmetic can avoid arithmetic.
 
 He was the chief financial officer of a company with eleven million pounds in the bank. Nine people had listened to him on a call ten days ago and gone away reassured.
 
@@ -162,7 +160,7 @@ The transfer had gone on the Wednesday. Seventeen hundred pounds, to Chennai, ou
 
 Three hundred and ten pounds.
 
-He did not convert it into anything. He noticed that distantly, the way a man notices a noise stopping. The machine had run every figure he had met for twenty-six years, and it looked at this one and had nothing to say about it at all.
+He did not convert it into anything. The machine had run every figure he had met for twenty-six years, and it looked at this one and had nothing to say about it at all.
 
 Nikhil Raghavan sat at the desk in room 812 of The Ardenne, with a spreadsheet in front of him in which the numbers had at some point stopped being numbers, and a phone in his hand, and a suitcase against the wall with a name tape sewn into the lid.
 
