@@ -6,7 +6,7 @@
 #   scripts/build_audiobook.sh audio/other.m4b # custom output path
 #
 # Chapter titles come from the `# N. Title` heading of each book/chapter-*.md.
-# Needs ffmpeg and ffprobe on PATH. Run scripts/narrate_book.sh first so every
+# The cover in covers/ is embedded as artwork. Needs ffmpeg and ffprobe on PATH. Run scripts/narrate_book.sh first so every
 # chapter mp3 is newer than its markdown.
 set -e
 cd "$(dirname "$0")/.."
@@ -37,8 +37,10 @@ done
 # HE-AAC at 32 kbps mono: near-transparent for narrated speech, and it keeps the whole
 # book under GitHub's 100 MB per-file limit so the m4b can live in the repo. aac_at is
 # the macOS AudioToolbox encoder; on another OS use `-c:a aac -b:a 36k` instead.
-ffmpeg -y -loglevel error -f concat -safe 0 -i "$list" -i "$meta" -map_metadata 1 -map 0:a \
-    -c:a aac_at -profile:a 4 -b:a 32k -ac 1 -ar 24000 -movflags +faststart "$out"
+cover="covers/the-vise-cover-v1.png"
+ffmpeg -y -loglevel error -f concat -safe 0 -i "$list" -i "$meta" -i "$cover" -map_metadata 1 \
+    -map 0:a -c:a aac_at -profile:a 4 -b:a 32k -ac 1 -ar 24000 \
+    -map 2:v -c:v copy -disposition:v:0 attached_pic -movflags +faststart "$out"
 
 secs=$((start / 1000))
 printf 'wrote %s  %d chapters  %dh %02dm  %s\n' "$out" "$(ls book/chapter-*.md | wc -l | tr -d ' ')" \

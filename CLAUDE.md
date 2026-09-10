@@ -51,7 +51,7 @@ scripts/narrate_book.sh book/chapter-05.md
 
 **One audiobook file** — [scripts/build_audiobook.sh](scripts/build_audiobook.sh) joins every
 `audio/book/chapter-*.mp3` into `audio/the-vise.m4b` with a chapter marker per chapter, titled from
-the `# N. Title` headings. It refuses to run if any mp3 is older than its markdown, so narrate first.
+the `# N. Title` headings, and embeds the cover from `covers/` as artwork. It refuses to run if any mp3 is older than its markdown, so narrate first.
 The m4b is committed. It is encoded as HE-AAC at 32 kbps, which is what keeps five and a half hours
 under GitHub's 100 MB per-file limit; at 64 kbps the file is 164 MB and the push is rejected.
 
@@ -87,7 +87,7 @@ Use `scripts/tts.py` for anything new.
 [scripts/build_ebook.sh](scripts/build_ebook.sh) builds `ebook/the-vise.epub` and `ebook/the-vise.pdf`
 from `book/chapter-*.md`. The EPUB comes from pandoc, one section per chapter, with
 `covers/the-vise-cover-v1.png` as the cover. The PDF is pandoc's HTML printed by headless Chrome
-at 6×9 in, so nothing beyond `pandoc` and Google Chrome is needed. Both files are committed;
+at 6×9 in, cover as the first page, so nothing beyond `pandoc` and Google Chrome is needed. Both files are committed;
 rebuild after editing a chapter.
 
 ```sh

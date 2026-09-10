@@ -16,7 +16,8 @@ mkdir -p "$OUT"
 CSS="$OUT/.style.css"
 cat > "$CSS" <<'CSS'
 @page { size: 6in 9in; margin: 0.9in 0.8in; }
-body { font-family: Georgia, "Times New Roman", serif; font-size: 11.5pt; line-height: 1.45; max-width: 34em; margin: 0 auto; }
+html, body { margin: 0; padding: 0; }
+body { font-family: Georgia, "Times New Roman", serif; font-size: 11.5pt; line-height: 1.45; }
 h1 { font-size: 1.5em; font-weight: normal; margin: 3em 0 1.5em; page-break-before: always; text-align: center; }
 h1.title { font-size: 2.4em; margin-top: 35vh; page-break-before: auto; }
 p.author { text-align: center; font-style: italic; }
@@ -30,6 +31,9 @@ nav#TOC h2 { font-size: 1.5em; font-weight: normal; margin-bottom: 1.5em; }
 nav#TOC ul { list-style: none; padding: 0; margin: 0; }
 nav#TOC li { margin: 0.35em 0; }
 nav#TOC a { color: inherit; text-decoration: none; }
+@page cover { margin: 0; }
+div.cover { page: cover; width: 6in; height: 9in; overflow: hidden; page-break-after: always; }
+div.cover img { display: block; width: 100%; height: 100%; object-fit: cover; }
 CSS
 
 # shellcheck disable=SC2012
@@ -41,10 +45,12 @@ pandoc $CHAPTERS -o "$OUT/the-vise.epub" \
 echo "wrote $OUT/the-vise.epub"
 
 HTML="$OUT/.the-vise.html"
+COVERHTML="$OUT/.cover.html"
+printf '<div class="cover"><img src="%s" alt="Cover"></div>\n' "$COVER" > "$COVERHTML"
 pandoc $CHAPTERS -o "$HTML" --standalone --embed-resources \
   --metadata title="$TITLE" --metadata author="$AUTHOR" --metadata lang=en-GB \
-  --css="$CSS" --toc --toc-depth=1 --metadata toc-title=Contents
+  --css="$CSS" --toc --toc-depth=1 --metadata toc-title=Contents --include-before-body="$COVERHTML"
 "$CHROME" --headless=new --disable-gpu --no-pdf-header-footer \
   --print-to-pdf="$(pwd)/$OUT/the-vise.pdf" "file://$(pwd)/$HTML" 2>/dev/null
-rm -f "$HTML" "$CSS"
+rm -f "$HTML" "$CSS" "$COVERHTML"
 echo "wrote $OUT/the-vise.pdf"
