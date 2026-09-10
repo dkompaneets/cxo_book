@@ -7,7 +7,7 @@ set -eu
 cd "$(dirname "$0")/.."
 
 TITLE="The Vise"
-AUTHOR="$(git config user.name || echo Anonymous)"
+AUTHOR="Dmitriy Kompaneets and Mikhael Podgortsev"
 COVER="covers/the-vise-cover-v1.png"
 CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 OUT=ebook

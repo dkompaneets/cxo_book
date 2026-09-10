@@ -16,7 +16,7 @@ trap 'rm -rf "$tmp"' EXIT
 
 list="$tmp/list.txt"
 meta="$tmp/meta.txt"
-printf ';FFMETADATA1\ntitle=The Vise\nalbum=The Vise\ngenre=Audiobook\n' > "$meta"
+printf ';FFMETADATA1\ntitle=The Vise\nalbum=The Vise\nartist=Dmitriy Kompaneets and Mikhael Podgortsev\nalbum_artist=Dmitriy Kompaneets and Mikhael Podgortsev\ngenre=Audiobook\n' > "$meta"
 
 start=0
 for md in book/chapter-*.md; do
