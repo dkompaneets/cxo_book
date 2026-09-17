@@ -200,13 +200,9 @@ Nik turned his glass. "There's a school. There's a knee in Chennai. There's a bo
 
 Claire looked at Alex.
 
-"I—"
+This one he had. The only one all night.
 
-Nothing came. He looked at the table. He had the whole of it, the thing itself, the road under the runtime, the reason, and none of it would come up.
-
-"It's the thing," he said. "Not the company. The thing." And stopped. "Sorry."
-
-"Don't be," said Claire.
+"Because in a room I'm a sentence behind," he said. "Always. Everyone's finished and I'm still coming. In the thing, I'm not. I'm ahead of it. It's the only place I'm ahead of anything." He stopped. "It's not the company. It's that."
 
 She sat with the three of them a moment longer.
 

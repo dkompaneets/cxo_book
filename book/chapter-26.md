@@ -151,23 +151,3 @@ Michael's phone rang in a house in Hertfordshire at 9:52 on a Thursday night, an
 "Is he—"
 
 There was a silence on the line of about two seconds. Kate Merrick read silences the way Nik read positions.
-
-"I'm so sorry," said Claire. "I don't know how to — you didn't know. Of course you didn't. Dad died. Nine days ago."
-
-A breath, carefully managed.
-
-"He'd been ill for quite a long time. A heart thing, and then it turned out to be more than a heart thing. And he didn't tell anyone. He didn't tell *us*, properly, until the summer, and even then he — you know what he was like. He made it a joke. He'd known for over a year and he told nobody, and he made his choices around it and never once said why, and we only understood afterwards what the last few months had been about."
-
-Kate did not say anything, because there was nothing.
-
-"He talked about the hotel," said Claire. "At the end. He talked about it a lot. There was a boy with a marker pen, and a man who played chess, and a woman who gave him a job that was a telephone." A sound that was almost a laugh. "That was you."
-
-"That was me," said Kate.
-
-"He said it was the first thing in years that had needed *him* and not the job." Claire's voice went, for a second, and came back. "So. Thank you. For that. Whatever it was, that weekend — thank you. He came back different. We got a few good months that I don't think we'd have got otherwise."
-
-Kate stood at her window with the phone against her ear and the whole lit city below her, and thought about a man turning a glass a quarter-turn on a marble bar. *They punish the interval.* *I optimised everything except the part that was the point.* *Nobody has ever come.*
-
-"We were going to have a drink," Kate said. "The four of us. Next Friday. He was going to come."
-
-"Then have it," said Claire. "Please. Have it anyway."
