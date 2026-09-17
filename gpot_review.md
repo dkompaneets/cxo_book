@@ -1,8 +1,8 @@
 # Chapter ranking and review
 
-**Current chapter average: 8.5/10. Chapters at the 9+ target: 1 of 27.** The manuscript's strengths are specific observation, humane humour, and professional habits that damage private lives. The largest obstacle to consistent 9+ quality is overexplanation: an excellent gesture or exchange often receives several paragraphs explaining what it means. The other major obstacles are overly authoritative advice, technical shortcuts, and continuity errors.
+**Current chapter average: 8.5/10. Chapters at the 9+ target: 2 of 27.** Chapter 27 has been reassessed after its rewrite: **8.7 → 9.3/10, now ranked first.** The manuscript's strengths are specific observation, humane humour, and professional habits that damage private lives. The largest obstacle to consistent 9+ quality is overexplanation: an excellent gesture or exchange often receives several paragraphs explaining what it means. The other major obstacles are overly authoritative advice, technical shortcuts, and continuity errors.
 
-Scope: all 27 files in `book/chapter-*.md`, read in full across partitioned reviews. No reference material, outlines, previous reviews, or outside sources were read. Chapters were not edited. Technical comments concern what the manuscript establishes, not an external technical audit.
+Scope: the original assessment covered all 27 files in `book/chapter-*.md`, read in full across partitioned reviews, using chapter sources only. This update reassesses the rewritten chapter 27; all other chapter scores are unchanged. Superseded recommendations and resolved consistency findings have been updated accordingly. No chapters were edited during this reassessment. Technical comments concern what the manuscript establishes, not an external technical audit.
 
 Scores are editorial judgments, using equal weight for narrative drive and stakes; character and emotional force; scene craft, dialogue and prose; and structure, payoff, originality and clarity. **9 means publication-ready with only minor refinements; 8 means strong work requiring focused substantive revision.** Chapters are judged by their function, including quiet transitions. Suggested revisions are a route toward 9+, not a guarantee of a future score.
 
@@ -12,10 +12,11 @@ Equal scores share a rank; chapters within each tier appear in reading order.
 
 | Rank | Score / 10 | Chapters |
 |---|---:|---|
-| 1 | 9.0 | 14 |
-| 2 | 8.9 | 2 |
-| 3= | 8.8 | 1, 13, 23 |
-| 6= | 8.7 | 3, 9, 18, 21, 27 |
+| 1 | 9.3 | 27 |
+| 2 | 9.0 | 14 |
+| 3 | 8.9 | 2 |
+| 4= | 8.8 | 1, 13, 23 |
+| 7= | 8.7 | 3, 9, 18, 21 |
 | 11= | 8.6 | 6, 17, 25 |
 | 14= | 8.5 | 4, 7, 11, 15, 16, 19 |
 | 20= | 8.4 | 5, 24 |
@@ -106,7 +107,7 @@ Document wallets, luggage and the broken Compaq make migration and sacrifice par
 
 ### 14. The Second Board — 9.0/10
 
-The strongest current chapter. Kate's fear of succeeding opens Michael's admission about the silent phone, giving their arrangement reciprocal emotional stakes. His family's freedom from frightening letters complicates the price of ambition rather than dismissing its achievements. Ruth's invented oven earns the last beat indirectly.
+One of the strongest chapters. Kate's fear of succeeding opens Michael's admission about the silent phone, giving their arrangement reciprocal emotional stakes. His family's freedom from frightening letters complicates the price of ambition rather than dismissing its achievements. Ruth's invented oven earns the last beat indirectly.
 
 **To strengthen the 9+:** Shorten Michael's opening management diagnosis, particularly the prediction that Kate can become better than almost everyone at almost everything. Trim either the stairs confession's repetition or its subsequent explanation. Preserve the hesitation around the advisory arrangement, where helping somebody else exposes Michael's own need. Avoid adding further thematic explanation to Ruth's response.
 
@@ -150,7 +151,7 @@ The ensemble finally turns its capacity for attention into a weapon. Alex standi
 
 Nik losing after taking a risk demonstrates change through action. Marek accepting the crisps makes Alex's continued failure to speak hurt, and the silent group chat preserves the rupture. The ending's assertion that everyone has lost all their armour exceeds what these scenes establish.
 
-**For 9+:** Shorten the explanation following Nik's loss. End nearer the concrete unanswered chat rather than certifying universal transformation. Reconcile Marek's phone-check count with chapter 24 and clarify how Nik's ordinary four-out-of-seven result relates to the later fourth-place claim. Preserve the unevenness: Nik has tried something different while Alex still cannot say what matters.
+**For 9+:** Shorten the explanation following Nik's loss. End nearer the concrete unanswered chat rather than certifying universal transformation. Reconcile Marek's phone-check count with chapter 24. The tournament-result discrepancy is resolved in the rewritten chapter 27. Preserve the unevenness: Nik has tried something different while Alex still cannot say what matters.
 
 ### 22. The Message I Sent — 8.3/10
 
@@ -180,23 +181,25 @@ The radiator chair, Iris's continuing left hand and Michael's tears about squash
 
 Colin correcting Kate's steering and Ben stopping his marker show altered behaviour without claiming perfection. Nik's section is comparatively a progress report. The assertion that nothing external changed conflicts with the developments recorded, and the unanswered question about Michael chiefly functions as withheld information.
 
-**For 9+:** Distinguish recurring pressures from circumstances that really have changed. Give Nik one short interaction in which honesty still costs him something. Establish what Kate intends to do with the news about Michael and why. The chapter should test the durability of change and prepare the reunion's behaviour, not just postpone the reader's discovery.
+**For 9+:** Distinguish recurring pressures from circumstances that really have changed. Give Nik one short interaction in which honesty still costs him something. Consider letting Kate hear the news before this chapter ends, reducing reliance on the withheld-information cliffhanger. The rewritten chapter 27 now establishes her prompt callbacks and the gathering's purpose. This chapter should test the durability of change and prepare the reunion's behaviour.
 
-### 27. Friday — 8.7/10
+### 27. Friday — 9.3/10
 
-Nik deliberately embellishing for Claire productively complicates the book's commitment to truth. Michael's recorded joke, Alex's broken laughter and his later call to Marek create substantial grief. The main problem is staging: Kate apparently knows the news well before the gathering, arrives an hour late and allows others to expect Michael without an established reason.
+**Reassessed after rewrite: up from 8.7; ranked first.** The chapter now earns its grief through remembered behaviour and present choices. Everyone knows about Michael before arriving, removing the contrived delayed announcement. Nik's invented consolation leads into Michael's authentic recorded voice: the contrast gives dishonesty an immediate, uncertain emotional consequence. Claire's humour, irritation, family memories and insistence on saving the actual file make her an individual with needs beyond prompting confessions. The revived group chat and Alex calling without an achievement to report enact change; Danny's raised finger preserves its limits.
 
-**For 9+:** Motivate or revise Kate's delay, lateness and withholding of the news across chapters 26–27. Clarify the tournament placing, including whether the claim is part of Nik's invention. Give Claire a more particular response beyond eliciting the others' accounts. Preserve uncertainty about whether Nik's kindness justifies embellishment; do not turn that tension into another settled lesson.
+**Why 9.3 rather than 9.5:** The conversation still allocates its reckonings neatly—Alex's recognition, Nik's lie, Kate's unused advisory arrangement, then Danny's relapse. Glass, pen and napkin gestures occasionally provide predictable emotional punctuation.
+
+**For 9.5+:** Let an unfinished exchange carry into the next instead of completing each person's turn. Remove the breaking glass and cheer before “Danny thought it was a joke”; the line carries its own weight. Trim nonessential handling of objects while preserving the voicemail transfer, which directly expresses Claire's need. These are minor refinements, not structural repairs. The earlier illness-disclosure concern remains in chapter 25, outside this chapter's rewrite.
 
 ## Revisions with the greatest book-wide return
 
 1. **Remove duplicate interpretation.** Keep the strongest scene, image or line; trim explanations that merely restate it. This is especially valuable in 3, 5, 7, 10, 19 and 21. Preserve the narrator's wit and insights that add something new.
 2. **Make advice answerable.** Chapters 8, 12 and 20 need uncertainty, counterexamples and resistance. Michael, Kate, Wilf and Marek should have different limits. The novel becomes more convincing when recognition helps without conferring complete understanding.
 3. **Differentiate the repair chapters.** Chapters 22–25 repeat extended confession followed by a receptive listener. Vary interruption, refusal, timing and unresolved consequences. Dawn, Meera, Ben and Claire need needs beyond facilitating the protagonist's growth.
-4. **Earn the final revelation.** Address Michael's withheld illness knowledge and Kate's delayed announcement together. Physical foreshadowing, viewpoint fairness and the logistics of disclosure are separate problems.
+4. **Prepare Michael's illness fairly.** Chapter 27 now resolves Kate's delayed announcement and gives the gathering a clear purpose. Chapter 25 still needs to reconcile Michael's intimate retirement thoughts with his knowledge of his illness; physical foreshadowing alone does not resolve that viewpoint question.
 5. **Make precision reliable.** Repeated exact minutes, percentages and sums invite checking. Correct contradictions, and remove unnecessary precision where it adds no character or tension.
 
-**Suggested revision order:** 12; 26–27 and 25 together; 8 and 20; 10; 15–16 and 22 together; then the remaining chapters. Chapter 14 is the best current model for reciprocal vulnerability without a tidy solution.
+**Suggested revision order:** 12; 25–26; 8 and 20; 10; 15–16 and 22 together; then the remaining chapters. Chapter 14 models reciprocal vulnerability; the rewritten chapter 27 models emotional payoff through action. Chapter 27 now needs only minor refinement toward 9.5.
 
 ## Internal consistency fixes
 
@@ -219,8 +222,8 @@ These are manuscript comparisons, not external fact-checks. Items requiring inte
 | 2, 5 | **Sequence question:** the fix branch is eleven days old, but the notebook has been unopened for eighteen days, although Alex writes in it after making the fix in 2. Mark any intended time shift. |
 | 4–5 | **Knowledge question:** Nik already budgets £1,140 for school in 4; clarify why the increase to that amount is presented as news in 5. |
 | 18 | **Calculation/sequence questions:** explain the £2,100 recovered from the school cancellation, and reconcile four completed hotel nights with Thursday arrival and Sunday action. |
-| 21, 27 | **Standings question:** reconcile an ordinary 4/7 with fourth place out of 176, or clearly identify the latter as embellishment. |
 | 23 | **Household context:** explain why a family paying rent carries the stated boiler-replacement exposure. |
-| 26–27 | **Motivation and timing:** invitation calls occur roughly two weeks before the gathering; the invitation is for six, Kate arrives at 7:03, and only then discloses Michael's death. Supply the missing character logic. |
+
+**Resolved in the chapter 27 rewrite:** Nik now reports four points from seven games, consistent with chapter 21. Kate calls back with the news the same Thursday, arranges Claire's attendance the following day, and arrives at six. Alex correctly recalls moving the flip chart himself, and Claire no longer attributes an unrecorded question to Danny during Michael's recital-night account.
 
 The 9+ target is achievable through focused revision. Preserve the particulars—the extractor, lunchbox, suitcase, sticker, chessboard, waveform and radiator chair—and let them carry more of the meaning.
