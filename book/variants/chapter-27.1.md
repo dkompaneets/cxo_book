@@ -1,384 +1,286 @@
 # 27. Friday
 
-Nik got there first, twenty minutes early, having walked round Liverpool Street in the cold rather than go in twenty-five minutes early.
+Nik got there first, at ten to six, having left Guildford absurdly early and walked round Liverpool Street for forty minutes in the cold rather than be late.
 
-The Fen was on a corner off Sun Street, old in the real way and not the decorated way: dark wood gone darker, a fire that worked, a floor that sloped. He took the table beside the fire. Four chairs.
+The Fen was on a corner off Sun Street, old in the real way and not the decorated way: dark wood gone darker, a fire that worked, a floor that sloped. He took the table beside it, a table for four, and hung his coat over one of the chairs. The wine list started at £28 and stopped at £140. He ordered a pint at £6.80, worked out that four rounds across three people came to something over eighty quid, and then put the sum down, which was new, and did not pick it up again for nearly an hour, which was newer.
 
-Kate had rung him back the same Thursday, after speaking to Michael's daughter. He had died the week before. He had known he was ill when they met in July. Nik had stood in his kitchen with the phone against his ear and watched Meera stop washing a plate.
-
-The next day Kate rang again. Claire wanted to meet them. Was that all right?
-
-He had said yes, and since then had tried several times to remember the last thing he had said to Michael.
-
-He ordered a pint. £6.80. The wine list started at £28 and stopped at £140. He put it back behind the salt.
-
-Alex came in a few minutes later.
-
-He came in fast, already apologising to somebody by the door, headphones round his neck. Then he saw Nik, and stopped. Nik stood up too quickly and caught the table. Alex said "*mate*" in a voice with nothing guarded in it, and they did not shake hands. They did the other one, the hard brief clasp with a hand on the shoulder, and sat down embarrassed and enormously pleased.
-
-For a moment the pleasure was all there was.
-
-"You look—"
-
-"Yeah. You too."
-
-Alex took the headphones off and put them in his bag.
-
-"Did you win, in the end? The chess."
-
-"Four out of seven. Lost the last one."
-
-"Sorry."
-
-"It was a good game."
-
-Alex looked at him.
-
-"It was," said Nik, and found himself smiling. "I went for something. It didn't work."
-
-They got another pint. Alex told him about the meeting with Ben, the room without laptops, making himself finish.
-
-"Once, slowly."
-
-Nik put his glass down.
-
-"Your dad. I've been using that. Ask Meera. She does a finger."
-
-"I know," said Alex. "I gave it to you. You gave it back."
-
-Under the floor a cellar cooler cut in.
-
-"I had his number," Alex said.
-
-Nik waited.
-
-"Michael's. He left me a message in September. I was going to ring when I had something to tell him about the bank."
-
-"I know."
-
-"Then Kate rang, and I said I'd come, and I still didn't ring him. There was an hour. Before she called back."
-
-Nik moved his glass away from the edge of the table.
-
-"He'd already died, Alex."
-
-"Yeah," said Alex. "I know."
-
----
-
-Kate arrived at six. She put her bag on the floor, sat down and took off her coat.
-
-"Claire's still coming. Half seven."
-
-"Does she know about the last night?" Nik asked.
-
-"I told her we'd had a row."
-
-"What did she say?"
-
-"That sounded like him."
-
-Alex let out a breath that was almost a laugh.
-
-They talked about work. It was easy to begin. Alex had a problem with a customer who wanted to buy something that did not exist; Nik had a publisher who believed that saying a date with sufficient confidence would cause it to arrive. Kate asked a question, and another, and reached for a pen.
-
-She found it in the side of her bag. Held it for a moment. Put it on the table without taking the cap off.
-
-"Sorry," she said.
-
-"No, it's a good question," said Alex.
-
-She left the pen there. They went on talking.
-
-At seven the pub began to fill. Nik went to the bar and came back with drinks and a bowl of chips nobody had asked for. They ate them. Kate got salt on her sleeve.
-
----
-
-Claire came in with her coat fastened wrong, one button higher on one side. She was halfway across the room when she noticed, and stopped to undo it.
-
-Kate stood.
-
-"Claire."
-
-They shook hands, all three of them, awkwardly around the table. Nik took his coat off the fourth chair.
-
-"Lime and soda, please. And could somebody tell me where the loos are before we do any of this? I've been in traffic since Finchley."
-
-Alex pointed. She went, leaving her bag beside the chair.
-
-When she came back the drink was waiting. She took a long mouthful.
-
-"Right."
-
-She looked from one to another.
-
-"I know you had a row."
-
-Kate nodded.
-
-"You don't have to give me the nice version because he's dead. I've had three weeks of people telling me how generous he was with his time."
-
-She picked a grain of salt off the table.
-
-"He was, with them. I'm glad he was. It's just been quite a lot to hear."
-
-Nobody supplied an answer.
-
-"He told me he'd tell me about that weekend. On my porch, after Iris's recital. He said a great many things had happened to him at that hotel." She smiled briefly. "He said it as though he might have been arrested."
-
-"He nearly went through the roof door," said Kate. "It opened outwards. We were all standing too close."
-
-Claire looked at her.
-
-"Yes. He'd have blamed the door."
-
-"He did."
-
-She smiled again, properly this time.
-
-"Then he spent the next few weeks in my kitchen. Sam's homework. A shelf in the hall that didn't need doing. I kept thinking I'd ask him, and there was always something happening." Her thumb ran up the wet side of the glass. "So. What happened?"
-
-Alex said, "There was a thing at his bank."
-
----
-
-He began with the ledger, because he knew where to begin with the ledger.
-
-Two systems, recording payments differently. People trying to make the records agree. Michael knew what had been built, and why, and which bits nobody wanted to change.
-
-"I got the flip chart. There was one in the business centre. I asked if I could ask him a dozen questions, and he said nobody had asked him a dozen questions in a row since 2013."
-
-"That sounds like him."
-
-"He knew all of it. I kept asking questions and he kept answering them. Then I asked which clock the gateway used, and he said he didn't know."
-
-Alex stopped to move a glass out of the space his hands needed.
-
-"That's quite unusual. Somebody that senior just saying they don't know. Usually you have to go round it for a while."
-
-Claire was watching his hands.
-
-"We were there for hours. He didn't understand all of it. He told me when he didn't."
-
-"Was he any use?"
-
-"Oh, God, yes."
-
-She sat back a little.
-
-"He asked what I charged," Alex said. "At the end."
-
-"What did you say?"
-
-"I didn't know what to say."
-
-The cooler stopped. Alex looked down at the space he had cleared on the table.
-
-"I'd spent months trying to get somebody to look at it. At what I actually do. He looked."
-
-"Envelopes," Claire said.
-
-"Sorry?"
-
-"He did all his sums on envelopes. My mother used to hide anything she wanted to keep."
-
-She looked at the cleared space between the glasses and smiled.
-
----
-
-"Did he talk about us?"
-
-"Constantly," Nik said.
-
-He had meant to say yes.
-
-He told her about the roof. Michael walking away to make his call, the phone against his ear, staying out there while the others went on talking. That much had happened. Nik remembered the shape of him beyond the extractor, his free hand in his pocket.
-
-"He was pleased," Nik said. "When he came back."
-
-He could not remember Michael coming back.
-
-And then he was telling her that Michael had called her the sensible one, that he had wondered where she got it from, and it came easily, with room for her to smile. The words fitted Michael's mouth so well that for a moment Nik could almost hear them.
-
-"He said that?"
-
-Nik looked at her.
-
-"Yes."
-
-"We used to have rows about that."
+In his coat pocket was a white king from the travel set, worn pale on one side by whoever had owned it before him. He did not take it out.
 
 He waited.
 
-"The sensible one. It usually meant I was going to understand why he couldn't come."
+Alex came in at four minutes past six.
 
-Kate looked down at her hands. Alex had gone very still.
+He came in the way he came into everywhere: fast, already apologising, scanning the room with the headphones round his neck. Then he saw Nik, and stopped, and neither of them managed the thing men do, the nod, the *all right*, the cool version. Nik stood up too fast and caught the table and Alex said "*mate*" in a voice with nothing guarded in it, and they did not shake hands, they did the other one, the hard brief clasp with a hand on the shoulder, and sat down embarrassed and enormously pleased.
 
-"I might have the words wrong," Nik said.
+"You look—"
 
-"No. Those are his words."
+"Yeah, you too. Did you win?"
 
-Claire lifted the glass and drank. Nik could see the wet mark it had left, a complete ring until he put his thumb through it.
+"No." Nik was grinning. "Four out of seven. Lost the last one in fifty-four moves. A draw was worth ninety pounds and I could see it. Eleven quid entry, two nights at forty-one, and a coffee in the atrium I still think about. So call it a hundred and thirty pounds to finish exactly where my rating said I would, which it told me for nothing."
 
-He did not offer another memory.
+"That's a business."
+
+"It's not a business. It's barely a hobby. Meera asked what the prize fund was and I said *there's a trophy*, and she said *is there*, and there wasn't."
+
+Alex laughed.
+
+Somewhere under the floor a cellar cooler cut in and ran.
+
+They had the hour before Kate, and they spent it the way you spend it with somebody you were honest with once, under strange conditions, and have not seen since. Quickly. Greedily. Facts first.
+
+Alex told him about Ben. About the meeting with no laptops. About *once, slowly.*
+
+Nik put his glass down.
+
+"That's — Alex, that's the thing your dad said. I've been using it. Four months. Ask Meera, she does a finger."
+
+"I know," said Alex. "I gave it to you. You gave it back."
+
+They sat with that for a second.
+
+Nik told him about the memo, and the number he had said out loud in his own kitchen, and the sambar with too much water, and Rohan pointing at the chair.
+
+"Did you work it out? Wilf's thing. What you were protecting."
+
+"The four seconds," said Nik. "When they haven't got it yet and they're deciding about you."
+
+Alex went still.
+
+"Yeah," he said. "That's mine too."
+
+"Where's Michael, anyway. He's usually holding court by now. He'll come in and there'll be a thing with the barman and we'll all end up—"
+
+The door went, and it was Kate.
+
+---
+
+A doorway on the far side of Sun Street, out of the rain. The window opposite, the fire, the table beside it, Nik on his own with his coat over a chair.
+
+She texted him. *Held up. There by seven.*
+
+Fifteen days. She had run the call on most of them. Nik in his kitchen with it. Alex on his own with it. Every version ended there. She could not make one end anywhere else.
+
+Alex came at four minutes past. Nik up too fast, catching the table. Then the two of them laughing, heads down, nobody watching the door.
+
+She stayed where she was.
+
+7:03. Rain on the coat. She did not sit down.
+
+They both knew. That was what she saw crossing the room, and it was almost the worst part. They stood up, smiling, ready to be glad, Nik already saying "Kate—", and she watched the smiles start to go as she got closer, because whatever was in her face was arriving ahead of her.
+
+"Sit down," she said. "Please."
+
+They sat.
+
+She stayed standing, with her hands on the back of the fourth chair.
+
+She said it the way Michael had taught her to say the thing they don't want to hear. Plainly. Once. No preamble to start them hoping in.
+
+"Michael died. Three weeks ago. I rang to ask him here and his daughter answered. He'd been ill over a year. He knew the whole time and he didn't tell anyone."
+
+Nobody said anything. The fire went on. Behind them a man laughed at another table, in another world.
+
+"She's coming," said Kate. "Claire. She asked if she could. I said yes."
+
+"Here?" said Nik.
+
+"Half seven."
+
+---
+
+Claire came in twenty minutes later and was easy to find, because there was nowhere else the three of them could have been sitting.
+
+She was forty or so, in a work coat buttoned one hole out, with the steadiness of someone who has been made to be steady. She shook hands with all three.
+
+"Where are the loos? Sorry. Before any of this. I've been in traffic since Finchley Road."
+
+Alex pointed. She went, and left her bag by the fourth chair, and Nik took his coat off the back of it and put it on his knees.
+
+When she came back the coat was buttoned right. She took the fourth chair, and nobody said anything about the fourth chair.
+
+"Thank you for letting me," she said. "I'll be an hour. I've got the car."
+
+"Can I get you—"
+
+"Lime and soda. Thanks."
+
+It came, and she turned it a quarter turn on the wood, and did not drink it.
+
+Under the floor the cooler ran and stopped.
+
+"I'll say why I'm here, or I'll sit being polite and then drive home." She looked at them. "He told me he'd tell me about that weekend. On my porch, in September. He said *a great many things happened to me at that hotel and I'll tell you all of them.* And then he didn't. He had eight weeks and he spent them on my kitchen and my son's homework and a shelf in the hall that didn't need doing." A breath. "So I've come to get it off you. If that's all right. I'd like to know what he was like. And you don't have to do the nice version because he's dead. I've had three weeks of people telling me how generous he was with his time. He was, with them. I'm glad he was. It's just been a lot of it."
+
+Alex said, "He was—"
+
+And it came, the way they came, sideways and complete, and he did not stop it, because he had been carrying it since July with nobody to hand it to.
+
+"So there's a bank, right, and under it there's a ledger from 1994, and the ledger is *beautiful*, thirty years old and it has never once lost a penny, and bolted on top there's a payments gateway from 2016 that thinks in milliseconds, and the two of them have been arguing about what happened first for a decade, and three consultancies went at the clocks and you can't fix the clocks, clocks lie, two cores in the same box don't agree what time it is and there's no fixing that, it's not a bug, it's the shape of the universe — and at one in the morning I just took the flip chart, I didn't even ask, I wheeled it round in front of him like it was mine, and he didn't tell me to go to bed, he sat in a plastic chair for hours and let me ask a dozen questions that were mostly stupid, and halfway through the third sheet he said *say that again, the bit about the pointer*, and I said it again, and he didn't draw a box round it, he didn't move it on, he just looked at it—"
+
+He stopped.
+
+"Sorry. That's not — you asked what he was like."
+
+"No," said Claire. "Go on."
+
+But it had gone. He sat in it with nothing arriving.
+
+The cooler cut in.
+
+"He was kind to me," Alex said. "And I was horrible to him."
+
+---
+
+Claire turned the glass another quarter.
+
+"Did he talk about us?"
+
+Nik heard it land. He heard where it landed and how far the drop was under it, and he had about a second and a half.
+
+"Constantly," he said.
+
+And he went. Warm, specific, unhurried, the way he had gone in rooms for twenty-six years. There had been a granddaughter and a piano, and that was true. There had been four seats and a boy who wouldn't sit, and that was true, Michael had said it on the roof with the phone held up in the dark. Then Nik was past the true part and still going. That Michael had talked about her. That he had said her name. That on the Friday night, on a roof in Birmingham with the aircraft going round over the airport, he had called his daughter the sensible one and wondered where on earth she'd got it from.
+
+He gave her eleven minutes of it.
+
+Alex, who had learned in a room called Riga to say the true thing once and slowly, opened his mouth, and looked at Nik, and shut it.
+
+Kate, who had been on the roof, said nothing at all.
+
+Claire listened to the whole of it with her hands flat either side of the glass.
+
+"The sensible one," she said.
+
+"Yes."
+
+"We used to have rows about that." She did not look up. "It meant I was going to understand why he couldn't come."
+
+Nobody said anything.
+
+"I might have the words wrong," said Nik.
+
+"No," said Claire. "Those are his words."
+
+Nik made a small movement with his head that was not quite a nod, and did not say anything else for some time, and nothing he said for the rest of the evening was funny.
 
 ---
 
 It was Alex who said there was a voicemail.
 
-"The one from September. You should have it."
+"He left it in September. It's forty seconds. You should have it, it's your—"
 
-"Yes," said Claire. "Please."
+"Please," said Claire.
 
-He put the phone flat on the wood between the glasses and turned it up as far as it went. The pub took most of it. There was a party of eight by the door, and somebody had put music on. What came through was the voice, and the warmth, and the timing, and then at the end, unmistakable:
+He put the phone flat on the wood between the glasses and turned it up as far as it went, and the pub took most of it. There was a party of eight by the door and somebody had put music on. What came through was his voice, and the warmth, and the timing, and then at the end, unmistakable, whole, over the top of everything:
 
 *I'd say don't let it go to your head, but I've met your head, so — too late. Goodbye.*
 
 You could hear him smiling. Pleased with it.
 
-Alex laughed. One short laugh, before he could do anything about it, and then he could not stop, and then it was not laughing. He put his hand over his eyes and left it there.
+Alex laughed. It came out of him before he could do anything about it, one short one, and then he could not stop, and then it was not laughing, and he put his hand over his eyes and left it there.
 
 Nobody told him it was all right.
 
-Claire sat looking at the dark phone.
+Claire sat looking at the dark phone on the table.
 
-"That's him," she said. "He does a joke at the end so you can't—"
+"That's him," she said. "That's exactly him. He does a joke at the end so you can't—"
 
-She reached for a paper napkin, changed her mind, then took it.
+She did not finish it.
 
 "Can you play it again?"
 
-Alex nodded. This time they bent closer.
+Alex played it again. They leaned in over the table. Claire put her hand flat on the wood beside the phone. The party by the door was louder now, and they got less of it than the first time.
 
-Afterwards Claire gave him her number and watched him send it. She waited until it arrived on her own phone.
+"Send it to me."
 
-"Thank you."
+She gave him her number and watched him do it, and did not look away until her own phone went in her coat.
 
-She put it away.
+She put her coat on the back of the chair properly, as though she had decided to stay a while longer, and did not stay.
 
-"He had a job with you, didn't he?"
+"He kept his phone on the table," she said. "From August. At meals, in the garden, everywhere, and he never did that, he hated people who did that. If it went he'd look at it and put it down again. I asked him twice what he was waiting for and he said *work*, and laughed, and I let him have it, because he'd just told me he was dying and you give a man the small ones."
 
-Kate looked up.
+She picked up the glass she had not drunk and put it down.
 
-"Four meetings a year and a telephone," Claire said.
+"He had a job at the end. Did you know that? Four meetings a year and a telephone."
 
-"Yes."
+Kate did not move.
 
-"He was terribly pleased about that."
-
-Kate picked up the pen, then set it down again.
-
-"I thought I'd ring when I had a proper question. He'd said he wasn't going to do reassurance. I kept hearing him say it."
-
-"Did you?"
-
-"No."
-
-Claire's eyes went to the pen.
-
-"He used to leave his phone on the table. From August. At meals, in the garden. Drove me mad. I'd spent years telling Danny to put his away, and then Dad started."
-
-"Was he waiting for—"
-
-"I don't know," said Claire. "He said work. He always said work."
-
-Kate sat back.
+"He was terribly pleased about it," said Claire.
 
 ---
 
-Claire ordered another lime and soda.
+Nobody said anything for a while.
 
-They told her about the lanyards, and Nik told her about Wilf, and Alex described his mother discovering that the hotel she had booked was in America. Claire laughed at that, and wanted to know what his father had said about the price.
+Then Claire said, "Can I ask you something. All of you. You don't have to answer."
 
-For a while they were noisy enough that the table beside them looked round.
+"Go on," said Nik.
 
-Then Claire's phone lit up. A photograph of Iris in pyjamas, holding something too close to the camera. She turned the screen towards them.
+"Why do you do it?"
 
-"A tooth. Apparently we needed photographic evidence."
+She said it without any weight on it, the way you ask when the trains are.
+
+"He told Danny what it cost. On the step, the night of the recital. Eleven minutes, and Danny told me, and I've watched it cost Danny, and I've watched what it cost my dad. And I'm sitting here with three more of you, and you've all just told me how much you liked him. So I'd like to know. Monday morning. Why."
+
+Kate answered first, because she answered things.
+
+"Because I can see it coming." She heard it. She let it stand. "Whatever it is. I can see it before anyone else in the building, and if I'm not there when it lands, it lands."
+
+"OK," said Claire.
+
+Nik turned his glass. "There's a school. There's a knee in Chennai. There's a boiler with four years in it." He stopped. "That's the version I give. There's a truer one that sounds worse."
+
+"Give me the truer one."
+
+"It's the only thing anyone's ever paid me for." He said it flat. "I'm forty-two. I don't know what I'd be on a Tuesday."
+
+Claire looked at Alex.
+
+This one he had. The only one all night.
+
+"Because in a room I'm a sentence behind," he said. "Always. Everyone's finished and I'm still coming. In the thing, I'm not. I'm ahead of it. It's the only place I'm ahead of anything." He stopped. "It's not the company. It's that."
+
+She sat with the three of them a moment longer.
+
+Her phone went. She looked at it, and turned it round to show them: Iris in pyjamas, holding something up too close to the lens.
+
+"A tooth," said Claire. "Apparently there has to be evidence."
 
 "Which one?" said Nik.
 
-"I can't tell. All I can see is her thumb."
+"I can't tell. It's mostly thumb." She typed something with one finger and put the phone away.
 
-She typed a reply. Put the phone away.
+"Danny said the mortgage," she said. "When I asked him. And then he told me what Dad had said to him on the step. Danny hadn't asked him anything. Dad just sat down and told him. *I was good at it. If I'd been worse at it I'd have been home.*" She turned the glass a last quarter. "Danny thought it was a joke. He was different for about a fortnight, after the step. Then he wasn't. He's on the phone at breakfast again." A breath. "I don't blame him. It's his job."
 
-"I should go. She'll try to stay up."
-
-But she remained sitting.
-
-"Danny talked to him that night. After the recital. On the step."
-
-Kate nodded.
-
-"Dad told him what it had cost. All the work. Danny came in afterwards and told me about it. He was quite upset."
-
-She folded the damp napkin once.
-
-"He was different for a bit. Came home. Put the phone away without being asked. I thought—"
-
-The folded edge would not stay down. She pressed it with a finger.
-
-"He's doing a difficult thing at work at the moment. They all are. Every time I ask him, there's a perfectly good reason."
-
-Nik opened his mouth.
-
-Claire saw him.
-
-"I don't need you to tell me what to say to him."
-
-He shut it.
-
-"Sorry," she said.
-
-"No. You're right."
-
-She looked at Alex.
-
-"Dad told him why he'd done it. All those years. He said, *I was good at it. If I'd been worse at it I'd have been home.*"
-
-A glass broke near the bar. Somebody cheered.
-
-"Danny thought it was a joke."
+She picked up her coat.
 
 ---
 
 She went a little after nine. Nik walked her to the corner.
 
-At the crossing she got her phone out again.
+At the crossing she took her phone out and looked at it under the light.
 
-"The message," she said. "That's saved, is it? If something happens to his number."
+"The message," she said. "That's on here now. Not just on Alex's."
 
-"Yes. You've got a copy."
+"It's on yours," said Nik.
 
 "Right."
 
-The light changed. She went across with the phone still in her hand.
+The lights changed. She went across with the phone still in her hand.
 
-Nik came back with his collar up. Kate had put her coat on. Alex was winding the headphone cable round his hand.
+Nik came back with his collar up.
 
-They settled the bill. Nik read the total and divided it by three. Kate put her card down, and then Alex, and then he did.
+They did not stay long after that. There was no version of staying that any of them could see the shape of. Alex said something about a train. Kate said something about a car. Nik went to the bar and paid for all of it, £94 and change, and did not mention it, and did not look at the total until he was outside.
 
-Outside, Kate said, "I'll write in the group."
+On the pavement Alex said, "I'll ring you."
 
-"Now," said Alex.
+"Yeah," said Nik.
 
-She looked at him.
-
-"Just put something in it now."
-
-She took out her phone. A few seconds later the other two phones sounded.
-
-*Text when you're home.*
-
-Nik looked at the four names above the message. Then he put his phone away.
-
-Kate's car came. They waited while she got in.
+They stood there a second. Then Kate's car came, and she got into it.
 
 ---
 
-The flat in Bow. The fridge was running.
+The flat in Bow. The compressor was in its four minutes.
 
-Alex rang at twenty-five to eleven. His father answered on the second ring.
+He rang at twenty-five to eleven, which was late for them, and it was answered on the second ring, which meant his father had been awake, in the dark, in the chair by the window, the way he was most nights and denied.
 
 "Alek."
 
@@ -386,35 +288,27 @@ Alex rang at twenty-five to eleven. His father answered on the second ring.
 
 "Something is wrong."
 
-"Yeah."
+"No. Nothing's wrong."
 
-He sat down at the kitchen table.
+The fridge ran.
 
-"A friend died."
+"I haven't got anything," Alex said. "I just rang."
 
-Marek was quiet for a while.
+There was a pause of about ten seconds, which on that line was nothing at all.
 
-"The man from the hotel?"
-
-"Yeah."
-
-Alex could hear the television, very low. Then it stopped.
-
-"I haven't got anything else," he said. "I just wanted to ring."
-
-"Your mother is asleep," said Marek. "I am not. So."
+"OK," said Marek. "Your mother is asleep. I am not. So."
 
 ---
 
 In Watford, at the same hour, Danny was on the phone in the kitchen.
 
-Not a call. The thumbs, the screen lighting his face from underneath. A thread with nine people on it, and he was the ninth.
+Not a call. The other thing, the thumbs, the screen lighting his face from underneath. A thread with nine people on it, and he was the ninth.
 
-Claire came in with her coat still on.
+Claire came in from the car with her coat still on and stood in the door.
 
-He looked up, smiled, and held up one finger.
+He looked up, and smiled, and held up one finger.
 
-She put her keys on the table.
+She waited.
 
 Sam was on the stairs behind her, in pyjamas, six years old, awake because of a plan. He watched his father hold up the finger. He watched his mother wait.
 
